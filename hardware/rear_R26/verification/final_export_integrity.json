@@ -1,0 +1,280 @@
+{
+  "version": "R26",
+  "zip_crc_pass": true,
+  "schematic_pages": [
+    {
+      "name": "01_USB_Power",
+      "all_circuit_records_unchanged": true,
+      "only_normalized_fields": "titleblock e0 instance ID and Device/Symbol references"
+    },
+    {
+      "name": "02_ESP32S3_BLE_USB",
+      "all_circuit_records_unchanged": true,
+      "only_normalized_fields": "titleblock e0 instance ID and Device/Symbol references"
+    },
+    {
+      "name": "03_GSR_AFE_ADC",
+      "all_circuit_records_unchanged": true,
+      "only_normalized_fields": "titleblock e0 instance ID and Device/Symbol references"
+    },
+    {
+      "name": "04_Sensors",
+      "all_circuit_records_unchanged": true,
+      "only_normalized_fields": "titleblock e0 instance ID and Device/Symbol references"
+    },
+    {
+      "name": "05_Status_Debug",
+      "all_circuit_records_unchanged": true,
+      "only_normalized_fields": "titleblock e0 instance ID and Device/Symbol references"
+    }
+  ],
+  "symbol_checks": [
+    {
+      "source_sheet": "SHEET/827b33cb31db41b6/1.esch",
+      "old": "63e1d0522926698f",
+      "new": "5cc09b29c75cd2c9",
+      "normalized_symbol_identical": true
+    },
+    {
+      "source_sheet": "SHEET/827b33cb31db41b6/2.esch",
+      "old": "f085fd99181cc8bc",
+      "new": "f085fd99181cc8bc",
+      "normalized_symbol_identical": true
+    },
+    {
+      "source_sheet": "SHEET/827b33cb31db41b6/3.esch",
+      "old": "170c8b2142933154",
+      "new": "f76cb03a2213eff9",
+      "normalized_symbol_identical": true
+    },
+    {
+      "source_sheet": "SHEET/827b33cb31db41b6/4.esch",
+      "old": "c3e9cdcdd120a632",
+      "new": "52b07e47800aa19a",
+      "normalized_symbol_identical": true
+    },
+    {
+      "source_sheet": "SHEET/827b33cb31db41b6/5.esch",
+      "old": "c5e243eb8ae60901",
+      "new": "8cf9331a2eb29b2b",
+      "normalized_symbol_identical": true
+    }
+  ],
+  "footprints": [
+    {
+      "uuid": "a1d53443ca51023a",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "830a4780dc988c45",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "4f253c2686ee08f1",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "5f4d9360a2044898b21d9b81f3d54f02",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "2a8415af8c9312b2",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "e0734db6dd5c454bbc94ee0b9480ad21",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "0f0217c02f9049f3bb9c9a059ab01c2b",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "d657565d4dfb3fa3",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "f3278f4c523c3cb0",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "2e23745b32f000c6",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "b08aebe3cf8c738e",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "149055045a55f138",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "4b8d1866fd0afe75",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "4a14c73ca3c124ea",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "087f072da93d228f",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "b2ad6e9171815181",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "075fe03f86d466d0",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "8d241f873d2512a0",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "949e4d8c6ee49d5f",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "b10d3c36055b1184",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "3fcfe761e9918425",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "5b4d55e7a5c5b577",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "88c8a7897649fef7",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "fb8c5f45daa03ba5",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "3b45c9231575a84b",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "4d57fd2c087faba9",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "f527cf9390e7a21d",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "7e8f4f006ac27bb4",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "2172d5968df2e157",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "07b2898bacba19a7",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "5bc9d3fdac3c2129",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "58e8d7290155cd55",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "7854a4abad619570",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "3a32f483fbfa364b",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "73f8d8db33628870",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "d12fe53671f29d3d",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "e60bf99a712ea6cf",
+      "byte_identical_R25": true
+    },
+    {
+      "uuid": "aa5b0ed028cb0015",
+      "byte_identical_R25": true
+    }
+  ],
+  "package_libraries": {
+    "symbols": {
+      "expected": 65,
+      "missing": []
+    },
+    "footprints": {
+      "expected": 38,
+      "missing": []
+    }
+  },
+  "notes": [
+    "Generated titleblock IDs and border-group IDs are normalized only after complete symbol content comparison. All five circuit sheets unchanged.",
+    "Historical Front_Optical export UUID regenerated but all records identical; excluded from manufacturing.",
+    "All 38 footprint files are byte-identical to R25, preserving native silk fixes and pad geometries.",
+    "Moved aperture positions checked in final_all_pad_CAM_validation; labels rechecked in final_silk_complete_validation."
+  ],
+  "common_symbols_normalized_identical": 61,
+  "sheet_symbol_references_missing": [],
+  "historical_front_board": {
+    "old_uuid": "335f0c8718638541bf0b80746f97482f",
+    "new_uuid": "61e8fcbe35f5cea82b9d9253235f32b0",
+    "all_records_identical": true,
+    "manufacture": false
+  },
+  "board_outline_CAM_unchanged": true,
+  "silk_mask": {
+    "Top": {
+      "minimum_silk_to_mask_mm": 0.17197840934068703,
+      "overlap_mm2": 0.0
+    },
+    "Bottom": {
+      "minimum_silk_to_mask_mm": 0.17198409599815304,
+      "overlap_mm2": 0.0
+    }
+  },
+  "paste": {
+    "DNP_PCB_ONLY_no_paste_pads": 37,
+    "all_forbidden_pass": true,
+    "U101_exposed_pad": [
+      {
+        "ref": "U101",
+        "pad": "11",
+        "layer": 2,
+        "assembly": "FIT",
+        "copper_missing_core_mm2": {
+          "2": 0.0
+        },
+        "mask_missing_core_mm2": {
+          "b": 0.0
+        },
+        "paste_mm2": {
+          "b": 1.1615291448060014
+        },
+        "paste_percent": {
+          "b": 86.0541730093036
+        },
+        "paste_required": true,
+        "paste_forbidden": false,
+        "pass": true
+      }
+    ]
+  },
+  "all_checks_pass": true
+}

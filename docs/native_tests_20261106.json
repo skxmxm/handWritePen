@@ -1,0 +1,32 @@
+[
+  {
+    "test": "startup_lights",
+    "returncode": 0,
+    "output": "PASS: steady startup, service readiness gate, synchronous 10 cycles / 5 seconds, normal handoff, delayed initialization and timer rollover."
+  },
+  {
+    "test": "gsr_gate",
+    "returncode": 0,
+    "output": "PASS: GSR gates, USB/release/link inhibition, exact boundaries, ADC faults, stale data, rollover, and retained fault reason/phase/voltage."
+  },
+  {
+    "test": "pen_position",
+    "returncode": 0,
+    "output": "PASS: continuous optical position and atomic overflow rejection"
+  },
+  {
+    "test": "battery_window",
+    "returncode": 0,
+    "output": "PASS: battery window baseline age, sample freshness, no pre-ON samples, minimum retention, release, deep sag, counter saturation and timer rollover."
+  },
+  {
+    "test": "jy901_parser",
+    "returncode": 0,
+    "output": "PASS: signed angles, accel/gyro scales, checksum rejection, fragmentation, resync, reset."
+  },
+  {
+    "test": "ads_pair",
+    "returncode": 0,
+    "output": "PASS: ADS1115 config/scales, complete pairs, signed data, I2C/config/timeout faults and retry."
+  }
+]

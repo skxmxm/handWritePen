@@ -1,0 +1,118 @@
+{
+  "version": "v0.5",
+  "units": "mm",
+  "length": 206.0,
+  "grip_diameter": 11,
+  "rear_width": 28.4,
+  "rear_height": 14,
+  "refill_body_diameter_assumed": 6.0,
+  "refill_length_assumed": 67,
+  "body_bore_diameter": 8,
+  "front_guide_diameter": 6.6,
+  "tip_exit_diameter": 3.2,
+  "mid_wall_nominal": 1.5,
+  "wire_groove_min_wall": 1.2,
+  "nose_max_diameter": 13,
+  "rear_seat_outer_diameter": 13,
+  "male_thread_part": "01_one_piece_barrel",
+  "female_thread_part": "02_threaded_nose",
+  "male_root_wall": 1.2,
+  "thread_type": "custom right-handed trapezoidal; not ISO metric",
+  "thread_pitch": 1.6,
+  "thread_major_diameter": 10,
+  "thread_root_diameter": 9,
+  "thread_radial_clearance": 0.25,
+  "thread_axial_flank_allowance": 0.2,
+  "nose_socket_min_wall": 1.25,
+  "snap_beam_length": 14,
+  "snap_beam_thickness": 0.9,
+  "snap_required_deflection_nominal": 0.65,
+  "snap_effective_free_length": 12.8,
+  "snap_strain_beam_estimate": 0.005355834960937499,
+  "window_opening": [
+    15.6,
+    14.6
+  ],
+  "window_gap": 6.5,
+  "optical_Z0": null,
+  "optical_center_uv": [
+    3.0,
+    17.5
+  ],
+  "optical_axis_pen_angle": 35,
+  "refill_note": "User: ordinary M&G black gel refill; exact SKU and mechanical dimensions unknown.",
+  "rear_side_pocket_width_total": 34.7,
+  "pcb_origin_x": 128.0,
+  "pcb_FR4": [
+    70,
+    24,
+    1
+  ],
+  "pcb_assembled_length": 75,
+  "battery": [
+    36,
+    12,
+    6
+  ],
+  "battery_placement": "serial: battery ahead of rear board, no overlap in X",
+  "battery_origin_x": 84.0,
+  "battery_bottom_z": -3.9,
+  "rear_body_z_range": [
+    -6,
+    8
+  ],
+  "rear_transition_z_range": [
+    -8.2,
+    8.2
+  ],
+  "rear_inner_height": 10.8,
+  "optical_board": [
+    14,
+    15,
+    1.6
+  ],
+  "optical_board_thickness_status": "assumed, not vendor-confirmed",
+  "optical_components_status": "approximate XY/heights, not vendor drawing",
+  "optical_PCB_paper_facing_surface": 8.5,
+  "sensor_front_paper_gap_assumed": 7.5,
+  "rear_pcb_thickness_status": "design target 1.0 mm",
+  "wire_bundle_max_mm": [
+    1.0,
+    5.0
+  ],
+  "wire_duct_clear_mm": [
+    1.3,
+    5.5
+  ],
+  "wire_duct_refill_separator_mm": 0.8,
+  "wire_duct_outer_wall_mm": 1.2,
+  "wire_single_insulation_OD_max_mm": 1.0,
+  "grip_local_width_with_rib_mm": 12.25,
+  "battery_cradle_clear_mm": [
+    37.6,
+    13.0
+  ],
+  "battery_bottom_pad_mm": 0.5,
+  "battery_size_source": "user seller photo, 2026-10-29, includes protection assumed; not caliper measurement",
+  "switch_model": "EVQQ2B03W",
+  "switch_body_mm": [
+    6.5,
+    6.0,
+    1.8
+  ],
+  "switch_total_height_mm": 3.1,
+  "switch_height_tolerance_mm": 0.2,
+  "switch_cavity_yz_mm": [
+    6.5,
+    7.0
+  ],
+  "switch_cavity_axial_mm": 2.0,
+  "plunger_nominal_length_mm": 3.4,
+  "plunger_optional_lengths_mm": [
+    3.2,
+    3.6
+  ],
+  "plunger_hard_stop_travel_mm": 0.3,
+  "switch_operating_travel_nominal_mm": 0.2,
+  "fasteners": "pod M1.6x3 x2; bracket M2x6 x2 + M2 nuts x2; rear shell snap-fit"
+}

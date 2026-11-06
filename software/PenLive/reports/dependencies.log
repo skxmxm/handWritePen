@@ -1,0 +1,27 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting bleak==0.22.3
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/0a/ce/3adf9e742bb22e4a4b3435f24111cb46a1d12731ba655ee00bb5ab0308cc/bleak-0.22.3-py3-none-any.whl (142 kB)
+Collecting pyobjc-core<11.0,>=10.3 (from bleak==0.22.3)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/13/89/8808fe75efb03b29e082f9d12da31d55d5be3f55260c7b4e4cde7ebf81af/pyobjc_core-10.3.2-cp312-cp312-macosx_10_13_universal2.whl (826 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 826.0/826.0 kB 6.7 MB/s eta 0:00:00
+Collecting pyobjc-framework-CoreBluetooth<11.0,>=10.3 (from bleak==0.22.3)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/e9/10/d9554ce442269a3c25d9bed9d8a5ffdc1fb5ab71b74bc52749a5f26a96c7/pyobjc_framework_CoreBluetooth-10.3.2-cp36-abi3-macosx_11_0_universal2.whl (13 kB)
+Collecting pyobjc-framework-libdispatch<11.0,>=10.3 (from bleak==0.22.3)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/e0/e9/8e364765ccb1f3c686d922e2512499f2b4e25bfbfa5d73e833478bff88b5/pyobjc_framework_libdispatch-10.3.2-cp312-cp312-macosx_10_13_universal2.whl (15 kB)
+Collecting pyobjc-framework-Cocoa>=10.3.2 (from pyobjc-framework-CoreBluetooth<11.0,>=10.3->bleak==0.22.3)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/ea/44/98d626726809da517c757d77e2888d34eaf758ebad908effb8d0b60c8118/pyobjc_framework_cocoa-13.0-cp312-cp312-macosx_10_13_universal2.whl (391 kB)
+INFO: pip is looking at multiple versions of pyobjc-framework-cocoa to determine which version is compatible with other requirements. This could take a while.
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/fd/2f/b67e73d8bc367e03fe7861cd9c49fff9dcfa6db83bc0630c0adcfb25b7fa/pyobjc_framework_cocoa-12.2.2-cp312-cp312-macosx_10_13_universal2.whl (388 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/f7/cf/1b3b32b2f28f66cc053c3438ef4e6df36a1591945bf05e7399da18d74553/pyobjc_framework_cocoa-12.2.1-cp312-cp312-macosx_10_13_universal2.whl (388 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/30/66/5a91f2eddfced4f26bc2df2bcebb7f5f10c5bf5666aff6fa00ded845af07/pyobjc_framework_cocoa-12.2-cp312-cp312-macosx_10_13_universal2.whl (388 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/95/bf/ee4f27ec3920d5c6fc63c63e797c5b2cc4e20fe439217085d01ea5b63856/pyobjc_framework_cocoa-12.1-cp312-cp312-macosx_10_13_universal2.whl (384 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/18/76/ee7a07e64f7afeff36bf2efe66caed93e41fcaa2b23fc89c4746387e4a0d/pyobjc_framework_cocoa-12.0-cp312-cp312-macosx_10_13_universal2.whl (384 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/68/da/41c0f7edc92ead461cced7e67813e27fa17da3c5da428afdb4086c69d7ba/pyobjc_framework_cocoa-11.1-cp312-cp312-macosx_10_13_universal2.whl (388 kB)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/5b/8d/0e2558447c26b3ba64f7c9776a5a6c9d2ae8abf9d34308b174ae0934402e/pyobjc_framework_Cocoa-11.0-cp312-cp312-macosx_10_13_universal2.whl (385 kB)
+INFO: pip is still looking at multiple versions of pyobjc-framework-cocoa to determine which version is compatible with other requirements. This could take a while.
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/22/fc/496c6ce1386f93d22d9a1ee1889215ed69989d976efa27e46b37b95a4f2d/pyobjc_framework_Cocoa-10.3.2-cp312-cp312-macosx_10_13_universal2.whl (381 kB)
+Installing collected packages: pyobjc-core, pyobjc-framework-Cocoa, pyobjc-framework-libdispatch, pyobjc-framework-CoreBluetooth, bleak
+Successfully installed bleak-0.22.3 pyobjc-core-10.3.2 pyobjc-framework-Cocoa-10.3.2 pyobjc-framework-CoreBluetooth-10.3.2 pyobjc-framework-libdispatch-10.3.2
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /Users/zjq/Suanni/项目/手写笔/software/PenLive/.venv/bin/python -m pip install --upgrade pip

@@ -1,0 +1,83 @@
+{
+  "steps": [
+    {
+      "script": "/Users/zjq/Suanni/\u9879\u76ee/\u624b\u5199\u7b14/hardware/pcb/rear_mainboard/restore_esp32/layout_r26/final_copper_audit.py",
+      "returncode": 0,
+      "seconds": 1.8046882152557373
+    },
+    {
+      "script": "/Users/zjq/Suanni/\u9879\u76ee/\u624b\u5199\u7b14/hardware/pcb/rear_mainboard/restore_esp32/routing_review/release/verify_all_pad_cam.py",
+      "returncode": 0,
+      "seconds": 4.416720151901245
+    },
+    {
+      "script": "/Users/zjq/Suanni/\u9879\u76ee/\u624b\u5199\u7b14/hardware/pcb/rear_mainboard/restore_esp32/layout_r26/final_critical_paths_usb.py",
+      "returncode": 0,
+      "seconds": 5.453636884689331
+    },
+    {
+      "script": "/Users/zjq/Suanni/\u9879\u76ee/\u624b\u5199\u7b14/hardware/pcb/rear_mainboard/restore_esp32/layout_r26/sharp_audit.py",
+      "returncode": 0,
+      "seconds": 0.13125991821289062
+    },
+    {
+      "script": "/Users/zjq/Suanni/\u9879\u76ee/\u624b\u5199\u7b14/hardware/pcb/rear_mainboard/restore_esp32/layout_r26/final_electrical_validate.py",
+      "returncode": 0,
+      "seconds": 0.4825568199157715
+    }
+  ],
+  "source_hashes_before": {
+    "final_pcb.json": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+    "final.epcb": "2084b7d1679660983e0aba47732dc202a9a4d21de6be4fd8f3032b068aedf13d",
+    "final_native.zip": "cb2dc0239f3795e9e0eb28c82b485480c3a45c57e0289df6f4cfc57a33633a77",
+    "Rear_ESP32S3_R26.epro": "94c581d00881a50d9d480f48da7cbc3cddc21054f8db267162a087efbe41d56c",
+    "final_DRC.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "final_gerber/Gerber_TopSilkscreenLayer.GTO": "10fb42da2e12306a0f04f58aae708cd43d26751d54c7681b598ed35bdb32907e",
+    "final_gerber/Gerber_BottomLayer.GBL": "b664eacad22d0b45618852cdf26e3e4c2a866b3dfa1b5b654b0f48e3cf6d9ab5",
+    "final_gerber/Gerber_BottomSolderMaskLayer.GBS": "dccbc425961cccbcd9c9ff7e258c3fa9bce19e43007a84f10595a52816a61394",
+    "final_gerber/Gerber_TopLayer.GTL": "0b288af4709f002be786d77b5b22946467457d2a7a0f58b7e2b926d9c942f400",
+    "final_gerber/Drill_NPTH_Through.DRL": "700a93500f6aaefc7c0467d619d1bd30aaec815eb1d7abc2f7ebca557ae86549",
+    "final_gerber/Gerber_BoardOutlineLayer.GKO": "68ef50d8a890a4b910eeff0a7e0b382433a7ad78a579c802d2dbac6fe2b7d613",
+    "final_gerber/Drill_PTH_Through_Via.DRL": "2f1db70a11d8658efcd4c5930293c8ab066eb583df62e152e419f2afe808eae4",
+    "final_gerber/Gerber_TopPasteMaskLayer.GTP": "d74ef92fd987bdd7a629817b09ef14b1a40e3bb6d522d8de63658cce72ffc9de",
+    "final_gerber/Drill_PTH_Through.DRL": "d7c91d180f40f800281ccf39329b8d3ff0feca16bd175d4bdff5b274ec9094d0",
+    "final_gerber/Gerber_TopAssemblyLayer.GTA": "eabc5d9408f03c23e527ca6c89541056fbdc0d51025dbaab5c744768aed9a1ad",
+    "final_gerber/FlyingProbeTesting.json": "3cc7257afc11a4f5e724eb4fc74d83b854b4cf618fe9e28eee946795f110c083",
+    "final_gerber/Gerber_BottomSilkscreenLayer.GBO": "914261a029c4cf72c323957b9b21578c17d3561a09e1182c70d6c84b303fe37c",
+    "final_gerber/Gerber_DocumentLayer.GDL": "22b09141c66d0aa67d185493af6ad88ffc3636f4f986874c143a2e45f208ea99",
+    "final_gerber/Gerber_TopSolderMaskLayer.GTS": "19fc920278bc11cb481c76418c6260bfa3db4b0ea2fe49dc070e92dacec3cf48",
+    "final_gerber/Gerber_BottomAssemblyLayer.GBA": "8279055efd82d05c9b86671ed9a53f684b6383cd5290b7689069c706b2158ac6",
+    "final_gerber/Gerber_BottomPasteMaskLayer.GBP": "8132e30a39aa84b65f4787164f3c719ca2b441b8dd2d18f151549a440b967ba0",
+    "final_gerber/Gerber_InnerLayer2.G2": "9c8e9a311bcaeb71507cf72a77773fdf263c5829c58b632e0026a263afc76697",
+    "final_gerber/PCB\u4e0b\u5355\u5fc5\u8bfb.txt": "dcb3ee1c645c17a009d70726ad9ab708b68a074556fabcf75a4a059d3b43ec59",
+    "final_gerber/Gerber_InnerLayer1.G1": "f89b440a192f9799b113fb29be8169a1039e0b5e167d81a199ef4ce44bf6a2da"
+  },
+  "source_hashes_after": {
+    "final_pcb.json": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+    "final.epcb": "2084b7d1679660983e0aba47732dc202a9a4d21de6be4fd8f3032b068aedf13d",
+    "final_native.zip": "cb2dc0239f3795e9e0eb28c82b485480c3a45c57e0289df6f4cfc57a33633a77",
+    "Rear_ESP32S3_R26.epro": "94c581d00881a50d9d480f48da7cbc3cddc21054f8db267162a087efbe41d56c",
+    "final_DRC.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "final_gerber/Gerber_TopSilkscreenLayer.GTO": "10fb42da2e12306a0f04f58aae708cd43d26751d54c7681b598ed35bdb32907e",
+    "final_gerber/Gerber_BottomLayer.GBL": "b664eacad22d0b45618852cdf26e3e4c2a866b3dfa1b5b654b0f48e3cf6d9ab5",
+    "final_gerber/Gerber_BottomSolderMaskLayer.GBS": "dccbc425961cccbcd9c9ff7e258c3fa9bce19e43007a84f10595a52816a61394",
+    "final_gerber/Gerber_TopLayer.GTL": "0b288af4709f002be786d77b5b22946467457d2a7a0f58b7e2b926d9c942f400",
+    "final_gerber/Drill_NPTH_Through.DRL": "700a93500f6aaefc7c0467d619d1bd30aaec815eb1d7abc2f7ebca557ae86549",
+    "final_gerber/Gerber_BoardOutlineLayer.GKO": "68ef50d8a890a4b910eeff0a7e0b382433a7ad78a579c802d2dbac6fe2b7d613",
+    "final_gerber/Drill_PTH_Through_Via.DRL": "2f1db70a11d8658efcd4c5930293c8ab066eb583df62e152e419f2afe808eae4",
+    "final_gerber/Gerber_TopPasteMaskLayer.GTP": "d74ef92fd987bdd7a629817b09ef14b1a40e3bb6d522d8de63658cce72ffc9de",
+    "final_gerber/Drill_PTH_Through.DRL": "d7c91d180f40f800281ccf39329b8d3ff0feca16bd175d4bdff5b274ec9094d0",
+    "final_gerber/Gerber_TopAssemblyLayer.GTA": "eabc5d9408f03c23e527ca6c89541056fbdc0d51025dbaab5c744768aed9a1ad",
+    "final_gerber/FlyingProbeTesting.json": "3cc7257afc11a4f5e724eb4fc74d83b854b4cf618fe9e28eee946795f110c083",
+    "final_gerber/Gerber_BottomSilkscreenLayer.GBO": "914261a029c4cf72c323957b9b21578c17d3561a09e1182c70d6c84b303fe37c",
+    "final_gerber/Gerber_DocumentLayer.GDL": "22b09141c66d0aa67d185493af6ad88ffc3636f4f986874c143a2e45f208ea99",
+    "final_gerber/Gerber_TopSolderMaskLayer.GTS": "19fc920278bc11cb481c76418c6260bfa3db4b0ea2fe49dc070e92dacec3cf48",
+    "final_gerber/Gerber_BottomAssemblyLayer.GBA": "8279055efd82d05c9b86671ed9a53f684b6383cd5290b7689069c706b2158ac6",
+    "final_gerber/Gerber_BottomPasteMaskLayer.GBP": "8132e30a39aa84b65f4787164f3c719ca2b441b8dd2d18f151549a440b967ba0",
+    "final_gerber/Gerber_InnerLayer2.G2": "9c8e9a311bcaeb71507cf72a77773fdf263c5829c58b632e0026a263afc76697",
+    "final_gerber/PCB\u4e0b\u5355\u5fc5\u8bfb.txt": "dcb3ee1c645c17a009d70726ad9ab708b68a074556fabcf75a4a059d3b43ec59",
+    "final_gerber/Gerber_InnerLayer1.G1": "f89b440a192f9799b113fb29be8169a1039e0b5e167d81a199ef4ce44bf6a2da"
+  },
+  "source_files_stable": true,
+  "all_pass": true
+}

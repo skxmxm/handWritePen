@@ -1,0 +1,13 @@
+{
+  "previous_full_redraw": {
+    "mean_ms": 28.48,
+    "p95_ms": 34.286,
+    "samples": 120
+  },
+  "incremental": {
+    "mean_ms": 7.97,
+    "p95_ms": 10.468,
+    "samples": 120
+  },
+  "scope": "macOS Tk, about 18000 retained points, fixed scale, includes update_idletasks; not actual BLE or display VSYNC"
+}

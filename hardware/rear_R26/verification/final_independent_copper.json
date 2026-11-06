@@ -1,0 +1,2532 @@
+{
+  "ground_groups": [
+    {
+      "group": 88,
+      "anchors": [
+        {
+          "kind": "pad",
+          "id": "d17e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d43e18",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d43e19",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d47e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d54e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d56e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d59e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d60e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d63e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d68e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d81e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d84e52",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d84e55",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d105e26",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d108e26",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e137",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "305709266cc6a03f",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "333edeec16020b48",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "372b5668cc61b076",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "45ad47dcb40b21cc",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "45cccfa6fb7e01f9",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "77733a50378960d6",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "00e05237e28fbf77",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "685f1f32953fc180",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "b7dfd593f725543d",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "d7cc2bef7af14c53",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V3",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "7734bc0f3cf670f5",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e53",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e59",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d3e11",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d7e17",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d16e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d23e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d34e1",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d34e2",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d34e3",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d65e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d74e18",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d118e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "a0d81a15527c43c3",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V1",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V2",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "eb1bfd2177200ba8",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V0",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e60",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d10e15",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "bf0ad54a40d7212f",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "a1a8522f23f70065",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "be08772c9da41f42",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d11e15",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "a20ff3dec30265c0",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V5",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d41e18",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d41e19",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "b34c6f7583ae0996",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "2719fc3f5b40e85f",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e57",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "2cdf913b158f6c65e16",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e118",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e119",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e138",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e140",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d120e14",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "7cf52afa6d6783b0",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e54",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d2e58",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e144",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e145",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e146",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e147",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e148",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e149",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V4",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "cac8abcfc1aa15f3",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "5a467d6a867f9e24",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e139",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "c7b8bea6454b5789",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "5b02d88815320fb1",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e77",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e122",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e123",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e124",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e125",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e126",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e127",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e128",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e129",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e130",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e131",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e132",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e133",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e134",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e135",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e136",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e141",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e142",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e143",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "d96ed21f37c5dc84",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d46e18",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "d4328ea9d72ab6d3",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "eb0052c9b29dee77e78",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "via",
+          "id": "bb7cfcf686b8d6fd",
+          "net": "GND",
+          "layer": 1
+        },
+        {
+          "kind": "pad",
+          "id": "d6e15",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d6e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d6e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d19e15",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d19e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d19e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d86e15",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d86e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d86e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "1e534ecfe57da343e26",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "1e534ecfe57da343e27",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "7734bc0f3cf670f5",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d88e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d89e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "1e534ecfe57da343e25",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "00e05237e28fbf77",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "d7cc2bef7af14c53",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d104e15",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "77733a50378960d6",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d12e15",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d18e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d20e14",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d27e14",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d28e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d49e34",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d50e10",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d50e12",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d53e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d57e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d70e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d72e14",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d93e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d94e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d103e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d112e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d115e17",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "a0d81a15527c43c3",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "372b5668cc61b076",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V1",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V2",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d52e21",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d52e22",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d61e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d83e6",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d83e7",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d83e8",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "45cccfa6fb7e01f9",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d14e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "eb1bfd2177200ba8",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d50e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d50e19",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d75e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d76e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "45ad47dcb40b21cc",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d0e28",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d0e34",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d2e58",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d2e59",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d4e14",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d9e14",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "333edeec16020b48",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "2719fc3f5b40e85f",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V0",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d2e60",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d15e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "a20ff3dec30265c0",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "a1a8522f23f70065",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d5e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "be08772c9da41f42",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d1e24",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d1e29",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d29e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d30e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "305709266cc6a03f",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "b34c6f7583ae0996",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V5",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d2e57",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d37e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d111e5",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "bf0ad54a40d7212f",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "d96ed21f37c5dc84",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "685f1f32953fc180",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "bb7cfcf686b8d6fd",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "b7dfd593f725543d",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V3",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "cac8abcfc1aa15f3",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "d4328ea9d72ab6d3",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d35e21",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "5a467d6a867f9e24",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d122e16",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "7cf52afa6d6783b0",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "c7b8bea6454b5789",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d48e18",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V4",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d111e7",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d111e8",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "via",
+          "id": "5b02d88815320fb1",
+          "net": "GND",
+          "layer": 2
+        },
+        {
+          "kind": "pad",
+          "id": "d2e57",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "pad",
+          "id": "d2e58",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "pad",
+          "id": "d2e59",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "pad",
+          "id": "d2e60",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "a0d81a15527c43c3",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "305709266cc6a03f",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "333edeec16020b48",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "372b5668cc61b076",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "45ad47dcb40b21cc",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "b34c6f7583ae0996",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "45cccfa6fb7e01f9",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "a20ff3dec30265c0",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "2719fc3f5b40e85f",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "bf0ad54a40d7212f",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "77733a50378960d6",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "00e05237e28fbf77",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "d96ed21f37c5dc84",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "685f1f32953fc180",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "bb7cfcf686b8d6fd",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "b7dfd593f725543d",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "5b02d88815320fb1",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "d7cc2bef7af14c53",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V0",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V1",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V2",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V3",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V4",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V5",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "c7b8bea6454b5789",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "cac8abcfc1aa15f3",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "5a467d6a867f9e24",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "7cf52afa6d6783b0",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "d4328ea9d72ab6d3",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "a1a8522f23f70065",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "eb1bfd2177200ba8",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "be08772c9da41f42",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "7734bc0f3cf670f5",
+          "net": "GND",
+          "layer": 15
+        },
+        {
+          "kind": "via",
+          "id": "77733a50378960d6",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "7734bc0f3cf670f5",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "00e05237e28fbf77",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "d7cc2bef7af14c53",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "372b5668cc61b076",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "45cccfa6fb7e01f9",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V0",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "333edeec16020b48",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "45ad47dcb40b21cc",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "eb1bfd2177200ba8",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "be08772c9da41f42",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V2",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V1",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "a1a8522f23f70065",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "pad",
+          "id": "d2e59",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "pad",
+          "id": "d2e60",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "a20ff3dec30265c0",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V5",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "305709266cc6a03f",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "b34c6f7583ae0996",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "2719fc3f5b40e85f",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "bf0ad54a40d7212f",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "a0d81a15527c43c3",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "pad",
+          "id": "d2e57",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "pad",
+          "id": "d2e58",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "7cf52afa6d6783b0",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "c7b8bea6454b5789",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "5a467d6a867f9e24",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "cac8abcfc1aa15f3",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V4",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "d96ed21f37c5dc84",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "bb7cfcf686b8d6fd",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "685f1f32953fc180",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "d4328ea9d72ab6d3",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "b7dfd593f725543d",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "5b02d88815320fb1",
+          "net": "GND",
+          "layer": 16
+        },
+        {
+          "kind": "via",
+          "id": "PwrPhase2V3",
+          "net": "GND",
+          "layer": 16
+        }
+      ],
+      "members": [
+        {
+          "index": 2,
+          "layer": 1,
+          "bounds": [
+            0.399999,
+            -11.6,
+            69.624963,
+            11.6
+          ],
+          "area_mm2": 577.0459500931478
+        },
+        {
+          "index": 59,
+          "layer": 1,
+          "bounds": [
+            30.0449945,
+            -6.3942619999999994,
+            49.490702,
+            3.932004
+          ],
+          "area_mm2": 40.412979773725134
+        },
+        {
+          "index": 88,
+          "layer": 1,
+          "bounds": [
+            36.353592,
+            -10.92996,
+            39.833670999999995,
+            -9.995040000000001
+          ],
+          "area_mm2": 2.1842367265894356
+        },
+        {
+          "index": 92,
+          "layer": 1,
+          "bounds": [
+            36.74094,
+            -7.571942,
+            37.617399999999996,
+            -6.928058999999999
+          ],
+          "area_mm2": 0.3445272106290134
+        },
+        {
+          "index": 99,
+          "layer": 1,
+          "bounds": [
+            39.429828,
+            -10.479961,
+            52.089289,
+            -5.820296000000016
+          ],
+          "area_mm2": 15.990088314514942
+        },
+        {
+          "index": 116,
+          "layer": 1,
+          "bounds": [
+            41.6500005,
+            -7.72606,
+            43.08435,
+            -5.545040999999999
+          ],
+          "area_mm2": 2.355260551379405
+        },
+        {
+          "index": 119,
+          "layer": 1,
+          "bounds": [
+            42.63136,
+            1.0116530000000001,
+            44.586858,
+            2.84425153262518
+          ],
+          "area_mm2": 1.662903430107543
+        },
+        {
+          "index": 132,
+          "layer": 1,
+          "bounds": [
+            44.16902464329337,
+            3.4361230000019742,
+            54.055223700941646,
+            5.886681
+          ],
+          "area_mm2": 9.500299362387262
+        },
+        {
+          "index": 135,
+          "layer": 1,
+          "bounds": [
+            47.043817662511785,
+            -6.731015307427028,
+            49.426061,
+            -5.473939
+          ],
+          "area_mm2": 1.2178268573895144
+        },
+        {
+          "index": 149,
+          "layer": 1,
+          "bounds": [
+            48.721291,
+            -11.6,
+            69.624963,
+            -3.48295800000907
+          ],
+          "area_mm2": 78.51822893496124
+        },
+        {
+          "index": 158,
+          "layer": 1,
+          "bounds": [
+            49.3501275,
+            0.3257136577420643,
+            54.521449,
+            4.543631999999991
+          ],
+          "area_mm2": 9.256771567573102
+        },
+        {
+          "index": 161,
+          "layer": 1,
+          "bounds": [
+            50.899995,
+            -6.3942619999999994,
+            53.57886199999975,
+            -2.48315
+          ],
+          "area_mm2": 4.60681146612653
+        },
+        {
+          "index": 178,
+          "layer": 1,
+          "bounds": [
+            55.773320000000005,
+            -6.39810914148075,
+            62.824977,
+            5.458670000000001
+          ],
+          "area_mm2": 55.08424595325479
+        },
+        {
+          "index": 189,
+          "layer": 1,
+          "bounds": [
+            54.824993,
+            6.599987,
+            56.975702,
+            8.265061000000001
+          ],
+          "area_mm2": 1.4879480918406631
+        },
+        {
+          "index": 191,
+          "layer": 1,
+          "bounds": [
+            56.873383000000004,
+            9.87394,
+            58.158671,
+            10.35496
+          ],
+          "area_mm2": 0.48871842974527063
+        },
+        {
+          "index": 198,
+          "layer": 1,
+          "bounds": [
+            61.183763,
+            -6.342402528473926,
+            69.64985499999999,
+            7.375093000000001
+          ],
+          "area_mm2": 57.09855954597493
+        },
+        {
+          "index": 213,
+          "layer": 1,
+          "bounds": [
+            64.7949965,
+            8.624994,
+            66.20500150000001,
+            9.975004
+          ],
+          "area_mm2": 1.9035208500500183
+        },
+        {
+          "index": 215,
+          "layer": 1,
+          "bounds": [
+            67.09917999999999,
+            6.575095,
+            67.5513,
+            7.875900000000001
+          ],
+          "area_mm2": 0.49956096389077054
+        },
+        {
+          "index": 216,
+          "layer": 2,
+          "bounds": [
+            0.399999,
+            -11.63751,
+            34.00371,
+            11.6
+          ],
+          "area_mm2": 298.8117458233708
+        },
+        {
+          "index": 224,
+          "layer": 2,
+          "bounds": [
+            4.355582,
+            -0.683164,
+            13.199976,
+            5.66589599116617
+          ],
+          "area_mm2": 18.92391292119764
+        },
+        {
+          "index": 228,
+          "layer": 2,
+          "bounds": [
+            13.242539,
+            -4.7111730000000005,
+            21.30390250303626,
+            1.41732
+          ],
+          "area_mm2": 23.91943519661899
+        },
+        {
+          "index": 235,
+          "layer": 2,
+          "bounds": [
+            15.3,
+            -6.498268623575646,
+            48.786829999999995,
+            7.768569
+          ],
+          "area_mm2": 69.76874119437367
+        },
+        {
+          "index": 247,
+          "layer": 2,
+          "bounds": [
+            23.1680105,
+            -10.949998,
+            30.085000500000003,
+            -7.1649985
+          ],
+          "area_mm2": 8.130129914465774
+        },
+        {
+          "index": 255,
+          "layer": 2,
+          "bounds": [
+            25.284671,
+            -11.6,
+            39.149998,
+            -7.223865
+          ],
+          "area_mm2": 26.303574096280784
+        },
+        {
+          "index": 281,
+          "layer": 2,
+          "bounds": [
+            30.55,
+            1.5839210000000001,
+            33.699976,
+            6.049998
+          ],
+          "area_mm2": 7.054249255994065
+        },
+        {
+          "index": 286,
+          "layer": 2,
+          "bounds": [
+            33.28416,
+            -8.720566999999999,
+            53.104960999999996,
+            -2.9694780000000893
+          ],
+          "area_mm2": 28.995430951553608
+        },
+        {
+          "index": 323,
+          "layer": 2,
+          "bounds": [
+            40.893492002312875,
+            -11.325004,
+            46.129466,
+            -7.27394
+          ],
+          "area_mm2": 11.47078825658793
+        },
+        {
+          "index": 324,
+          "layer": 2,
+          "bounds": [
+            39.800002,
+            -9.718454,
+            40.829958999999995,
+            -8.300024
+          ],
+          "area_mm2": 1.1800019037496643
+        },
+        {
+          "index": 333,
+          "layer": 2,
+          "bounds": [
+            41.192323,
+            1.850001,
+            47.7050055,
+            8.096055999999997
+          ],
+          "area_mm2": 11.855270882823035
+        },
+        {
+          "index": 347,
+          "layer": 2,
+          "bounds": [
+            44.64629,
+            -11.6,
+            69.600001,
+            11.6
+          ],
+          "area_mm2": 221.89531037075713
+        },
+        {
+          "index": 370,
+          "layer": 2,
+          "bounds": [
+            53.745041,
+            -7.593462000000001,
+            62.516461,
+            0.09424790410345946
+          ],
+          "area_mm2": 31.501906427930592
+        },
+        {
+          "index": 377,
+          "layer": 2,
+          "bounds": [
+            51.677608468190186,
+            2.390549000000028,
+            53.699976,
+            4.449999
+          ],
+          "area_mm2": 2.3178878254025244
+        },
+        {
+          "index": 379,
+          "layer": 2,
+          "bounds": [
+            54.745039000000006,
+            5.892998000002951,
+            56.395679,
+            9.57439
+          ],
+          "area_mm2": 3.086074693836452
+        },
+        {
+          "index": 389,
+          "layer": 2,
+          "bounds": [
+            55.670041000000005,
+            2.632871000000002,
+            59.7050035,
+            7.729959
+          ],
+          "area_mm2": 11.31118988090338
+        },
+        {
+          "index": 397,
+          "layer": 2,
+          "bounds": [
+            56.6449985,
+            9.763266573962508,
+            58.8149995,
+            11.0850005
+          ],
+          "area_mm2": 1.5555113387892425
+        },
+        {
+          "index": 417,
+          "layer": 15,
+          "bounds": [
+            0.399999,
+            -11.6,
+            69.600001,
+            11.6
+          ],
+          "area_mm2": 1406.3970542594946
+        },
+        {
+          "index": 610,
+          "layer": 16,
+          "bounds": [
+            14.985999999999999,
+            -4.222519,
+            15.43812,
+            -3.7703990000000003
+          ],
+          "area_mm2": 0.16051654401790674
+        },
+        {
+          "index": 615,
+          "layer": 16,
+          "bounds": [
+            3.27394,
+            -2.82606,
+            3.72606,
+            -2.37394
+          ],
+          "area_mm2": 0.1605165440179068
+        },
+        {
+          "index": 622,
+          "layer": 16,
+          "bounds": [
+            9.57326,
+            1.853161,
+            10.02538,
+            2.305281
+          ],
+          "area_mm2": 0.16051654401790683
+        },
+        {
+          "index": 626,
+          "layer": 16,
+          "bounds": [
+            4.8135195,
+            3.0769015,
+            5.2635185,
+            3.5269005
+          ],
+          "area_mm2": 0.1590140357824283
+        },
+        {
+          "index": 633,
+          "layer": 16,
+          "bounds": [
+            22.19198,
+            -8.278899000000001,
+            24.57958,
+            -3.082059
+          ],
+          "area_mm2": 0.9753842608623756
+        },
+        {
+          "index": 658,
+          "layer": 16,
+          "bounds": [
+            36.74094,
+            -7.409061,
+            37.193059999999996,
+            -6.956941
+          ],
+          "area_mm2": 0.1605165440179069
+        },
+        {
+          "index": 659,
+          "layer": 16,
+          "bounds": [
+            32.29102,
+            -7.1714590000000005,
+            35.32886,
+            5.708881000000001
+          ],
+          "area_mm2": 2.0861014901803285
+        },
+        {
+          "index": 674,
+          "layer": 16,
+          "bounds": [
+            37.173939000000004,
+            -10.526060000000001,
+            37.626059,
+            -10.07394
+          ],
+          "area_mm2": 0.16051654401790677
+        },
+        {
+          "index": 675,
+          "layer": 16,
+          "bounds": [
+            40.27394,
+            -9.676059,
+            40.72606,
+            -9.223939
+          ],
+          "area_mm2": 0.1605165440179068
+        },
+        {
+          "index": 684,
+          "layer": 16,
+          "bounds": [
+            40.272940000000006,
+            -2.461059,
+            40.72506,
+            -2.0089390000000003
+          ],
+          "area_mm2": 0.16051654401790708
+        },
+        {
+          "index": 686,
+          "layer": 16,
+          "bounds": [
+            37.696940000000005,
+            0.25793999999999995,
+            38.14906,
+            0.71006
+          ],
+          "area_mm2": 0.16051654401790685
+        },
+        {
+          "index": 693,
+          "layer": 16,
+          "bounds": [
+            42.423941000000006,
+            -9.876061,
+            42.876061,
+            -9.423941
+          ],
+          "area_mm2": 0.16051654401790683
+        },
+        {
+          "index": 694,
+          "layer": 16,
+          "bounds": [
+            42.336499,
+            -10.474086,
+            44.274888,
+            -4.394266
+          ],
+          "area_mm2": 4.566002617268124
+        },
+        {
+          "index": 701,
+          "layer": 16,
+          "bounds": [
+            42.723940000000006,
+            2.2239400000000002,
+            43.17606,
+            2.67606
+          ],
+          "area_mm2": 0.16051654401790708
+        },
+        {
+          "index": 702,
+          "layer": 16,
+          "bounds": [
+            41.53154,
+            4.896081,
+            44.988479999999996,
+            5.886681
+          ],
+          "area_mm2": 0.6809276200506956
+        },
+        {
+          "index": 709,
+          "layer": 16,
+          "bounds": [
+            48.973941,
+            -9.676059,
+            49.426061,
+            -5.473939
+          ],
+          "area_mm2": 0.7473256698508541
+        },
+        {
+          "index": 714,
+          "layer": 16,
+          "bounds": [
+            46.59630000000001,
+            -2.182899,
+            47.04842,
+            -1.730779
+          ],
+          "area_mm2": 0.1605165440179069
+        },
+        {
+          "index": 727,
+          "layer": 16,
+          "bounds": [
+            51.725114000000005,
+            -10.474086,
+            52.925112,
+            -8.67409
+          ],
+          "area_mm2": 1.8507641330893776
+        },
+        {
+          "index": 730,
+          "layer": 16,
+          "bounds": [
+            51.725114000000005,
+            -6.3942619999999994,
+            52.925112,
+            -4.394266
+          ],
+          "area_mm2": 2.090763733089377
+        },
+        {
+          "index": 736,
+          "layer": 16,
+          "bounds": [
+            52.673941000000006,
+            2.949941,
+            53.126061,
+            3.402061
+          ],
+          "area_mm2": 0.16051654401790705
+        },
+        {
+          "index": 742,
+          "layer": 16,
+          "bounds": [
+            55.598939,
+            7.812941,
+            56.051058999999995,
+            8.265061000000001
+          ],
+          "area_mm2": 0.16051654401790677
+        },
+        {
+          "index": 746,
+          "layer": 16,
+          "bounds": [
+            55.773320000000005,
+            -6.325060000000001,
+            56.22544,
+            -5.87294
+          ],
+          "area_mm2": 0.16051654401790677
+        },
+        {
+          "index": 749,
+          "layer": 16,
+          "bounds": [
+            59.448939,
+            -0.22606,
+            59.901059,
+            0.22606
+          ],
+          "area_mm2": 0.1605165440179069
+        },
+        {
+          "index": 750,
+          "layer": 16,
+          "bounds": [
+            57.487939000000004,
+            4.190938999999999,
+            57.940059,
+            4.643059
+          ],
+          "area_mm2": 0.1605165440179069
+        },
+        {
+          "index": 751,
+          "layer": 16,
+          "bounds": [
+            67.95008,
+            6.048779,
+            68.40220000000001,
+            6.500899
+          ],
+          "area_mm2": 0.16051654401790735
+        },
+        {
+          "index": 753,
+          "layer": 16,
+          "bounds": [
+            67.09917999999999,
+            7.42378,
+            67.5513,
+            7.875900000000001
+          ],
+          "area_mm2": 0.16051654401790724
+        },
+        {
+          "index": 754,
+          "layer": 16,
+          "bounds": [
+            68.9991,
+            7.474181,
+            69.45122,
+            7.9263010000000005
+          ],
+          "area_mm2": 0.16051654401790735
+        },
+        {
+          "index": 758,
+          "layer": 16,
+          "bounds": [
+            65.26894,
+            9.048941,
+            65.72106000000001,
+            9.501061
+          ],
+          "area_mm2": 0.16051654401790735
+        },
+        {
+          "index": 760,
+          "layer": 16,
+          "bounds": [
+            62.153061,
+            9.758918999999999,
+            62.605180999999995,
+            10.211039
+          ],
+          "area_mm2": 0.16051654401790677
+        },
+        {
+          "index": 762,
+          "layer": 16,
+          "bounds": [
+            57.498940000000005,
+            9.87394,
+            57.95106,
+            10.32606
+          ],
+          "area_mm2": 0.1605165440179068
+        },
+        {
+          "index": 765,
+          "layer": 16,
+          "bounds": [
+            67.395941,
+            10.312941,
+            67.848061,
+            10.765061000000001
+          ],
+          "area_mm2": 0.16051654401790733
+        }
+      ]
+    }
+  ],
+  "prefix": "final",
+  "arc_approximation_error_mm": 0.001,
+  "centroid_attachment_tolerance_mm": 0.0015,
+  "copper_components_per_layer": {
+    "1": 216,
+    "2": 193,
+    "15": 198,
+    "16": 160
+  },
+  "physical_copper_groups": 101,
+  "net_shorts": [],
+  "net_group_counts": {
+    "3V45": 1,
+    "AFE_ADC_AUX": 1,
+    "AFE_RDY": 1,
+    "AFE_SCL": 1,
+    "AFE_SDA": 1,
+    "BAT_ADC": 1,
+    "BAT_DIV": 1,
+    "BAT_MEAS": 1,
+    "BAT_NGATE": 1,
+    "BAT_PGATE": 1,
+    "BAT_SENSE_EN": 1,
+    "BAT_TS": 1,
+    "BOOT_N": 1,
+    "CC1": 1,
+    "CC2": 1,
+    "CHG_CE_N": 1,
+    "CHG_EN": 1,
+    "CHG_GATE": 1,
+    "CHG_STAT1": 1,
+    "CHG_STAT2": 1,
+    "EXC_EN": 1,
+    "E_SLEEVE": 1,
+    "E_TIP": 1,
+    "FB_3V45": 1,
+    "GND": 1,
+    "GSR_ADC": 1,
+    "GSR_EN": 1,
+    "GSR_F": 1,
+    "GSR_N": 1,
+    "GSR_OUT": 1,
+    "GSR_S": 1,
+    "ICHG_SET": 1,
+    "ILIM_SET": 1,
+    "IMU_HOST_RX": 1,
+    "IMU_HOST_TX": 1,
+    "IMU_RX": 1,
+    "IMU_TX": 1,
+    "LED_CHG_A": 1,
+    "LED_FAULT": 1,
+    "LED_FAULT_A": 1,
+    "LED_SYS": 1,
+    "LED_SYS_A": 1,
+    "MCU_EN": 1,
+    "MCU_USB_DM": 1,
+    "MCU_USB_DP": 1,
+    "OPT_MOTION": 1,
+    "OPT_MOTION_C": 1,
+    "OPT_SCL": 1,
+    "OPT_SCL_C": 1,
+    "OPT_SDA": 1,
+    "OPT_SDA_C": 1,
+    "PWR_EN": 1,
+    "PWR_GOOD": 1,
+    "PWR_MODE": 1,
+    "SW_L1": 1,
+    "SW_L2": 1,
+    "SYS": 1,
+    "TIP_RAW": 1,
+    "TIP_SW": 1,
+    "UART0_RX": 1,
+    "UART0_TX": 1,
+    "USB_5V": 1,
+    "USB_ABSENT": 1,
+    "USB_CT": 1,
+    "USB_DET_GATE": 1,
+    "USB_DM": 1,
+    "USB_DP": 1,
+    "USB_RAW": 1,
+    "VAA": 1,
+    "VBAT": 1,
+    "VBUS": 1,
+    "VEX": 1,
+    "VEX_BUF": 1,
+    "VEX_MON": 1,
+    "VIMU": 1,
+    "VOPT": 1,
+    "VREF": 1
+  },
+  "missing_pad_or_via_centres": [],
+  "floating_copper_groups": [],
+  "keepouts": [
+    {
+      "id": "magnet_keepout1",
+      "layer": 1,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout2",
+      "layer": 2,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout15",
+      "layer": 15,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout16",
+      "layer": 16,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "0b176ca97872c3dc",
+      "layer": 1,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "9bc81ba202396864",
+      "layer": 2,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "5c0d9af33152251e",
+      "layer": 15,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "263c51bcc33161dd",
+      "layer": 16,
+      "overlap_mm2": 0.0
+    },
+    {
+      "id": "ba52342e65818c1a",
+      "layer": 1,
+      "overlap_mm2": 0.0
+    }
+  ],
+  "island_location_candidates": []
+}

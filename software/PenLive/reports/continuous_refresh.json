@@ -1,0 +1,23 @@
+{
+  "acquisition_counter_hz": 200.0,
+  "received_points_per_s": 200.0,
+  "received_telemetry_per_s": 25.0,
+  "payload_bytes_per_s": 8524.81,
+  "ui_ticks_per_s": 59.88,
+  "retained_points": 19000,
+  "queue_wait_ms_p95": 21.24,
+  "queue_wait_ms_max": 28.76,
+  "max_observed_queue": 2,
+  "missing_sequence_gaps": 0,
+  "host_stale_drops": 0,
+  "produced": 1000,
+  "accepted": 1000,
+  "remaining_queue": 0,
+  "stage_mean_ms": {
+    "draw_trace": 0.115,
+    "draw_pose": 0.115,
+    "draw_health": 0.057,
+    "show_status": 0.001
+  },
+  "scope": "Synthetic decoded 200 Hz optical / 25 Hz telemetry, foreground macOS Tk, 18000-point history, 500 ms window warm-up then 5 seconds. No physical BLE, sensor or display VSYNC measurement."
+}

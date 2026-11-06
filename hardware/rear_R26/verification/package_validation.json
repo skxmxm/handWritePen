@@ -1,0 +1,326 @@
+{
+  "version": "R26",
+  "all_checks_pass": true,
+  "native_retained_files_byte_identical": [
+    {
+      "name": "Drill_NPTH_Through.DRL",
+      "sha256": "700a93500f6aaefc7c0467d619d1bd30aaec815eb1d7abc2f7ebca557ae86549"
+    },
+    {
+      "name": "Drill_PTH_Through.DRL",
+      "sha256": "d7c91d180f40f800281ccf39329b8d3ff0feca16bd175d4bdff5b274ec9094d0"
+    },
+    {
+      "name": "FlyingProbeTesting.json",
+      "sha256": "3cc7257afc11a4f5e724eb4fc74d83b854b4cf618fe9e28eee946795f110c083"
+    },
+    {
+      "name": "Gerber_BoardOutlineLayer.GKO",
+      "sha256": "68ef50d8a890a4b910eeff0a7e0b382433a7ad78a579c802d2dbac6fe2b7d613"
+    },
+    {
+      "name": "Gerber_BottomAssemblyLayer.GBA",
+      "sha256": "8279055efd82d05c9b86671ed9a53f684b6383cd5290b7689069c706b2158ac6"
+    },
+    {
+      "name": "Gerber_BottomLayer.GBL",
+      "sha256": "b664eacad22d0b45618852cdf26e3e4c2a866b3dfa1b5b654b0f48e3cf6d9ab5"
+    },
+    {
+      "name": "Gerber_BottomPasteMaskLayer.GBP",
+      "sha256": "8132e30a39aa84b65f4787164f3c719ca2b441b8dd2d18f151549a440b967ba0"
+    },
+    {
+      "name": "Gerber_BottomSilkscreenLayer.GBO",
+      "sha256": "914261a029c4cf72c323957b9b21578c17d3561a09e1182c70d6c84b303fe37c"
+    },
+    {
+      "name": "Gerber_BottomSolderMaskLayer.GBS",
+      "sha256": "dccbc425961cccbcd9c9ff7e258c3fa9bce19e43007a84f10595a52816a61394"
+    },
+    {
+      "name": "Gerber_DocumentLayer.GDL",
+      "sha256": "22b09141c66d0aa67d185493af6ad88ffc3636f4f986874c143a2e45f208ea99"
+    },
+    {
+      "name": "Gerber_InnerLayer1.G1",
+      "sha256": "f89b440a192f9799b113fb29be8169a1039e0b5e167d81a199ef4ce44bf6a2da"
+    },
+    {
+      "name": "Gerber_InnerLayer2.G2",
+      "sha256": "9c8e9a311bcaeb71507cf72a77773fdf263c5829c58b632e0026a263afc76697"
+    },
+    {
+      "name": "Gerber_TopAssemblyLayer.GTA",
+      "sha256": "eabc5d9408f03c23e527ca6c89541056fbdc0d51025dbaab5c744768aed9a1ad"
+    },
+    {
+      "name": "Gerber_TopLayer.GTL",
+      "sha256": "0b288af4709f002be786d77b5b22946467457d2a7a0f58b7e2b926d9c942f400"
+    },
+    {
+      "name": "Gerber_TopPasteMaskLayer.GTP",
+      "sha256": "d74ef92fd987bdd7a629817b09ef14b1a40e3bb6d522d8de63658cce72ffc9de"
+    },
+    {
+      "name": "Gerber_TopSilkscreenLayer.GTO",
+      "sha256": "10fb42da2e12306a0f04f58aae708cd43d26751d54c7681b598ed35bdb32907e"
+    },
+    {
+      "name": "Gerber_TopSolderMaskLayer.GTS",
+      "sha256": "19fc920278bc11cb481c76418c6260bfa3db4b0ea2fe49dc070e92dacec3cf48"
+    },
+    {
+      "name": "PCB下单必读.txt",
+      "sha256": "dcb3ee1c645c17a009d70726ad9ab708b68a074556fabcf75a4a059d3b43ec59"
+    }
+  ],
+  "duplicate_drill_removed": "Drill_PTH_Through_Via.DRL",
+  "duplicate_is_exact_multiset_subset": true,
+  "retained_vias": 231,
+  "retained_PTH_slots": 8,
+  "retained_NPTH_holes": 3,
+  "CAM_postprocessing": false,
+  "BOM_and_nonCPL_CSV_unchanged_R25": [
+    "BOM_MANUAL_POST_REFLOW_2.csv",
+    "VIA_IN_PAD_PROCESS.csv",
+    "BOM_FIT_REVIEW.csv",
+    "DNP_PCB_ONLY_REVIEW.csv",
+    "BOM_FACTORY_SMT_110.csv"
+  ],
+  "CPL_checks": [
+    {
+      "file": "CPL_FACTORY_SMT_110.csv",
+      "rows": 110,
+      "changed_refs": [
+        "R301",
+        "C302",
+        "R401",
+        "C401",
+        "R404",
+        "R405",
+        "R503",
+        "R510"
+      ],
+      "all_positions_layers_rotations_match": true,
+      "coordinate_tolerance_mm": 0.000502
+    },
+    {
+      "file": "CPL_FIT_REVIEW.csv",
+      "rows": 112,
+      "changed_refs": [
+        "R301",
+        "C302",
+        "R401",
+        "C401",
+        "R404",
+        "R405",
+        "R503",
+        "R510"
+      ],
+      "all_positions_layers_rotations_match": true,
+      "coordinate_tolerance_mm": 0.000502
+    },
+    {
+      "file": "CPL_MANUAL_POST_REFLOW_2.csv",
+      "rows": 2,
+      "changed_refs": [],
+      "all_positions_layers_rotations_match": true,
+      "coordinate_tolerance_mm": 0.000502
+    }
+  ],
+  "component_moves": [
+    {
+      "ref": "R301",
+      "assembly": "FIT",
+      "before_mm": [
+        30.499999959999997,
+        -0.75000104
+      ],
+      "after_mm": [
+        30.69999956,
+        -0.75000104
+      ],
+      "rotation": 270
+    },
+    {
+      "ref": "C302",
+      "assembly": "FIT",
+      "before_mm": [
+        28.599998680000002,
+        -2.35000038
+      ],
+      "after_mm": [
+        28.799998279999997,
+        -2.2500005800000005
+      ],
+      "rotation": 0
+    },
+    {
+      "ref": "R401",
+      "assembly": "FIT",
+      "before_mm": [
+        12.2500009,
+        3.7500001199999997
+      ],
+      "after_mm": [
+        11.99999886,
+        5.00000016
+      ],
+      "rotation": 180
+    },
+    {
+      "ref": "C401",
+      "assembly": "FIT",
+      "before_mm": [
+        10.49999932,
+        1.25000004
+      ],
+      "after_mm": [
+        11.100000659999997,
+        2.8999992800000003
+      ],
+      "rotation": 180
+    },
+    {
+      "ref": "R404",
+      "assembly": "FIT",
+      "before_mm": [
+        15.249999979999998,
+        3.7500001199999997
+      ],
+      "after_mm": [
+        15.000000479999999,
+        5.00000016
+      ],
+      "rotation": 180
+    },
+    {
+      "ref": "R405",
+      "assembly": "FIT",
+      "before_mm": [
+        22.999999719999998,
+        3.25000112
+      ],
+      "after_mm": [
+        21.99999918,
+        5.69999876
+      ],
+      "rotation": 90
+    },
+    {
+      "ref": "R408",
+      "assembly": "DNP",
+      "before_mm": [
+        18.24999906,
+        0.24999949999999999
+      ],
+      "after_mm": [
+        16.20000062,
+        7.69999984
+      ],
+      "rotation": 180
+    },
+    {
+      "ref": "R409",
+      "assembly": "DNP",
+      "before_mm": [
+        15.249999979999998,
+        -1.49999954
+      ],
+      "after_mm": [
+        19.2999995,
+        8.30000118
+      ],
+      "rotation": 90
+    },
+    {
+      "ref": "R410",
+      "assembly": "DNP",
+      "before_mm": [
+        17.50000056,
+        2.50000008
+      ],
+      "after_mm": [
+        17.99999956,
+        5.800001099999999
+      ],
+      "rotation": 90
+    },
+    {
+      "ref": "R503",
+      "assembly": "FIT",
+      "before_mm": [
+        46.99999998,
+        6.4999997
+      ],
+      "after_mm": [
+        46.99999998,
+        7.500000239999999
+      ],
+      "rotation": 180
+    },
+    {
+      "ref": "R510",
+      "assembly": "FIT",
+      "before_mm": [
+        51.75000064,
+        5.7500012
+      ],
+      "after_mm": [
+        51.75000064,
+        6.7999991
+      ],
+      "rotation": 180
+    }
+  ],
+  "via_process_list_matches_current_mask": true,
+  "via_mask_hits": [
+    {
+      "id": "b3a4d4c26c5e8e2b",
+      "side": "top",
+      "area_mm2": 0.03401630624213978
+    },
+    {
+      "id": "c267603f1a86e4f7",
+      "side": "top",
+      "area_mm2": 0.034016306242139804
+    },
+    {
+      "id": "d4328ea9d72ab6d3",
+      "side": "top",
+      "area_mm2": 0.03401630624213953
+    },
+    {
+      "id": "ba736df5685f8da1",
+      "side": "bottom",
+      "area_mm2": 0.034016306242140054
+    },
+    {
+      "id": "6420e7af0d8a7b5d",
+      "side": "bottom",
+      "area_mm2": 0.03401630624213978
+    },
+    {
+      "id": "11d03eb3005a9374",
+      "side": "bottom",
+      "area_mm2": 0.018214744666526825
+    },
+    {
+      "id": "2719fc3f5b40e85f",
+      "side": "bottom",
+      "area_mm2": 0.03401630624213978
+    },
+    {
+      "id": "a9ae760946254279",
+      "side": "bottom",
+      "area_mm2": 0.031248908358540977
+    },
+    {
+      "id": "f7956eeaf5e128ae",
+      "side": "bottom",
+      "area_mm2": 0.0340163062421398
+    }
+  ],
+  "orders_placed": false
+}

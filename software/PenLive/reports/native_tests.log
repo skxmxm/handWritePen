@@ -1,0 +1,5 @@
+PASS: continuous optical position and atomic overflow rejection
+PASS: GSR gates, USB/release/link inhibition, exact boundaries, ADC faults, stale data, rollover, and retained fault reason/phase/voltage.
+PASS: ADS1115 config/scales, complete pairs, signed data, I2C/config/timeout faults and retry.
+PASS: signed angles, accel/gyro scales, checksum rejection, fragmentation, resync, reset.
+PASS: battery window baseline age, sample freshness, no pre-ON samples, minimum retention, release, deep sag, counter saturation and timer rollover.

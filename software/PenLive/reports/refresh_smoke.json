@@ -1,0 +1,7 @@
+{
+  "received_packets_per_s": 50.05,
+  "ui_ticks_per_s": 33.97,
+  "retained_points": 18245,
+  "release_retained_ink": true,
+  "scope": "synthetic 50Hz input, foreground native macOS Tk, 18000-point history, 5s run; no actual BLE / display VSYNC measurement"
+}

@@ -1,0 +1,43 @@
+gui_smoke.py: exit 0
+PASS: three native Tk windows, pen-up retains ink/cursor, continuous GSR and pose, legacy diagnostic clipboard, battery and disconnect clearing.
+
+continuous_render_check.py: exit 0
+PASS: v4 decode/render, continuous GSR/pose, USB pause, hover without ink, gap separation, raw/filter switch and independent clear.
+
+pen_up_render_check.py: exit 0
+PASS: v3 BLE decode to real Tk, pen-up cursor without ink, retained multi-strokes, boundary endpoints, single-dot ink, transforms, clear button, disconnect.
+
+trace_render_check.py: exit 0
+PASS: incremental item reuse, default Y flip, gaps, ring trimming, scale hysteresis, release clearing.
+
+raw_off_render_check.py: exit 0
+PASS: native Tk OFF raw values without tip press, persistent curve, gaps, ADC errors/staleness, VEX warning, clipboard, clear and disconnect.
+
+continuous_refresh.py: exit 0
+{
+  "acquisition_counter_hz": 200.0,
+  "received_points_per_s": 200.0,
+  "received_telemetry_per_s": 25.0,
+  "payload_bytes_per_s": 8524.81,
+  "ui_ticks_per_s": 59.88,
+  "retained_points": 19000,
+  "queue_wait_ms_p95": 21.24,
+  "queue_wait_ms_max": 28.76,
+  "max_observed_queue": 2,
+  "missing_sequence_gaps": 0,
+  "host_stale_drops": 0,
+  "produced": 1000,
+  "accepted": 1000,
+  "remaining_queue": 0,
+  "stage_mean_ms": {
+    "draw_trace": 0.115,
+    "draw_pose": 0.115,
+    "draw_health": 0.057,
+    "show_status": 0.001
+  },
+  "scope": "Synthetic decoded 200 Hz optical / 25 Hz telemetry, foreground macOS Tk, 18000-point history, 500 ms window warm-up then 5 seconds. No physical BLE, sensor or display VSYNC measurement."
+}
+Final gui_smoke:
+PASS: three native Tk windows, pen-up retains ink/cursor, continuous GSR and pose, legacy diagnostic clipboard, battery and disconnect clearing.
+Final continuous_render_check:
+PASS: v4 decode/render, continuous GSR/pose, USB pause, hover without ink, gap separation, raw/filter switch and independent clear.

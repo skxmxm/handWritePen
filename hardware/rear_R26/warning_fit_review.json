@@ -1,0 +1,216 @@
+{
+  "audit": "final23 FIT supplier-identity warnings; read-only engineering qualification",
+  "source_pcb_sha256": "add49678d7fddc966dc4f3cfcc579124299e275c2b622c8afa2d397cdd9152c0",
+  "scope": [
+    "U201",
+    "D501",
+    "D502",
+    "D503"
+  ],
+  "not_in_scope": [
+    "DNP footprint qualifications",
+    "fresh complete board DRC",
+    "fabrication-order approval"
+  ],
+  "status": "FIT geometry and polarity qualified; supplier-library metadata deviation must remain explicitly documented or be normalized without changing geometry",
+  "native_warning_cleared": false,
+  "U201": {
+    "mpn": "ESP32-S3-MINI-1-N4R2",
+    "lcsc": "C3013941",
+    "footprint_name": "BULETM-SMD_ESP32-S3-MINI-1-N8",
+    "catalog_uses_same_N8_footprint_for_N4R2": true,
+    "N8_N4R2_difference": "flash and PSRAM configuration, same MINI-1 land pattern",
+    "pad_count": 73,
+    "pad_shapes": {
+      "['RECT', 15.7, 31.5, 0]": 60,
+      "['RECT', 31.5, 31.5, 0]": 4,
+      "['RECT', 47.2, 47.2, 0]": 9
+    },
+    "perimeter_pad_actual_mm": [
+      0.39878,
+      0.8001
+    ],
+    "perimeter_pad_reference_mm": [
+      0.4,
+      0.8
+    ],
+    "corner_pad_actual_mm": [
+      0.8001,
+      0.8001
+    ],
+    "corner_pad_reference_mm": [
+      0.8,
+      0.8
+    ],
+    "center_pad_actual_mm": [
+      1.19888,
+      1.19888
+    ],
+    "center_pad_reference_mm": [
+      1.2,
+      1.2
+    ],
+    "center_grid_actual_pitch_mm": 1.651,
+    "center_grid_reference_total_span_mm": 4.5,
+    "IO26_pad": {
+      "number": "26",
+      "net": "",
+      "x_mm": 55.19928,
+      "y_mm": -2.55016,
+      "shape": "RECT",
+      "size_mm": [
+        0.39878,
+        0.8001
+      ]
+    },
+    "PSRAM_pin_reserved_and_unassigned": true,
+    "qualified": true
+  },
+  "LEDs": {
+    "D501": {
+      "mpn": "LTST-C190KRKT",
+      "lcsc": "C94869",
+      "pads": [
+        {
+          "number": "1",
+          "net": "GND",
+          "x_mm": 34.2519,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        },
+        {
+          "number": "2",
+          "net": "LED_SYS_A",
+          "x_mm": 35.74796,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        }
+      ],
+      "cathode_pad": "1",
+      "anode_pad": "2",
+      "pitch_mm": 1.49606,
+      "outer_span_mm": 2.29616,
+      "inner_gap_mm": 0.69596,
+      "orientation": "top view: cathode toward smaller board X; anode toward larger board X",
+      "pad_geometry_qualified": true,
+      "polarity_mapping_qualified": true,
+      "inherited_device_name": "19-217/R6C-AL1M2VY/3T",
+      "review_metadata_stale": "Engineering draft; MPN and footprint require review"
+    },
+    "D502": {
+      "mpn": "LTST-C190KRKT",
+      "lcsc": "C94869",
+      "pads": [
+        {
+          "number": "1",
+          "net": "GND",
+          "x_mm": 37.75202,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        },
+        {
+          "number": "2",
+          "net": "LED_FAULT_A",
+          "x_mm": 39.24808,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        }
+      ],
+      "cathode_pad": "1",
+      "anode_pad": "2",
+      "pitch_mm": 1.49606,
+      "outer_span_mm": 2.29616,
+      "inner_gap_mm": 0.69596,
+      "orientation": "top view: cathode toward smaller board X; anode toward larger board X",
+      "pad_geometry_qualified": true,
+      "polarity_mapping_qualified": true,
+      "inherited_device_name": "19-217/R6C-AL1M2VY/3T",
+      "review_metadata_stale": "Engineering draft; MPN and footprint require review"
+    },
+    "D503": {
+      "mpn": "LTST-C190KRKT",
+      "lcsc": "C94869",
+      "pads": [
+        {
+          "number": "1",
+          "net": "CHG_STAT2",
+          "x_mm": 41.25214,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        },
+        {
+          "number": "2",
+          "net": "LED_CHG_A",
+          "x_mm": 42.7482,
+          "y_mm": 9.99998,
+          "shape": "RECT",
+          "size_mm": [
+            0.8001,
+            0.8001
+          ]
+        }
+      ],
+      "cathode_pad": "1",
+      "anode_pad": "2",
+      "pitch_mm": 1.49606,
+      "outer_span_mm": 2.29616,
+      "inner_gap_mm": 0.69596,
+      "orientation": "top view: cathode toward smaller board X; anode toward larger board X",
+      "pad_geometry_qualified": true,
+      "polarity_mapping_qualified": true,
+      "inherited_device_name": "19-217/R6C-AL1M2VY/3T",
+      "review_metadata_stale": "Engineering draft; MPN and footprint require review"
+    }
+  },
+  "evidence": {
+    "esp_official_datasheet": "/Users/zjq/项目/手写笔/references/pcb_selection/esp_mini.pdf",
+    "esp_pages": [
+      "section 1.2/Table 1-1: N8 vs N4R2",
+      "pages 11-12 Table 3-1: pins, IO26 PSRAM reservation",
+      "page 45 Figure 11-1: MINI-1 land pattern"
+    ],
+    "esp_catalog": "/Users/zjq/项目/手写笔/hardware/pcb/rear_mainboard/restore_esp32/research/module_search.json",
+    "esp_catalog_uuid": "41c06bb1f3f2465a9300afebb9173e5f",
+    "led_official_datasheet": "/Users/zjq/项目/手写笔/references/pcb_selection/LTST-C190KRKT.pdf",
+    "led_pages": [
+      "PDF page 2/printed page 1: package and cathode",
+      "PDF page 8/printed page 7: recommended solder pad dimensions and tape polarity"
+    ],
+    "led_catalog": "/Users/zjq/项目/手写笔/hardware/pcb/archive/rear_ble_v0.2/led_candidate.json",
+    "led_catalog_uuid": "63e5f6cf97f041959d3d2be0d8ee7c02",
+    "project_archive": "release/Rear_ESP32S3_RoutingAudit.epro",
+    "led_symbol_entry": "SYMBOL/641f656535e2a0d7.esym",
+    "led_symbol_pins": {
+      "1": "C (cathode)",
+      "2": "A (anode)"
+    },
+    "led_footprint_entry": "FOOTPRINT/4d57fd2c087faba9.efoo",
+    "led_footprint_origin": "52397efb0c114c5ca131f1a452e65163 (LED0603-RD, source catalog LTST-C190KRKT-TH; geometric qualification made against exact LTST-C190KRKT)"
+  },
+  "release_notes": [
+    "BOM exact LED must remain LTST-C190KRKT / C94869, not inherited Everlight title or LTST-C190KRKT-TH / C284900.",
+    "SMT polarity explicitly: all three top-side LEDs cathode left (smaller board X), anode right; verify against manufacturer cathode marking.",
+    "Do not automatically replace routed footprints merely to clear a library-name warning. Normalize identity or attach this qualified deviation; if footprint is rebound, recheck all pad numbering, coordinates, copper, paste, BOM and CPL.",
+    "Update stale LED Review text before release documentation; it currently still says Engineering draft."
+  ]
+}

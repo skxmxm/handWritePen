@@ -1,0 +1,14 @@
+# Local environments, generated caches and credentials
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+build/
+*.elf
+*.bin
+*.o

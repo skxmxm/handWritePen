@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "single_object": true,
+  "geometry_matches_stl": true,
+  "no_mesh_repairs": true,
+  "height_mm": 67,
+  "bed_contact": "6mm diameter rear end; model minimum Z=0",
+  "first_layer_features": [
+    "Bottom surface",
+    "Brim",
+    "Inner wall",
+    "Outer wall"
+  ],
+  "first_layer_segments": 1248,
+  "first_layer_z_mm": 0.2,
+  "last_layer_z_mm": 67.08,
+  "estimated_seconds": 3383,
+  "estimated_grams": 2.16,
+  "settings_checked": {
+    "printer_model": "Bambu Lab P1S",
+    "curr_bed_type": "Textured PEI Plate",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "layer_height": "0.16",
+    "brim_width": "8",
+    "brim_type": "outer_only",
+    "enable_support": "0",
+    "raft_layers": "0",
+    "wall_loops": "4",
+    "textured_plate_temp_initial_layer": [
+      "65"
+    ],
+    "textured_plate_temp": [
+      "60"
+    ],
+    "additional_cooling_fan_speed": [
+      "0"
+    ]
+  },
+  "physical_print": "not performed"
+}

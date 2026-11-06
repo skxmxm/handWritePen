@@ -1,0 +1,1213 @@
+{
+  "snapshot_sha256": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+  "cam_source": "layout_r26/final_gerber",
+  "USB": {
+    "segments": [
+      {
+        "id": "5be1c8480361e4ae",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.0253395800000003,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "76a7ca52d29033a6",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.49486061859013086,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb33882e225f4a",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.45168058000000855,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3aca2b1c2ed2",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.21151017636830968,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3f0bf9fb21aa",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.4999995400000117,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3be20d4aface",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.1313703832094208,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb31bf6b7a0d69",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.0000005400000003,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb357f0f292067",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.3528180985403524,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb30a630663cfd",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.39765986000001163,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb310d4e786558",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.35561814239434447,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3e32b31a920c",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.45124116000000214,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3636574dcea7",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.3520529807188544,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb363c50137852",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.525325879999997,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3dc5ecbabef5",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.203325583403678,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3873ea76eb12",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.47199550000000556,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3ef2678e092b",
+        "net": "MCU_USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.14215745439652597,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb362f8ebf667e",
+        "net": "MCU_USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.8461197199999972,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3ac8882b1119",
+        "net": "MCU_USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.3535526834864985,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "usb3334481884de",
+        "net": "MCU_USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.550880279999987,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "29f5b5ff2d95dcb0",
+        "net": "MCU_USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.5716396999999986,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "d350d41177660672",
+        "net": "MCU_USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.4116962622320732,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "c0d86c156f6d0484",
+        "net": "MCU_USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.17766029999999233,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "bdb4ee9961146e8c",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 1.4249400000000008,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "04b17b90fe780531",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.8753398800000007,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "e75406a1bcfb04be",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.8507603000000046,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "048f7ce2ed72807d",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.84960206,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "77f4118498b607eb",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.4487595800000008,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "2006cc6db36baf43",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.8246592599999998,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "9512a4502c29db00",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.7007606000000024,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "d3231ae8a094c8ae",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.8246592599999998,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "6cab918f75226d61",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.21213161009189171,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "47e6e1773777ccbc",
+        "net": "USB_DM",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.21212442600865178,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "d316e4cc7c815ef0",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.21213161009189171,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      },
+      {
+        "id": "cfe7947d5d00afc0",
+        "net": "USB_DP",
+        "layer": 1,
+        "width_mm": 0.14999969999999999,
+        "length_mm": 0.21213161009190176,
+        "centerline_missing_mm": 0.0,
+        "strip_missing_mm2": 0.0
+      }
+    ],
+    "layers": [
+      1
+    ],
+    "via_count": 0,
+    "centerline_missing_mm": 0.0,
+    "strip_missing_mm2": 0.0
+  },
+  "keepouts": [
+    {
+      "id": "magnet_keepout1",
+      "layer": 1,
+      "bounds": [
+        8.742000299999999,
+        -5.08799998,
+        13.237998919999999,
+        -0.09199982
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout2",
+      "layer": 2,
+      "bounds": [
+        8.742000299999999,
+        -5.08799998,
+        13.237998919999999,
+        -0.09199982
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout15",
+      "layer": 15,
+      "bounds": [
+        8.742000299999999,
+        -5.08799998,
+        13.237998919999999,
+        -0.09199982
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "magnet_keepout16",
+      "layer": 16,
+      "bounds": [
+        8.742000299999999,
+        -5.08799998,
+        13.237998919999999,
+        -0.09199982
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "0b176ca97872c3dc",
+      "layer": 1,
+      "bounds": [
+        69.9519998,
+        -11.99799886,
+        75.29799926,
+        11.99799886
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "9bc81ba202396864",
+      "layer": 2,
+      "bounds": [
+        69.9519998,
+        -11.99799886,
+        75.29799926,
+        11.99799886
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "5c0d9af33152251e",
+      "layer": 15,
+      "bounds": [
+        69.9519998,
+        -11.99799886,
+        75.29799926,
+        11.99799886
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "263c51bcc33161dd",
+      "layer": 16,
+      "bounds": [
+        69.9519998,
+        -11.99799886,
+        75.29799926,
+        11.99799886
+      ],
+      "copper_overlap_mm2": 0.0
+    },
+    {
+      "id": "ba52342e65818c1a",
+      "layer": 1,
+      "bounds": [
+        30.482,
+        -7.442999080000001,
+        30.7779994,
+        -7.0569998599999995
+      ],
+      "copper_overlap_mm2": 0.0
+    }
+  ],
+  "critical_paths": [
+    {
+      "from": "U101.10",
+      "to": "C101.1",
+      "net": "USB_5V",
+      "length_mm": 3.7979861814932985,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 2,
+      "layers": [
+        1,
+        2
+      ],
+      "line_ids": [
+        "fffddc24f454fe28",
+        "46b4774b11f9eb1b",
+        "2fe273fa83769eaa",
+        "5dea0957ac21de13",
+        "37456765de44c94d",
+        "c499e2241d68f880"
+      ]
+    },
+    {
+      "from": "U101.2",
+      "to": "C102.1",
+      "net": "VBAT",
+      "length_mm": 1.724679821605692,
+      "min_trace_width_mm": 0.15239999999999998,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "22c847c629d8c417",
+        "1d219c7bbd3f43f7",
+        "875d53c60578711c"
+      ]
+    },
+    {
+      "from": "U101.1",
+      "to": "C103.1",
+      "net": "SYS",
+      "length_mm": 3.5118590182214406,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "d8b1665fb8fb1529",
+        "3d4a7f936ff8c339",
+        "fd057397a57e76f4"
+      ]
+    },
+    {
+      "from": "U101.1",
+      "to": "C105.1",
+      "net": "SYS",
+      "length_mm": 16.944562192773773,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 4,
+      "layers": [
+        2,
+        16
+      ],
+      "line_ids": [
+        "7a8b90c134300668",
+        "82ae934d0ded64d2",
+        "faaf7858b517e7ab",
+        "ef334aa3280b8c1b",
+        "9a449e04ad243158",
+        "47d06791a00df52b",
+        "a1602bc847255723",
+        "16323b6fb419ffad",
+        "f6aaec74d2d72d31",
+        "67d600500aa334a7",
+        "19454e2eec496c43",
+        "795a1fa862e317eb",
+        "7da5a93e69591d91",
+        "eca0a75e55089742",
+        "5233ce79fcc626ff",
+        "4da2e5b38b00cbe5",
+        "e31ad39adc276831"
+      ]
+    },
+    {
+      "from": "U102.10",
+      "to": "C105.1",
+      "net": "SYS",
+      "length_mm": 1.6250541034437602,
+      "min_trace_width_mm": 0.29999939999999997,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "2ef9c4beac8021f6"
+      ]
+    },
+    {
+      "from": "U102.6",
+      "to": "C106.1",
+      "net": "3V45",
+      "length_mm": 2.087639787100473,
+      "min_trace_width_mm": 0.29999939999999997,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "37c70b77c90e5074",
+        "65207fef8e30eda6",
+        "c8efdae271be613c"
+      ]
+    },
+    {
+      "from": "U102.6",
+      "to": "C107.1",
+      "net": "3V45",
+      "length_mm": 6.290933448883267,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 2,
+      "layers": [
+        1,
+        2
+      ],
+      "line_ids": [
+        "37c70b77c90e5074",
+        "2546c9e50cc57566",
+        "84176b1012082074",
+        "d42422f99d839397",
+        "PwrPhase1L9",
+        "PwrPhase1L10",
+        "PwrPhase1L11",
+        "PwrPhase1L12"
+      ]
+    },
+    {
+      "from": "C106.1",
+      "to": "R111.1",
+      "net": "3V45",
+      "length_mm": 8.758685407215518,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 2,
+      "layers": [
+        2,
+        16
+      ],
+      "line_ids": [
+        "d42422f99d839397",
+        "PwrFBL3",
+        "PwrFBL2",
+        "PwrFBL1",
+        "PwrFBL0",
+        "PwrFBL5",
+        "PwrFBL4"
+      ]
+    },
+    {
+      "from": "C106.1",
+      "to": "U201.3",
+      "net": "3V45",
+      "length_mm": 31.142023550888055,
+      "min_trace_width_mm": 0.2032,
+      "signal_vias": 3,
+      "layers": [
+        1,
+        2
+      ],
+      "line_ids": [
+        "d42422f99d839397",
+        "PwrPhase1L9",
+        "PwrPhase1L10",
+        "PwrPhase1L11",
+        "PwrPhase1L12",
+        "d0f809e91fedd28e",
+        "9629cb6de2eb007e",
+        "PwrPhase1L0",
+        "PwrPhase1L1",
+        "PwrPhase1L2",
+        "PwrPhase1L3",
+        "e7c240ef7f3e751e",
+        "164952f7f8131a5f",
+        "1bfa213bc19cc476",
+        "d8a7f37798fb77e3",
+        "1c23afae3100a3c1",
+        "91d2e4c64c5cfcc4",
+        "ff63c7eb2d48b61c",
+        "b1e470a19e12d5c1",
+        "8a2c8a8447a114e4",
+        "03e3c4298980c557",
+        "42c00849855b67f4",
+        "af9a2b2fa8259fee",
+        "04a0456e017c6103"
+      ]
+    },
+    {
+      "from": "U301.8",
+      "to": "C302.1",
+      "net": "VAA",
+      "length_mm": 1.6371696437197516,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "f5a1b358bea2b639",
+        "8183ead5ea5436b8"
+      ]
+    },
+    {
+      "from": "U302.8",
+      "to": "C307.1",
+      "net": "3V45",
+      "length_mm": 2.78076417119735,
+      "min_trace_width_mm": 0.254,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "3c9a98b239a516da",
+        "0350285679044520"
+      ]
+    },
+    {
+      "from": "U302.8",
+      "to": "C308.1",
+      "net": "3V45",
+      "length_mm": 4.955368406725796,
+      "min_trace_width_mm": 0.127,
+      "signal_vias": 0,
+      "layers": [
+        2
+      ],
+      "line_ids": [
+        "9239595386e01644",
+        "b462ec08373ebe6d"
+      ]
+    },
+    {
+      "from": "U201.3",
+      "to": "C207.1",
+      "net": "3V45",
+      "length_mm": 2.5019609607828786,
+      "min_trace_width_mm": 0.24999949999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "04a0456e017c6103",
+        "8041a100428a4351"
+      ]
+    },
+    {
+      "from": "J101.A7",
+      "to": "R204.1",
+      "net": "USB_DM",
+      "length_mm": 8.075725442716898,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "5be1c8480361e4ae",
+        "76a7ca52d29033a6",
+        "048f7ce2ed72807d",
+        "47e6e1773777ccbc",
+        "77f4118498b607eb",
+        "usb33882e225f4a",
+        "usb3aca2b1c2ed2",
+        "usb3f0bf9fb21aa",
+        "usb3be20d4aface",
+        "usb31bf6b7a0d69",
+        "usb357f0f292067",
+        "usb30a630663cfd"
+      ]
+    },
+    {
+      "from": "J101.A6",
+      "to": "R205.1",
+      "net": "USB_DP",
+      "length_mm": 8.558841586700678,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "2006cc6db36baf43",
+        "d316e4cc7c815ef0",
+        "9512a4502c29db00",
+        "cfe7947d5d00afc0",
+        "d3231ae8a094c8ae",
+        "bdb4ee9961146e8c",
+        "usb310d4e786558",
+        "usb3e32b31a920c",
+        "usb3636574dcea7",
+        "usb363c50137852",
+        "usb3dc5ecbabef5",
+        "usb3873ea76eb12"
+      ]
+    },
+    {
+      "from": "J101.B7",
+      "to": "R204.1",
+      "net": "USB_DM",
+      "length_mm": 8.988617652808795,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "04b17b90fe780531",
+        "6cab918f75226d61",
+        "e75406a1bcfb04be",
+        "76a7ca52d29033a6",
+        "048f7ce2ed72807d",
+        "47e6e1773777ccbc",
+        "77f4118498b607eb",
+        "usb33882e225f4a",
+        "usb3aca2b1c2ed2",
+        "usb3f0bf9fb21aa",
+        "usb3be20d4aface",
+        "usb31bf6b7a0d69",
+        "usb357f0f292067",
+        "usb30a630663cfd"
+      ]
+    },
+    {
+      "from": "J101.B6",
+      "to": "R205.1",
+      "net": "USB_DP",
+      "length_mm": 5.784499246516882,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "bdb4ee9961146e8c",
+        "usb310d4e786558",
+        "usb3e32b31a920c",
+        "usb3636574dcea7",
+        "usb363c50137852",
+        "usb3dc5ecbabef5",
+        "usb3873ea76eb12"
+      ]
+    },
+    {
+      "from": "R204.2",
+      "to": "U201.23",
+      "net": "MCU_USB_DM",
+      "length_mm": 1.791110137883011,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "usb3ef2678e092b",
+        "usb362f8ebf667e",
+        "usb3ac8882b1119",
+        "usb3334481884de"
+      ]
+    },
+    {
+      "from": "R205.2",
+      "to": "U201.24",
+      "net": "MCU_USB_DP",
+      "length_mm": 2.0593962622320667,
+      "min_trace_width_mm": 0.14999969999999999,
+      "signal_vias": 0,
+      "layers": [
+        1
+      ],
+      "line_ids": [
+        "29f5b5ff2d95dcb0",
+        "d350d41177660672"
+      ]
+    }
+  ],
+  "nearest_ground": [
+    {
+      "pad": "U101.11",
+      "nearest_ground_via_mm": 1.0499682896070603,
+      "via_xy_mm": [
+        36.96699998,
+        -7.18300062
+      ],
+      "pad_xy_mm": [
+        38.00093999999999,
+        -7.000240000000001
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        70
+      ]
+    },
+    {
+      "pad": "C101.2",
+      "nearest_ground_via_mm": 0.7914101687057947,
+      "via_xy_mm": [
+        40.50000028,
+        -9.449998879999999
+      ],
+      "pad_xy_mm": [
+        40.248839999999994,
+        -8.6995
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        108
+      ]
+    },
+    {
+      "pad": "C102.2",
+      "nearest_ground_via_mm": 1.4998495577105646,
+      "via_xy_mm": [
+        37.39999886,
+        -10.299999719999999
+      ],
+      "pad_xy_mm": [
+        38.699439999999996,
+        -11.049
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        39
+      ]
+    },
+    {
+      "pad": "C103.2",
+      "nearest_ground_via_mm": 1.1187853271214072,
+      "via_xy_mm": [
+        42.650001059999994,
+        -9.65000102
+      ],
+      "pad_xy_mm": [
+        42.14876,
+        -10.65022
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        107
+      ]
+    },
+    {
+      "pad": "U102.8",
+      "nearest_ground_via_mm": 0.8113993050449592,
+      "via_xy_mm": [
+        42.95000046,
+        2.4500001799999995
+      ],
+      "pad_xy_mm": [
+        43.6245,
+        1.99898
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        117
+      ]
+    },
+    {
+      "pad": "U102.3",
+      "nearest_ground_via_mm": 0.8974116235820885,
+      "via_xy_mm": [
+        42.95000046,
+        2.4500001799999995
+      ],
+      "pad_xy_mm": [
+        42.17416,
+        1.99898
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        117
+      ]
+    },
+    {
+      "pad": "C105.2",
+      "nearest_ground_via_mm": 2.2191790834823286,
+      "via_xy_mm": [
+        40.49899952,
+        -2.23499934
+      ],
+      "pad_xy_mm": [
+        41.9989,
+        -0.59944
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        19
+      ]
+    },
+    {
+      "pad": "C106.2",
+      "nearest_ground_via_mm": 1.3473704294726472,
+      "via_xy_mm": [
+        41.7576,
+        5.12214114
+      ],
+      "pad_xy_mm": [
+        42.99966,
+        4.599939999999999
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        117
+      ]
+    },
+    {
+      "pad": "C107.2",
+      "nearest_ground_via_mm": 2.4763935043429006,
+      "via_xy_mm": [
+        44.76242,
+        5.66062114
+      ],
+      "pad_xy_mm": [
+        47.00016,
+        4.599939999999999
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        117
+      ]
+    },
+    {
+      "pad": "C302.2",
+      "nearest_ground_via_mm": 6.1747900638558155,
+      "via_xy_mm": [
+        33.510220000000004,
+        -6.94539886
+      ],
+      "pad_xy_mm": [
+        29.499560000000002,
+        -2.2504399999999998
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        19
+      ]
+    },
+    {
+      "pad": "U301.4",
+      "nearest_ground_via_mm": 2.5961142724687027,
+      "via_xy_mm": [
+        24.35352,
+        -8.05283886
+      ],
+      "pad_xy_mm": [
+        25.02408,
+        -5.54482
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        19
+      ]
+    },
+    {
+      "pad": "C307.2",
+      "nearest_ground_via_mm": 0.7911510652428506,
+      "via_xy_mm": [
+        32.51708,
+        5.48282114
+      ],
+      "pad_xy_mm": [
+        33.2994,
+        5.6007
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        65
+      ]
+    },
+    {
+      "pad": "C308.2",
+      "nearest_ground_via_mm": 2.9529581669992733,
+      "via_xy_mm": [
+        32.51708,
+        5.48282114
+      ],
+      "pad_xy_mm": [
+        31.0007,
+        2.94894
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        65
+      ]
+    },
+    {
+      "pad": "U302.3",
+      "nearest_ground_via_mm": 4.2340581611558745,
+      "via_xy_mm": [
+        37.9230001,
+        0.48399953999999995
+      ],
+      "pad_xy_mm": [
+        34.00044,
+        -1.10998
+      ],
+      "layer": 2,
+      "CAM_polygon_indices": [
+        19
+      ]
+    },
+    {
+      "pad": "C207.2",
+      "nearest_ground_via_mm": 0.6995137800051154,
+      "via_xy_mm": [
+        67.62200089999999,
+        10.539001019999999
+      ],
+      "pad_xy_mm": [
+        67.5005,
+        9.85012
+      ],
+      "layer": 1,
+      "CAM_polygon_indices": [
+        2
+      ]
+    },
+    {
+      "pad": "C206.2",
+      "nearest_ground_via_mm": 0.0242681168013144,
+      "via_xy_mm": [
+        65.49499982,
+        9.2750005
+      ],
+      "pad_xy_mm": [
+        65.49897999999999,
+        9.29894
+      ],
+      "layer": 1,
+      "CAM_polygon_indices": [
+        213
+      ]
+    }
+  ],
+  "critical_nets": [
+    {
+      "net": "SW_L1",
+      "length_mm": 2.1089222802490912,
+      "layers": [
+        2
+      ],
+      "via_count": 0,
+      "trace_widths_mm": [
+        0.299999
+      ],
+      "switch_copper_xy_distance_mm": 0.0
+    },
+    {
+      "net": "SW_L2",
+      "length_mm": 2.1089222802490912,
+      "layers": [
+        2
+      ],
+      "via_count": 0,
+      "trace_widths_mm": [
+        0.299999
+      ],
+      "switch_copper_xy_distance_mm": 0.0
+    },
+    {
+      "net": "FB_3V45",
+      "length_mm": 3.121660000000004,
+      "layers": [
+        2
+      ],
+      "via_count": 0,
+      "trace_widths_mm": [
+        0.1524
+      ],
+      "switch_copper_xy_distance_mm": 1.4248003000000011
+    },
+    {
+      "net": "GSR_N",
+      "length_mm": 5.322106372477605,
+      "layers": [
+        2
+      ],
+      "via_count": 0,
+      "trace_widths_mm": [
+        0.1524
+      ],
+      "switch_copper_xy_distance_mm": 15.901730724556572
+    },
+    {
+      "net": "GSR_F",
+      "length_mm": 4.867831927818861,
+      "layers": [
+        1,
+        2
+      ],
+      "via_count": 1,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 18.716129760478076
+    },
+    {
+      "net": "GSR_S",
+      "length_mm": 31.589362781865628,
+      "layers": [
+        1,
+        2,
+        16
+      ],
+      "via_count": 5,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 17.50297828721154
+    },
+    {
+      "net": "GSR_ADC",
+      "length_mm": 21.150353109462852,
+      "layers": [
+        1,
+        2,
+        16
+      ],
+      "via_count": 2,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 9.721442444782827
+    },
+    {
+      "net": "VREF",
+      "length_mm": 17.922335441516815,
+      "layers": [
+        1,
+        2,
+        16
+      ],
+      "via_count": 3,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 14.894333023836497
+    },
+    {
+      "net": "VEX_MON",
+      "length_mm": 11.57591191597275,
+      "layers": [
+        1,
+        2,
+        16
+      ],
+      "via_count": 3,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 10.92285299190553
+    },
+    {
+      "net": "VAA",
+      "length_mm": 22.9799085888425,
+      "layers": [
+        1,
+        2,
+        16
+      ],
+      "via_count": 2,
+      "trace_widths_mm": [
+        0.127,
+        0.1524,
+        0.254
+      ],
+      "switch_copper_xy_distance_mm": 12.879244215906443
+    },
+    {
+      "net": "AFE_ADC_AUX",
+      "length_mm": 46.16394890241743,
+      "layers": [
+        1,
+        16
+      ],
+      "via_count": 2,
+      "trace_widths_mm": [
+        0.127
+      ],
+      "switch_copper_xy_distance_mm": 0.2353614799999999
+    }
+  ],
+  "method": "Current R26 snapshot and final actual Gerber parsed afresh. Centerline path estimates include pad center stubs, via barrel length excluded. Ground nearest via distance is geometric, not inductance or DC-return proof. Native DRC independently required."
+}

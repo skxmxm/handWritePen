@@ -1,0 +1,8838 @@
+{
+  "snapshot": "/Users/zjq/Suanni/项目/手写笔/hardware/pcb/rear_mainboard/restore_esp32/layout_r26/final_pcb.json",
+  "pcb_sha256": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+  "pad_checks": [
+    {
+      "ref": "U101",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09951443298750436
+      },
+      "paste_percent": {
+        "b": 99.1117905455193
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09993330000000125
+      },
+      "paste_percent": {
+        "b": 99.52896279242576
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09969196108050346
+      },
+      "paste_percent": {
+        "b": 99.28860034728426
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09986984235449814
+      },
+      "paste_percent": {
+        "b": 99.46576190104948
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09969196108049991
+      },
+      "paste_percent": {
+        "b": 99.28860034728072
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09954591463650005
+      },
+      "paste_percent": {
+        "b": 99.1431448175341
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09972353531849829
+      },
+      "paste_percent": {
+        "b": 99.32004683367654
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0995459146365036
+      },
+      "paste_percent": {
+        "b": 99.14314481753763
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "9",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09978690000000139
+      },
+      "paste_percent": {
+        "b": 99.38315513719175
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "10",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.09941918527350449
+      },
+      "paste_percent": {
+        "b": 99.0169282105143
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U101",
+      "pad": "11",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.1615291448060014
+      },
+      "paste_percent": {
+        "b": 86.0541730093036
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "10",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2689410038999986
+      },
+      "paste_percent": {
+        "b": 99.79397437608436
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "9",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2687126172599985
+      },
+      "paste_percent": {
+        "b": 99.70922861337257
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.3884065246392495
+      },
+      "paste_percent": {
+        "b": 99.64766241616044
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.26893201229999847
+      },
+      "paste_percent": {
+        "b": 99.79063792873356
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.269388785579998
+      },
+      "paste_percent": {
+        "b": 99.96012945415711
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.17944497047375008
+      },
+      "paste_percent": {
+        "b": 99.87800219578902
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.17914070514375038
+      },
+      "paste_percent": {
+        "b": 99.70864992462988
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.17898857247875025
+      },
+      "paste_percent": {
+        "b": 99.62397378905017
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.17899456195375044
+      },
+      "paste_percent": {
+        "b": 99.62730749517546
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U102",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.1791466946187505
+      },
+      "paste_percent": {
+        "b": 99.71198363075503
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B8",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3885575847839872
+      },
+      "paste_percent": {
+        "t": 99.68641766189666
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A5",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.38822745387199875
+      },
+      "paste_percent": {
+        "t": 99.60172090325821
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B7",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.38861084895199244
+      },
+      "paste_percent": {
+        "t": 99.70008285415157
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A6",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3889332061759901
+      },
+      "paste_percent": {
+        "t": 99.78278523373741
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A7",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3895622688799915
+      },
+      "paste_percent": {
+        "t": 99.94417445866137
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B6",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.38954797751999864
+      },
+      "paste_percent": {
+        "t": 99.94050793782378
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A8",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.38855758478399643
+      },
+      "paste_percent": {
+        "t": 99.68641766189903
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B5",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.38855758478399643
+      },
+      "paste_percent": {
+        "t": 99.68641766189903
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A1B12",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7799789832749932
+      },
+      "paste_percent": {
+        "t": 99.99998461632103
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B1A12",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7798921544610817
+      },
+      "paste_percent": {
+        "t": 99.98429454371741
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "B4A9",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7800140313197128
+      },
+      "paste_percent": {
+        "t": 99.9999194883482
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "A4B9",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7799479826816443
+      },
+      "paste_percent": {
+        "t": 99.99991794348743
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "2",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.8480421780807277,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 99.86979062864854,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "1",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 2.0866890992678315,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 99.93847404150148,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "4",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 2.0876691997349854,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 99.98541430928215,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J101",
+      "pad": "3",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.8489329047147944,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 99.91792626294668,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U103",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.05950232433099875
+      },
+      "paste_percent": {
+        "t": 98.93669509828831
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U103",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.059687468420998896
+      },
+      "paste_percent": {
+        "t": 99.24454096124482
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U103",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.05967572745500099
+      },
+      "paste_percent": {
+        "t": 99.22501882683825
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R101",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5763131856922291
+      },
+      "paste_percent": {
+        "b": 82.61998005895305
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R101",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758594454814463
+      },
+      "paste_percent": {
+        "b": 82.55493208139933
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C101",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7183085498679941
+      },
+      "paste_percent": {
+        "b": 99.84579670490133
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C101",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7187326031639943
+      },
+      "paste_percent": {
+        "b": 99.90474064924439
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J102",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.157979204480001
+      },
+      "paste_percent": {
+        "b": 99.95202292238149
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J102",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.157979204479998
+      },
+      "paste_percent": {
+        "b": 99.9520229223815
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J102",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9273718100190022
+      },
+      "paste_percent": {
+        "b": 99.8492067510288
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J102",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9278984965390015
+      },
+      "paste_percent": {
+        "b": 99.90591456838992
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q101",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5494273288800017
+      },
+      "paste_percent": {
+        "t": 99.87030478845632
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q101",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5494273288800021
+      },
+      "paste_percent": {
+        "t": 99.87030478845651
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q101",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5491728465600038
+      },
+      "paste_percent": {
+        "t": 99.82404712065288
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "L101",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.8112890693927468
+      },
+      "paste_percent": {
+        "b": 99.91827434572217
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "L101",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.811646588597497
+      },
+      "paste_percent": {
+        "b": 99.93799659910937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R102",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5766285114000618
+      },
+      "paste_percent": {
+        "b": 82.6651850001897
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R102",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765211189427722
+      },
+      "paste_percent": {
+        "b": 82.64978926936136
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D101",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.2789145082100009
+      },
+      "paste_percent": {
+        "t": 99.76884343261423
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D101",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.2786357895392514
+      },
+      "paste_percent": {
+        "t": 99.66914464103031
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D102",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.2787351071082516
+      },
+      "paste_percent": {
+        "t": 99.70467093564712
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D102",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.2789145082100015
+      },
+      "paste_percent": {
+        "t": 99.7688434326142
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D103",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.27882535167749434
+      },
+      "paste_percent": {
+        "b": 99.73695178169318
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D103",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2791456012200015
+      },
+      "paste_percent": {
+        "b": 99.85150633344745
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "F101",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.0548963290304907
+      },
+      "paste_percent": {
+        "b": 99.87130566250559
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "F101",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.0540191783844923
+      },
+      "paste_percent": {
+        "b": 99.82867471366357
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C102",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7183394554999931
+      },
+      "paste_percent": {
+        "b": 99.85009262682817
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C102",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.718796157659993
+      },
+      "paste_percent": {
+        "b": 99.9135748045503
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C103",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4815742860260326
+      },
+      "paste_percent": {
+        "b": 77.9235077867638
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C103",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833245662463703
+      },
+      "paste_percent": {
+        "b": 78.0155639027918
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R103",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575819413360937
+      },
+      "paste_percent": {
+        "t": 82.54919309593032
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R103",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763515497775918
+      },
+      "paste_percent": {
+        "t": 82.62547991570847
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R104",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759206071897308
+      },
+      "paste_percent": {
+        "t": 82.5637001943702
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R104",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762509424586938
+      },
+      "paste_percent": {
+        "t": 82.61105689904407
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C104",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "C104",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J103",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.157815404843999
+      },
+      "paste_percent": {
+        "b": 99.94443614631895
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J103",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.157979204479998
+      },
+      "paste_percent": {
+        "b": 99.9520229223815
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J103",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9280518552610009
+      },
+      "paste_percent": {
+        "b": 99.92242655050414
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J103",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9272184512970013
+      },
+      "paste_percent": {
+        "b": 99.83269476891472
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R105",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R105",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R106",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759836459913381
+      },
+      "paste_percent": {
+        "t": 82.57273740653386
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R106",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761908782944196
+      },
+      "paste_percent": {
+        "t": 82.60244612945263
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R107",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763672005717572
+      },
+      "paste_percent": {
+        "t": 82.627723606004
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R107",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5758060138118379
+      },
+      "paste_percent": {
+        "t": 82.54727214304089
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R108",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761360339367806
+      },
+      "paste_percent": {
+        "t": 82.59458366882
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R108",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760360352229575
+      },
+      "paste_percent": {
+        "t": 82.58024790148536
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R109",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5761293570818975
+      },
+      "paste_percent": {
+        "b": 82.59362647812769
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R109",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5760454284837665
+      },
+      "paste_percent": {
+        "b": 82.58159451482004
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R110",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5764433240236528
+      },
+      "paste_percent": {
+        "t": 82.63863662731565
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R110",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5757271511853206
+      },
+      "paste_percent": {
+        "t": 82.53596643497794
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R111",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758208119167874
+      },
+      "paste_percent": {
+        "b": 82.54939359222196
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R111",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.576353007900927
+      },
+      "paste_percent": {
+        "b": 82.62568895156596
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R112",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.576352940550586
+      },
+      "paste_percent": {
+        "b": 82.62567929625358
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R112",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758207435423939
+      },
+      "paste_percent": {
+        "b": 82.54938379010193
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C105",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833254044272286
+      },
+      "paste_percent": {
+        "b": 78.0156079869752
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C105",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833240699756016
+      },
+      "paste_percent": {
+        "b": 78.01553780139442
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C106",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833253008963312
+      },
+      "paste_percent": {
+        "b": 78.01560254176012
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C106",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833253070710612
+      },
+      "paste_percent": {
+        "b": 78.0156028665205
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C107",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4829610690160373
+      },
+      "paste_percent": {
+        "b": 77.9964457394128
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C107",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4820629377723218
+      },
+      "paste_percent": {
+        "b": 77.94920846105067
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R113",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761061959322192
+      },
+      "paste_percent": {
+        "t": 82.59030610689193
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R113",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760666268999275
+      },
+      "paste_percent": {
+        "t": 82.58463350952636
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R114",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.576005253577336
+      },
+      "paste_percent": {
+        "t": 82.57583505963046
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R114",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761674856986007
+      },
+      "paste_percent": {
+        "t": 82.59909257820989
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R115",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5759912372439446
+      },
+      "paste_percent": {
+        "b": 82.57382568484235
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R115",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5761833497907075
+      },
+      "paste_percent": {
+        "b": 82.60136684679506
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J104",
+      "pad": "4",
+      "layer": 1,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J104",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J104",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J104",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281209933
+      },
+      "paste_percent": {
+        "b": 99.90121397116967
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281209933
+      },
+      "paste_percent": {
+        "b": 99.90121397116967
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281210011
+      },
+      "paste_percent": {
+        "b": 99.90121397117085
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281210016
+      },
+      "paste_percent": {
+        "b": 99.90121397117079
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281209939
+      },
+      "paste_percent": {
+        "b": 99.9012139711696
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U104",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.6586248281209939
+      },
+      "paste_percent": {
+        "b": 99.9012139711696
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C108",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7178923443999983
+      },
+      "paste_percent": {
+        "b": 99.78794361857439
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C108",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7182895697999979
+      },
+      "paste_percent": {
+        "b": 99.8431584514503
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C109",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.719086202280002
+      },
+      "paste_percent": {
+        "b": 99.9538913734812
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C109",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7186799175599995
+      },
+      "paste_percent": {
+        "b": 99.89741728366961
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R202",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5764680395954298
+      },
+      "paste_percent": {
+        "b": 82.64217983975429
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R202",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5757047564485076
+      },
+      "paste_percent": {
+        "b": 82.53275593632036
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW202",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7335665732500005
+      },
+      "paste_percent": {
+        "t": 99.75001426452137
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW202",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.733236159906255
+      },
+      "paste_percent": {
+        "t": 99.7050848239584
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW202",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7343129509799992
+      },
+      "paste_percent": {
+        "t": 99.85150633344735
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW202",
+      "pad": "4",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7339822014525036
+      },
+      "paste_percent": {
+        "t": 99.80653117878688
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R203",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765437983880406
+      },
+      "paste_percent": {
+        "b": 82.65304058368562
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R203",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5766041738574833
+      },
+      "paste_percent": {
+        "b": 82.66169598183588
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW201",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7335665732500005
+      },
+      "paste_percent": {
+        "t": 99.75001426452137
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW201",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7330816173687477
+      },
+      "paste_percent": {
+        "t": 99.68407020731287
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW201",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7343129509799992
+      },
+      "paste_percent": {
+        "t": 99.85150633344735
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "SW201",
+      "pad": "4",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7338275016734963
+      },
+      "paste_percent": {
+        "t": 99.78549518052112
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R204",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.576183128610311
+      },
+      "paste_percent": {
+        "t": 82.60133513848034
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R204",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759912967545968
+      },
+      "paste_percent": {
+        "t": 82.57383421626086
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R205",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761825715445171
+      },
+      "paste_percent": {
+        "t": 82.60125527779705
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R205",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759908519315421
+      },
+      "paste_percent": {
+        "t": 82.57377044664248
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C206",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4818555300286342
+      },
+      "paste_percent": {
+        "t": 77.9382998356233
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C206",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4831637999917904
+      },
+      "paste_percent": {
+        "t": 78.0071083898903
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C207",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7192200442079997
+      },
+      "paste_percent": {
+        "t": 99.97249557071127
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C207",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7187633120760014
+      },
+      "paste_percent": {
+        "t": 99.9090092268435
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C214",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833246789026104
+      },
+      "paste_percent": {
+        "b": 78.01556982795498
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C214",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 1.4833234830343436
+      },
+      "paste_percent": {
+        "b": 78.01550693117613
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5857810001948796
+      },
+      "paste_percent": {
+        "b": 99.94302790764492
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5857810001948797
+      },
+      "paste_percent": {
+        "b": 99.94302790764495
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5855348882094603
+      },
+      "paste_percent": {
+        "b": 99.9010375101773
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5851558458190351
+      },
+      "paste_percent": {
+        "b": 99.83636719107879
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5859225403199982
+      },
+      "paste_percent": {
+        "b": 99.9671767767103
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5859225403199986
+      },
+      "paste_percent": {
+        "b": 99.96717677671037
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5856674692270349
+      },
+      "paste_percent": {
+        "b": 99.92365782106992
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U301",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.585275127565821
+      },
+      "paste_percent": {
+        "b": 99.85671844682768
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.4344449443461083
+      },
+      "paste_percent": {
+        "b": 99.64005012704345
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43485458796426807
+      },
+      "paste_percent": {
+        "b": 99.73400198717867
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.4356690709055487
+      },
+      "paste_percent": {
+        "b": 99.92080384125244
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43590455001488915
+      },
+      "paste_percent": {
+        "b": 99.97481103034256
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43585279777291247
+      },
+      "paste_percent": {
+        "b": 99.96294164147788
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "10",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43434646616755246
+      },
+      "paste_percent": {
+        "b": 99.61746413363872
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "9",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43473918752498714
+      },
+      "paste_percent": {
+        "b": 99.70753486929809
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.4354986502383007
+      },
+      "paste_percent": {
+        "b": 99.88171782115195
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.43569367537047843
+      },
+      "paste_percent": {
+        "b": 99.92644688106878
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U302",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.435663444814384
+      },
+      "paste_percent": {
+        "b": 99.91951349592108
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J301",
+      "pad": "1",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J301",
+      "pad": "2",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J301",
+      "pad": "3",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J301",
+      "pad": "4",
+      "layer": 12,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0,
+        "16": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0,
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.23556695648774872
+      },
+      "paste_percent": {
+        "b": 99.74036079956232
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2357318341107522
+      },
+      "paste_percent": {
+        "b": 99.8101709030307
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.23577500088999928
+      },
+      "paste_percent": {
+        "b": 99.8284479576773
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.23577500088999861
+      },
+      "paste_percent": {
+        "b": 99.82844795767701
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.23573183411075152
+      },
+      "paste_percent": {
+        "b": 99.81017090303041
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U303",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.23556695648774809
+      },
+      "paste_percent": {
+        "b": 99.74036079956205
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q301",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5501330628000017
+      },
+      "paste_percent": {
+        "b": 99.9985871981312
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q301",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5501330628000013
+      },
+      "paste_percent": {
+        "b": 99.9985871981313
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q301",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5501330628000017
+      },
+      "paste_percent": {
+        "b": 99.9985871981313
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D301",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "D301",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "D301",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R301",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5763054124233323
+      },
+      "paste_percent": {
+        "b": 82.61886568687741
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R301",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758674477722774
+      },
+      "paste_percent": {
+        "b": 82.55607928594989
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C301",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7188169138799976
+      },
+      "paste_percent": {
+        "t": 99.9164599453756
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C301",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7183603133199976
+      },
+      "paste_percent": {
+        "t": 99.85299189018197
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C302",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7189406551800026
+      },
+      "paste_percent": {
+        "b": 99.93366014254252
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C302",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7193102017200024
+      },
+      "paste_percent": {
+        "b": 99.98502757887971
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R302",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.576360499422342
+      },
+      "paste_percent": {
+        "t": 82.62676293245913
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R302",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5758128128718429
+      },
+      "paste_percent": {
+        "t": 82.54824685300065
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R303",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575921992404295
+      },
+      "paste_percent": {
+        "t": 82.56389877806203
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R303",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.576252448934301
+      },
+      "paste_percent": {
+        "t": 82.6112728666605
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C303",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7181060194559993
+      },
+      "paste_percent": {
+        "t": 99.81764472154154
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C303",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.718562528068
+      },
+      "paste_percent": {
+        "t": 99.88109999584691
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C304",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7191895293599976
+      },
+      "paste_percent": {
+        "b": 99.96825396825375
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C304",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7190978150399991
+      },
+      "paste_percent": {
+        "b": 99.95550556180477
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R304",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760359439748646
+      },
+      "paste_percent": {
+        "t": 82.58023482020295
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R304",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761359245542804
+      },
+      "paste_percent": {
+        "t": 82.59456798779775
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R305",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762602525823154
+      },
+      "paste_percent": {
+        "t": 82.61239159387172
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R305",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759136513320872
+      },
+      "paste_percent": {
+        "t": 82.56270300597681
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R306",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5759677442228237
+      },
+      "paste_percent": {
+        "b": 82.57045773667681
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R306",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5762064841770067
+      },
+      "paste_percent": {
+        "b": 82.60468338124572
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R307",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762600473027506
+      },
+      "paste_percent": {
+        "t": 82.61236216509228
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R307",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575913810039303
+      },
+      "paste_percent": {
+        "t": 82.5627257581665
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R308",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762065847769476
+      },
+      "paste_percent": {
+        "t": 82.60469780320535
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R308",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759674990233216
+      },
+      "paste_percent": {
+        "t": 82.57042258499526
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R309",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759127575258993
+      },
+      "paste_percent": {
+        "t": 82.56257487035379
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R309",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762592201718629
+      },
+      "paste_percent": {
+        "t": 82.61224358800824
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R310",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763132562041937
+      },
+      "paste_percent": {
+        "t": 82.61999016751425
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R310",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5758591485393869
+      },
+      "paste_percent": {
+        "t": 82.55488951192905
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R311",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5757193338887672
+      },
+      "paste_percent": {
+        "t": 82.53484575111871
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R311",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5764509789197522
+      },
+      "paste_percent": {
+        "t": 82.63973402952523
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C305",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7190087982000015
+      },
+      "paste_percent": {
+        "b": 99.94313210848647
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C305",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7192785462000013
+      },
+      "paste_percent": {
+        "b": 99.9806274215723
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R312",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5756971754464513
+      },
+      "paste_percent": {
+        "b": 82.53166912752582
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R312",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5764758805850038
+      },
+      "paste_percent": {
+        "b": 82.64330392023273
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R313",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5759836262269324
+      },
+      "paste_percent": {
+        "b": 82.57273457311821
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R313",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5761905056180048
+      },
+      "paste_percent": {
+        "b": 82.60239270274174
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R314",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5758204902300091
+      },
+      "paste_percent": {
+        "t": 82.54934747536129
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R314",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763526717199883
+      },
+      "paste_percent": {
+        "t": 82.62564075682943
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C306",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4821930153601384
+      },
+      "paste_percent": {
+        "t": 77.95604990128265
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C306",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4828310850245492
+      },
+      "paste_percent": {
+        "t": 77.98960922188654
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C307",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7186277924160019
+      },
+      "paste_percent": {
+        "b": 99.89017182274361
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C307",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7181711623919987
+      },
+      "paste_percent": {
+        "b": 99.82669967201625
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C308",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7181711623919996
+      },
+      "paste_percent": {
+        "b": 99.82669967201629
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C308",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7186277924159998
+      },
+      "paste_percent": {
+        "b": 99.89017182274318
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R315",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760602015645918
+      },
+      "paste_percent": {
+        "t": 82.58371237655477
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R315",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761148880777825
+      },
+      "paste_percent": {
+        "t": 82.59155220868335
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R316",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5761817433865105
+      },
+      "paste_percent": {
+        "b": 82.60113655346494
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R316",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5759900501290041
+      },
+      "paste_percent": {
+        "b": 82.5736555006176
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R317",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760601999842404
+      },
+      "paste_percent": {
+        "t": 82.58371214999633
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R317",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761148822141248
+      },
+      "paste_percent": {
+        "t": 82.59155136807217
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R318",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5757191476701597
+      },
+      "paste_percent": {
+        "t": 82.53481905490906
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R318",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.576450964288688
+      },
+      "paste_percent": {
+        "t": 82.63973193202294
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C309",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7184257029270036
+      },
+      "paste_percent": {
+        "t": 99.86208112823854
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C309",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7179691333550005
+      },
+      "paste_percent": {
+        "t": 99.79861738041564
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R319",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R319",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.0
+      },
+      "paste_percent": {
+        "t": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J302",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790856000002
+      },
+      "paste_percent": {
+        "t": 99.9873140857393
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999999
+      },
+      "paste_percent": {
+        "t": 99.98731408573927
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999999
+      },
+      "paste_percent": {
+        "t": 99.98731408573927
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "4",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999999
+      },
+      "paste_percent": {
+        "t": 99.98731408573927
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "5",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999999
+      },
+      "paste_percent": {
+        "t": 99.98731408573927
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "6",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790856000002
+      },
+      "paste_percent": {
+        "t": 99.9873140857393
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "7",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790856
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "8",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999998
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "9",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999998
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "10",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999998
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "11",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790855999998
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U401",
+      "pad": "12",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 4.876790856
+      },
+      "paste_percent": {
+        "t": 99.98731408573924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J402",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.156278472928004
+      },
+      "paste_percent": {
+        "b": 99.8732494297004
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J402",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.1573797644799977
+      },
+      "paste_percent": {
+        "b": 99.9242584098708
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J402",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9286002967200027
+      },
+      "paste_percent": {
+        "b": 99.98147670065836
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J402",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.927699487510504
+      },
+      "paste_percent": {
+        "b": 99.88448746286753
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R401",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5759968958065332
+      },
+      "paste_percent": {
+        "b": 82.57463689364364
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R401",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5761749145859101
+      },
+      "paste_percent": {
+        "b": 82.6001575799083
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C401",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7180684871359996
+      },
+      "paste_percent": {
+        "b": 99.8124276816035
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C401",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.718429844131999
+      },
+      "paste_percent": {
+        "b": 99.8626567609693
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C402",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7179713549479987
+      },
+      "paste_percent": {
+        "b": 99.7989261846515
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C402",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7177934640259994
+      },
+      "paste_percent": {
+        "b": 99.77419912155743
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R402",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758197010688613
+      },
+      "paste_percent": {
+        "b": 82.54923434160013
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R402",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5763520161583563
+      },
+      "paste_percent": {
+        "b": 82.62554677583037
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R403",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760903568597029
+      },
+      "paste_percent": {
+        "t": 82.58803542510357
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R403",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5760827314705229
+      },
+      "paste_percent": {
+        "t": 82.58694225299224
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R404",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5760974837165256
+      },
+      "paste_percent": {
+        "b": 82.58905712785668
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R404",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5760744164028087
+      },
+      "paste_percent": {
+        "b": 82.58575020889884
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C403",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7189292222700002
+      },
+      "paste_percent": {
+        "b": 99.932070953596
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C403",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7191629721500007
+      },
+      "paste_percent": {
+        "b": 99.9645624824837
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C404",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7188412534869998
+      },
+      "paste_percent": {
+        "b": 99.91984318152548
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C404",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7183846026349996
+      },
+      "paste_percent": {
+        "b": 99.85636813568014
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R405",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5764824495973128
+      },
+      "paste_percent": {
+        "b": 82.64424565066639
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R405",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5766652549118348
+      },
+      "paste_percent": {
+        "b": 82.67045253229854
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R406",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765978203373644
+      },
+      "paste_percent": {
+        "b": 82.66078514425962
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R406",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765512023118938
+      },
+      "paste_percent": {
+        "b": 82.65410200663514
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R407",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762907578498054
+      },
+      "paste_percent": {
+        "t": 82.61676481429127
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R407",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575881692657014
+      },
+      "paste_percent": {
+        "t": 82.55812142574786
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R408",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R408",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R409",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R409",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R410",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R410",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "R411",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5763454771563719
+      },
+      "paste_percent": {
+        "b": 82.62460934766231
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R411",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5758287008179059
+      },
+      "paste_percent": {
+        "b": 82.55052454127757
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R412",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759902863969321
+      },
+      "paste_percent": {
+        "t": 82.57368937187438
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R412",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5761819865021508
+      },
+      "paste_percent": {
+        "t": 82.60117140640644
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C405",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "C405",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "DNP",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "D401",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2784152257612497
+      },
+      "paste_percent": {
+        "b": 99.59024808890909
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D401",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.2788750289900016
+      },
+      "paste_percent": {
+        "b": 99.75472155654461
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D501",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6391320967259999
+      },
+      "paste_percent": {
+        "t": 99.83942869627222
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D501",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.639277649009999
+      },
+      "paste_percent": {
+        "t": 99.86216555607686
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R501",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762448893239664
+      },
+      "paste_percent": {
+        "t": 82.61018912457212
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R501",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5759298684819856
+      },
+      "paste_percent": {
+        "t": 82.56502788875665
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R502",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5766204560486928
+      },
+      "paste_percent": {
+        "b": 82.66403018890654
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R502",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765290309157499
+      },
+      "paste_percent": {
+        "b": 82.65092352598757
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D502",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6392296847699979
+      },
+      "paste_percent": {
+        "t": 99.85467301682857
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D502",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6391800560860066
+      },
+      "paste_percent": {
+        "t": 99.84692047321197
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R503",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765133847507787
+      },
+      "paste_percent": {
+        "b": 82.64868049933135
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R503",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5766358590714372
+      },
+      "paste_percent": {
+        "b": 82.6662383588108
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D503",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6393248731079962
+      },
+      "paste_percent": {
+        "t": 99.86954247704342
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "D503",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6390848629880025
+      },
+      "paste_percent": {
+        "t": 99.83205026943212
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "J501",
+      "pad": "8",
+      "layer": 2,
+      "assembly": "PCB_ONLY",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.0
+      },
+      "paste_percent": {
+        "b": 0.0
+      },
+      "paste_required": false,
+      "paste_forbidden": true,
+      "pass": true
+    },
+    {
+      "ref": "Q102",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5500988972600023
+      },
+      "paste_percent": {
+        "b": 99.9923768720087
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q102",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5500988972600017
+      },
+      "paste_percent": {
+        "b": 99.9923768720087
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q102",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5501408352000015
+      },
+      "paste_percent": {
+        "b": 100.0
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R504",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5757446118701067
+      },
+      "paste_percent": {
+        "b": 82.53846959031877
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R504",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5764290070878029
+      },
+      "paste_percent": {
+        "b": 82.63658415830419
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q103",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5674309453999977
+      },
+      "paste_percent": {
+        "t": 99.9579179680924
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q103",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5676698323999982
+      },
+      "paste_percent": {
+        "t": 100.0
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q103",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.567669832399998
+      },
+      "paste_percent": {
+        "t": 100.0
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q104",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5500707616799982
+      },
+      "paste_percent": {
+        "b": 99.98726262158331
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q104",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5500707616799974
+      },
+      "paste_percent": {
+        "b": 99.98726262158333
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "Q104",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5498010847999992
+      },
+      "paste_percent": {
+        "b": 99.93824301374052
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R505",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5764291148556004
+      },
+      "paste_percent": {
+        "t": 82.6365996078436
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R505",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575744385043426
+      },
+      "paste_percent": {
+        "t": 82.53843707255533
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R506",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5757825928673698
+      },
+      "paste_percent": {
+        "b": 82.54391452774948
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R506",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5763910541358974
+      },
+      "paste_percent": {
+        "b": 82.63114324144273
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R507",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5757824290884008
+      },
+      "paste_percent": {
+        "t": 82.54389104847556
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R507",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763906000863643
+      },
+      "paste_percent": {
+        "t": 82.63107814912088
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R508",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5763451251484596
+      },
+      "paste_percent": {
+        "t": 82.624558883978
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R508",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5758280433450957
+      },
+      "paste_percent": {
+        "t": 82.55043028629295
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R509",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.5762452248874406
+      },
+      "paste_percent": {
+        "t": 82.61023723078978
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R509",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.575929841901448
+      },
+      "paste_percent": {
+        "t": 82.56502407818364
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R510",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765905182353723
+      },
+      "paste_percent": {
+        "b": 82.65973831844292
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "R510",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.5765591770600562
+      },
+      "paste_percent": {
+        "b": 82.65524526268102
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C501",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7187525231280031
+      },
+      "paste_percent": {
+        "b": 99.90750954942892
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C501",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.7182957909959999
+      },
+      "paste_percent": {
+        "b": 99.84402320556045
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C203",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.7183515122399826
+      },
+      "paste_percent": {
+        "t": 99.85176852893336
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "C203",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.718565512319979
+      },
+      "paste_percent": {
+        "t": 99.88151481064763
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "1",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3184603736125024
+      },
+      "paste_percent": {
+        "t": 99.81085154757376
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "2",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "3",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "4",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31866352154250094
+      },
+      "paste_percent": {
+        "t": 99.87452153468479
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "5",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "6",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187738932524894
+      },
+      "paste_percent": {
+        "t": 99.9091138898817
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "7",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31866352154250094
+      },
+      "paste_percent": {
+        "t": 99.87452153468122
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "8",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "9",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3185707453225022
+      },
+      "paste_percent": {
+        "t": 99.84544390277243
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "10",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188666694724995
+      },
+      "paste_percent": {
+        "t": 99.93819152179225
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "11",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "12",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3185707453225022
+      },
+      "paste_percent": {
+        "t": 99.84544390277243
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "13",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "14",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "15",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3184603736125024
+      },
+      "paste_percent": {
+        "t": 99.8108515475702
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "16",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.318289772218498
+      },
+      "paste_percent": {
+        "t": 99.75738219369902
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "17",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "18",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "19",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31849284090049795
+      },
+      "paste_percent": {
+        "t": 99.82102734315086
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "20",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "21",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31869590958249794
+      },
+      "paste_percent": {
+        "t": 99.88467249260282
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "22",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31849284090049795
+      },
+      "paste_percent": {
+        "t": 99.82102734315096
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "23",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.318817830739998
+      },
+      "paste_percent": {
+        "t": 99.92288463941938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "24",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31849284090049795
+      },
+      "paste_percent": {
+        "t": 99.82102734315096
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "25",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31869590958249794
+      },
+      "paste_percent": {
+        "t": 99.88467249260282
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "26",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "27",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31849284090049795
+      },
+      "paste_percent": {
+        "t": 99.82102734315086
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "28",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "29",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188178307399983
+      },
+      "paste_percent": {
+        "t": 99.9228846394194
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "30",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3182897722184973
+      },
+      "paste_percent": {
+        "t": 99.75738219369879
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "31",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3184603736125024
+      },
+      "paste_percent": {
+        "t": 99.8108515475702
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "32",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "33",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "34",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3185707453225022
+      },
+      "paste_percent": {
+        "t": 99.84544390277243
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "35",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "36",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3188666694724995
+      },
+      "paste_percent": {
+        "t": 99.93819152179225
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "37",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3185707453225022
+      },
+      "paste_percent": {
+        "t": 99.84544390277243
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "38",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3189422501000019
+      },
+      "paste_percent": {
+        "t": 99.96187976502937
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "39",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31866352154250094
+      },
+      "paste_percent": {
+        "t": 99.87452153468122
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "40",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187738932524894
+      },
+      "paste_percent": {
+        "t": 99.9091138898817
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "41",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "42",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31866352154250094
+      },
+      "paste_percent": {
+        "t": 99.87452153468479
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "43",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "44",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31894225009999055
+      },
+      "paste_percent": {
+        "t": 99.96187976502938
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "45",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3184603736125024
+      },
+      "paste_percent": {
+        "t": 99.81085154757376
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "46",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31823483172749456
+      },
+      "paste_percent": {
+        "t": 99.74016291731392
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "47",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "48",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "49",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31843786535749524
+      },
+      "paste_percent": {
+        "t": 99.80379708087808
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "50",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "51",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3186408989874952
+      },
+      "paste_percent": {
+        "t": 99.86743124444213
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "52",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31843786535749524
+      },
+      "paste_percent": {
+        "t": 99.80379708087818
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "53",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999953
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "54",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31843786535749524
+      },
+      "paste_percent": {
+        "t": 99.80379708087818
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "55",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3186408989874952
+      },
+      "paste_percent": {
+        "t": 99.86743124444213
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "56",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "57",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.31843786535749524
+      },
+      "paste_percent": {
+        "t": 99.80379708087808
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "58",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "59",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3187627990999956
+      },
+      "paste_percent": {
+        "t": 99.90563679540082
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "60",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.3182348317274953
+      },
+      "paste_percent": {
+        "t": 99.74016291731415
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6397184301349873
+      },
+      "paste_percent": {
+        "t": 99.93102039207321
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6397184301349873
+      },
+      "paste_percent": {
+        "t": 99.93102039207321
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6396256539149943
+      },
+      "paste_percent": {
+        "t": 99.91652773108922
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 0.6396256539149943
+      },
+      "paste_percent": {
+        "t": 99.91652773108922
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4362871954629925
+      },
+      "paste_percent": {
+        "t": 99.92861271306994
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4368349012799926
+      },
+      "paste_percent": {
+        "t": 99.96671893767503
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4362871954629925
+      },
+      "paste_percent": {
+        "t": 99.92861271306994
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4367653662400028
+      },
+      "paste_percent": {
+        "t": 99.96188108901637
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4373132544000031
+      },
+      "paste_percent": {
+        "t": 100.0
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4367653662400028
+      },
+      "paste_percent": {
+        "t": 99.96188108901637
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4361481783950028
+      },
+      "paste_percent": {
+        "t": 99.918940704023
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.436695831200003
+      },
+      "paste_percent": {
+        "t": 99.95704324035766
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "U201",
+      "pad": "GND",
+      "layer": 1,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "1": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "t": 0.0
+      },
+      "paste_mm2": {
+        "t": 1.4361481783950028
+      },
+      "paste_percent": {
+        "t": 99.918940704023
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "1",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9271342789949996
+      },
+      "paste_percent": {
+        "b": 99.82363202030163
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "2",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.927134278995
+      },
+      "paste_percent": {
+        "b": 99.82363202030167
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "3",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.9282748007999998
+      },
+      "paste_percent": {
+        "b": 99.94643087646827
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "4",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.927134278995
+      },
+      "paste_percent": {
+        "b": 99.82363202030167
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "5",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 0.927134278995
+      },
+      "paste_percent": {
+        "b": 99.82363202030176
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "6",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.1571566063080003
+      },
+      "paste_percent": {
+        "b": 99.91392229973748
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    },
+    {
+      "ref": "J401",
+      "pad": "7",
+      "layer": 2,
+      "assembly": "FIT",
+      "copper_missing_core_mm2": {
+        "2": 0.0
+      },
+      "mask_missing_core_mm2": {
+        "b": 0.0
+      },
+      "paste_mm2": {
+        "b": 2.1579792044799992
+      },
+      "paste_percent": {
+        "b": 99.95202292238153
+      },
+      "paste_required": true,
+      "paste_forbidden": false,
+      "pass": true
+    }
+  ],
+  "J101_shell_slots_note": "USB shell plated slots intentionally have top paste; factory connector process confirmation is required. They are not treated as DNP/THT-jack no-paste pads.",
+  "api_pad_inset_mm": 0.003,
+  "inset_basis": "API 0.1 mil centre/size rounding: centre axis error 1.27 um, half-width error 0.635 um; 3 um inset covers their vector sum. Raw footprint copper/hole identity is checked without this inset separately.",
+  "checked_pads": 418,
+  "failed_pads": [],
+  "all_checks_pass": true
+}

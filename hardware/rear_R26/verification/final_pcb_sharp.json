@@ -1,0 +1,471 @@
+{
+  "snapshot": "final_pcb",
+  "method": "Same-layer same-net degree-two joined centerlines, included angle <=90.2deg; excludes real pad/via copper and other same-net branch copper at junction. This is not a general IPC certification.",
+  "free_sharp_angles": [],
+  "junctions": [
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        32.51708,
+        5.48282
+      ],
+      "included_angle_deg": 44.958025077463155,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "45ad47dcb40b21cc"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        36.75126,
+        -3.1862
+      ],
+      "included_angle_deg": 45.00000000000003,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d16e14"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        44.11472,
+        -1.71554
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d34e1"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        44.77004,
+        -3.79326
+      ],
+      "included_angle_deg": 90.00000000000384,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "rrg0cc35f66d861c"
+      ]
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        51.55692,
+        -4.62638
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "ce37a75373dcf756",
+        "rrg8ec4bc55161e3"
+      ]
+    },
+    {
+      "net": "3V45",
+      "layer": 2,
+      "position_mm": [
+        45.34916,
+        -2.7544
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "a1f6f2c8967476a9"
+      ]
+    },
+    {
+      "net": "3V45",
+      "layer": 16,
+      "position_mm": [
+        15.25524,
+        3.10538
+      ],
+      "included_angle_deg": 45.00000000000015,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d9a81cdf69082372"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GSR_F",
+      "layer": 2,
+      "position_mm": [
+        25.02408,
+        -1.25326
+      ],
+      "included_angle_deg": 44.99999999999988,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d49e38"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GSR_S",
+      "layer": 1,
+      "position_mm": [
+        24.35098,
+        -2.00256
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "895f37ce48026e0e"
+      ],
+      "branches": []
+    },
+    {
+      "net": "TIP_RAW",
+      "layer": 2,
+      "position_mm": [
+        17.59966,
+        -3.1481
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d104e16"
+      ],
+      "branches": []
+    },
+    {
+      "net": "3V45",
+      "layer": 1,
+      "position_mm": [
+        42.24782,
+        3.25
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d25e15"
+      ],
+      "branches": []
+    },
+    {
+      "net": "3V45",
+      "layer": 2,
+      "position_mm": [
+        39.19936,
+        3.19936
+      ],
+      "included_angle_deg": 45.00004853110963,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d26e15"
+      ],
+      "branches": []
+    },
+    {
+      "net": "3V45",
+      "layer": 2,
+      "position_mm": [
+        36.75126,
+        1.2461
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d78e15"
+      ],
+      "branches": []
+    },
+    {
+      "net": "SYS",
+      "layer": 2,
+      "position_mm": [
+        39.4,
+        -7.1
+      ],
+      "included_angle_deg": 14.036243467923546,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "39f597de4250d449"
+      ],
+      "branches": []
+    },
+    {
+      "net": "3V45",
+      "layer": 1,
+      "position_mm": [
+        66.5759,
+        7.975
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "04a0456e017c6103"
+      ]
+    },
+    {
+      "net": "3V45",
+      "layer": 1,
+      "position_mm": [
+        63.5,
+        7.975
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "03e3c4298980c557",
+        "22edca07a467cc00"
+      ]
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "position_mm": [
+        51.55,
+        -4.65
+      ],
+      "included_angle_deg": 89.99999999999986,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "f51afb4d64e9cbe7",
+        "rrg31c6b7427d030"
+      ]
+    },
+    {
+      "net": "USB_RAW",
+      "layer": 2,
+      "position_mm": [
+        55.05,
+        -6.95
+      ],
+      "included_angle_deg": 89.99999999999864,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d35e22"
+      ],
+      "branches": []
+    },
+    {
+      "net": "VBAT",
+      "layer": 1,
+      "position_mm": [
+        50.9651,
+        -1.25326
+      ],
+      "included_angle_deg": 12.178319805555162,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "425cedf92d6b0643"
+      ],
+      "branches": [
+        "bb01bef5d2410cb3",
+        "980120a40881680b",
+        "5c1f477ce40bbf20",
+        "f28b35276ef92910"
+      ]
+    },
+    {
+      "net": "VBAT",
+      "layer": 1,
+      "position_mm": [
+        50.95,
+        -1.25
+      ],
+      "included_angle_deg": 77.82168019444482,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "425cedf92d6b0643"
+      ],
+      "branches": [
+        "bb01bef5d2410cb3",
+        "7af2c545fb8c5500",
+        "980120a40881680b",
+        "f28b35276ef92910"
+      ]
+    },
+    {
+      "net": "OPT_SDA",
+      "layer": 2,
+      "position_mm": [
+        21.0,
+        1.0
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d96e15"
+      ],
+      "branches": []
+    },
+    {
+      "net": "BAT_PGATE",
+      "layer": 16,
+      "position_mm": [
+        50.41428,
+        -0.25
+      ],
+      "included_angle_deg": 45.00001940417657,
+      "kind": "branch_junction",
+      "anchors": [],
+      "branches": [
+        "rrga1e94f368ef7e",
+        "5be9d915e8730513"
+      ]
+    },
+    {
+      "net": "GSR_ADC",
+      "layer": 1,
+      "position_mm": [
+        28.75026,
+        -1.7511
+      ],
+      "included_angle_deg": 90.00000000000017,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d74e19"
+      ],
+      "branches": []
+    },
+    {
+      "net": "USB_DP",
+      "layer": 1,
+      "position_mm": [
+        48.49876,
+        -2.94894
+      ],
+      "included_angle_deg": 44.99999999999899,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d3e9"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 2,
+      "position_mm": [
+        37.81668,
+        -7.183
+      ],
+      "included_angle_deg": 44.999999999999744,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d0e34"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 2,
+      "position_mm": [
+        43.39952,
+        2.00048
+      ],
+      "included_angle_deg": 45.000000000000135,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d1e24"
+      ],
+      "branches": []
+    },
+    {
+      "net": "VOPT",
+      "layer": 2,
+      "position_mm": [
+        15.75054,
+        0.8001
+      ],
+      "included_angle_deg": 89.99999999999979,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d93e17"
+      ],
+      "branches": []
+    },
+    {
+      "net": "USB_RAW",
+      "layer": 2,
+      "position_mm": [
+        56.95,
+        -6.95
+      ],
+      "included_angle_deg": 44.999999999999616,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d35e20"
+      ],
+      "branches": []
+    },
+    {
+      "net": "GND",
+      "layer": 2,
+      "position_mm": [
+        10.39932,
+        2.89968
+      ],
+      "included_angle_deg": 90.0001212760526,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d88e16"
+      ],
+      "branches": []
+    },
+    {
+      "net": "OPT_SCL_C",
+      "layer": 2,
+      "position_mm": [
+        15.44552,
+        7.69892
+      ],
+      "included_angle_deg": 90.0000454785076,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d98e14"
+      ],
+      "branches": []
+    },
+    {
+      "net": "VOPT",
+      "layer": 2,
+      "position_mm": [
+        19.30016,
+        7.54702
+      ],
+      "included_angle_deg": 90.0,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d99e15"
+      ],
+      "branches": []
+    },
+    {
+      "net": "VAA",
+      "layer": 2,
+      "position_mm": [
+        28.09936,
+        -2.2495
+      ],
+      "included_angle_deg": 89.99999999999993,
+      "kind": "pad_or_via_junction",
+      "anchors": [
+        "d57e17"
+      ],
+      "branches": []
+    }
+  ],
+  "GSR_EN_free_sharp_angles": [],
+  "pass": true
+}

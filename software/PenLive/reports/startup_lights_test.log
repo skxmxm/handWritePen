@@ -1,0 +1,1 @@
+PASS: steady startup, service readiness gate, synchronous 10 cycles / 5 seconds, normal handoff, delayed initialization and timer rollover.

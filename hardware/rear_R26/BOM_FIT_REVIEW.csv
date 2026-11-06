@@ -1,0 +1,113 @@
+﻿Designator,Quantity,Manufacturer,Manufacturer Part,Supplier Part,Description,Footprint,Assembly,Method
+U101,1,TI(德州仪器),BQ25185DLHR,C19725033,BQ25185DLHR,WSON-10_L2.2-W2.0-P0.40-BL-EP_TI_DLH0010A,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U102,1,TI(德州仪器),TPS63802DLAR,C2845237,TPS63802DLAR,VSON-10_L3.0-W2.0-P0.50-TL,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+J101,1,韩国韩荣,TYPE-C-31-M-12,C165948,TYPE-C-31-M-12,USB-C_SMD-TYPE-C-31-M-12_1,FIT,SMT signal pins with plated shell slots; factory must confirm connector insertion and shell-tab soldering process
+U103,1,TI(德州仪器),TPD2EUSB30DRTR,C97502,TPD2EUSB30DRTR,SOT-9X3-3_L1.0-W0.8-P0.35-LS1.0-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R101,1,YAGEO(国巨),RC0603FR-075K1L,C105580,5.1k 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C101,1,SAMSUNG(三星),CL10A225KO8NNNC,C23630,2.2uF 16V X5R,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+J102,1,JST,SM02B-SRSS-TB(LF)(SN),C160402,SM02B-SRSS-TB(LF)(SN),CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+Q101,1,AnBon(安邦),BSS138,C193019,BSS138,SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+L101,1,muRata(村田),DFE201612E-R47M=P2,C668312,0.47uH,IND-SMD_L2.0-W1.6-1,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R102,1,YAGEO(国巨),RC0603FR-075K1L,C105580,5.1k 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D101,1,Nexperia(安世),"PESD5V0S1UL,315",C85402,"PESD5V0S1UL,315",SOD-882_L1.0-W0.6-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D102,1,Nexperia(安世),"PESD5V0S1UL,315",C85402,"PESD5V0S1UL,315",SOD-882_L1.0-W0.6-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D103,1,Nexperia(安世),"PESD5V0S1UL,315",C85402,"PESD5V0S1UL,315",SOD-882_L1.0-W0.6-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+F101,1,Littelfuse(美国力特),1206L050/15YR,C151162,1206L050/15YR,F1206,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C102,1,muRata(村田),GRM188R61A475KE15D,C71633,4.7uF 10V X5R,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C103,1,muRata(村田),GRM21BR61A106KE19L,C77073,10uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R103,1,YAGEO(国巨),RC0603FR-0724KL,C137760,24k 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R104,1,YAGEO(国巨),RC0603FR-075K1L,C105580,5.1k 1% / ICHG 58.8mA,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+J103,1,JST,SM02B-SRSS-TB(LF)(SN),C160402,SM02B-SRSS-TB(LF)(SN),CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R106,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R107,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R108,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R109,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R110,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R111,1,YAGEO(国巨),RT0603BRD0759KL,C705787,59k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R112,1,YAGEO(国巨),RT0603BRD0710KL,C95204,10k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C105,1,muRata(村田),GRM21BR61A226ME44L,C441864,22uF 10V X5R / VIN effective margin,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C106,1,muRata(村田),GRM21BR61A226ME44L,C441864,22uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C107,1,muRata(村田),GRM21BR61A226ME44L,C441864,22uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R113,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R114,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R115,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U104,1,TI(德州仪器),TPS22917DBVR,C2681320,TPS22917DBVR,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C108,1,muRata(村田),GRM1885C1H102JA01D,C77026,1nF 50V C0G,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C109,1,SAMSUNG(三星),CL10A225KO8NNNC,C23630,2.2uF 16V X5R,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R202,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+SW202,1,ALPSALPINE(阿尔卑斯阿尔派),SKRPACE010,C139797,RESET,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R203,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+SW201,1,ALPSALPINE(阿尔卑斯阿尔派),SKRPACE010,C139797,BOOT,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R204,1,YAGEO(国巨),RC0603FR-0727RL,C137753,27R 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R205,1,YAGEO(国巨),RC0603FR-0727RL,C137753,27R 1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C206,1,muRata(村田),GRM21BR61A106KE19L,C77073,10uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C207,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF 10V,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C214,1,muRata(村田),GRM21BR61A106KE19L,C77073,10uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U301,1,TI(德州仪器),OPA2333AIDGKR,C19608,OPA2333AIDGKR,MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U302,1,TI(德州仪器),ADS1115IDGSR,C37593,ADS1115IDGSR,MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+J301,1,CUI,SJ1-2503A,C4991647,SJ1-2503A,AUDIO-TH_SJ1-2503A,FIT,Manual THT after SMT; 2.5 mm jack; retain plated slots; no SMT placement
+U303,1,TI(德州仪器),TS5A3159DCKR,C46388,TS5A3159DCKR,SC-70-6_L2.0-W1.3-P0.65-LS2.1-BL-1,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+Q301,1,AnBon(安邦),BSS138,C193019,BSS138,SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R301,1,YAGEO(国巨),RC0603FR-0710RL,C109318,10R,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C301,1,muRata(村田),GRM188R61A475KE15D,C71633,4.7uF 10V,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C302,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R302,1,YAGEO(国巨),RT0603BRD0756KL,C705785,56k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R303,1,YAGEO(国巨),RT0603BRD0710KL,C95204,10k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C303,1,muRata(村田),GRM188R71C105KA12D,C97890,1uF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C304,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R304,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R305,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R306,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R307,1,YAGEO(国巨),RC0603FR-071ML,C105578,1M,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R308,1,YAGEO(国巨),RT0603BRD07100KL,C122538,100k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R309,1,YAGEO(国巨),RT0603BRD07100KL,C122538,100k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R310,1,YAGEO(国巨),RT0603BRD07100KL,C122538,100k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R311,1,YAGEO(国巨),RC0603FR-0722KL,C114065,22k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C305,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R312,1,YAGEO(国巨),RT0603BRD07140KL,C861125,140k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R313,1,YAGEO(国巨),RT0603BRD0710KL,C95204,10k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R314,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C306,1,muRata(村田),GRM21BR61A106KE19L,C77073,10uF 10V,C0805,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C307,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C308,1,muRata(村田),GRM188R71C105KA12D,C97890,1uF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R315,1,YAGEO(国巨),RC0603FR-074K7L,C99782,4.7k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R316,1,YAGEO(国巨),RC0603FR-074K7L,C99782,4.7k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R317,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R318,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C309,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U401,1,,jy901s,C9900019525,jy901s,COMM-SMD_JY901S-1,FIT,Manual after all reflow; JY901S bare module; no reflow without supplier thermal qualification
+J402,1,JST,SM02B-SRSS-TB(LF)(SN),C160402,SM02B-SRSS-TB(LF)(SN),CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R401,1,YAGEO(国巨),RC0603JR-070RL,C95177,0R,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C401,1,muRata(村田),GRM188R61A475KE15D,C71633,4.7uF 10V,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C402,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R402,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R403,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R404,1,YAGEO(国巨),RC0603JR-070RL,C95177,0R,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C403,1,muRata(村田),GRM188R61A475KE15D,C71633,4.7uF 10V,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C404,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R405,1,YAGEO(国巨),RC0603FR-0747RL,C114623,47R,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R406,1,YAGEO(国巨),RC0603FR-0747RL,C114623,47R,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R407,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R411,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R412,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D401,1,Nexperia(安世),"PESD5V0S1UL,315",C85402,"PESD5V0S1UL,315",SOD-882_L1.0-W0.6-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D501,1,LITEON(光宝),LTST-C190KRKT,C94869,RED SYS,LED0603-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R501,1,YAGEO(国巨),RC0603FR-073K3L,C108078,3.3k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R502,1,YAGEO(国巨),RC0603FR-073K3L,C108078,3.3k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D502,1,LITEON(光宝),LTST-C190KRKT,C94869,RED FAULT,LED0603-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R503,1,YAGEO(国巨),RC0603FR-073K3L,C108078,3.3k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+D503,1,LITEON(光宝),LTST-C190KRKT,C94869,RED CHG,LED0603-RD,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+Q102,1,AnBon(安邦),BSS138,C193019,BSS138,SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R504,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+Q103,1,DIODES(美台),BSS84-7-01-F,C526484,BSS84-7-01-F,SOT-23-3_L2.9-W1.3-P1.90-LS2.3-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+Q104,1,AnBon(安邦),BSS138,C193019,BSS138,SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R505,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R506,1,YAGEO(国巨),RC0603FR-0710KL,C98220,10k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R507,1,YAGEO(国巨),RC0603FR-07100KL,C14675,100k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R508,1,YAGEO(国巨),RT0603BRD07330KL,C861327,330k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R509,1,YAGEO(国巨),RT0603BRD07330KL,C861327,330k 0.1%,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+R510,1,YAGEO(国巨),RC0603FR-071KL,C22548,1k,R0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C501,1,muRata(村田),GRM188R71C104KA01D,C45000,100nF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+C203,1,SAMSUNG(三星),CL10A105KB8NNNC,C15849,1uF,C0603,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+U201,1,ESPRESSIF(乐鑫),ESP32-S3-MINI-1-N4R2,C3013941,ESP32-S3-MINI-1-N4R2,BULETM-SMD_ESP32-S3-MINI-1-N8,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview
+J401,1,JST,SM05B-SRSS-TB(LF)(SN),C136657,SM05B-SRSS-TB(LF)(SN),CONN-SMD_SM05B-SRSS-TB-LF-SN,FIT,Automatic SMT; verify package pin 1 and feeder rotation in factory preview

@@ -1,0 +1,27 @@
+{
+  "snapshot": "2026-11-06",
+  "hardware": {
+    "version": "R26",
+    "architecture": "ESP32 V0.3 / ESP32-S3-MINI-1-N4R2",
+    "design_date": "2026-10-09",
+    "assembly_notes_date": "2026-10-12",
+    "source": "hardware/rear_R26/Rear_ESP32S3_R26.epro",
+    "status": "prototype_under_debug_not_hardware_validated"
+  },
+  "firmware": {
+    "version": "0.61",
+    "date": "2026-11-05",
+    "entry": "firmware/Pen_R26_Live/Pen_R26_Live.ino"
+  },
+  "desktop": {
+    "functional_version": "0.60",
+    "bundled_release": "0.61",
+    "entry": "software/PenLive/pen_live.py",
+    "protocol": "v4 telemetry + A6 v1 optical batches"
+  },
+  "mechanical": {
+    "version": "0.5",
+    "print_revision": "2026-10-30 support fix"
+  },
+  "known_issues": "docs/KNOWN_ISSUES.md"
+}

@@ -1,0 +1,17 @@
+{
+  "via_in_pad_design": {
+    "url": "https://www.jlc.com/portal/q33i38630.html",
+    "retrieved_date": "2026-10-05",
+    "sha256": "efac2255061620dcc573fbddb4c39d794f6ef881c98e49599ddf42beb4f8109e"
+  },
+  "via_processing": {
+    "url": "https://www.jlc.com/portal/server_guide_15544.html",
+    "retrieved_date": "2026-10-05",
+    "sha256": "5c10d6d2fc6f7ccf00c144babd76c6805f34b6096469abd3ad9a73d15b92cc5d"
+  },
+  "capabilities": {
+    "url": "https://www.jlc.com/portal/vtechnology.html",
+    "retrieved_date": "2026-10-05",
+    "sha256": "a19dcaf0ef9db729be1d5af84acf4c0fb6a591b3bc810c111e44267112ef564d"
+  }
+}

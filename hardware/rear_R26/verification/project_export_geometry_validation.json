@@ -1,0 +1,65 @@
+{
+  "source_version": {
+    "snapshot": "final_r26",
+    "board_uuid": "9d288b71e4888da8ada6d1d2f5f0835b",
+    "project_uuid": "73a5c65758d84976a384b0168312617f",
+    "version": "R26",
+    "status": "ENGINEERING_SAMPLE_FILES_VERIFIED",
+    "orders_placed": false,
+    "physical_validation": "NOT_YET_TESTED"
+  },
+  "inputs_sha256": {
+    "final_pcb.json": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+    "final.epcb": "2084b7d1679660983e0aba47732dc202a9a4d21de6be4fd8f3032b068aedf13d",
+    "project_export_rear.epcb": "07cdbc491d3d7554bc7ca9703561636a664280b6bd818c9d2d90b4be86d79d83",
+    "Rear_ESP32S3_R26.epro": "94c581d00881a50d9d480f48da7cbc3cddc21054f8db267162a087efbe41d56c"
+  },
+  "coordinate_rule": {
+    "export_decimal_mil": 4,
+    "half_lsb_mil": 5e-05,
+    "half_lsb_mm": 1.27e-06
+  },
+  "native_lines": {
+    "match": true,
+    "missing": [],
+    "extra": [],
+    "source_count": 1664,
+    "export_count": 1664
+  },
+  "legacy_lines": {
+    "match": true,
+    "missing": [],
+    "extra": [],
+    "source_count": 1664,
+    "export_count": 1664
+  },
+  "native_legacy_vias_raw": {
+    "match": true,
+    "missing": [],
+    "extra": [],
+    "source_count": 231,
+    "export_count": 231
+  },
+  "native_vias": {
+    "match": true,
+    "missing": [],
+    "extra": [],
+    "source_count": 231,
+    "export_count": 231
+  },
+  "legacy_vias": {
+    "match": true,
+    "missing": [],
+    "extra": [],
+    "source_count": 231,
+    "export_count": 231
+  },
+  "api_via_dimension_rule": "API diameter = 2 * radius rounded to 0.1 mil; raw source and legacy diameters compared independently at 0.0001 mil.",
+  "components": {
+    "count": 123,
+    "issues": [],
+    "match": true
+  },
+  "pass_project_roundtrip": true,
+  "notes": "Missing/extra records fail even if covered by copper. No area tolerance or stale-record exemption. Pad geometry and aperture validation are separate."
+}

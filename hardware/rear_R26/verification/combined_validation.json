@@ -1,0 +1,106 @@
+{
+  "before_lines": 1667,
+  "after_lines": 1662,
+  "components_moved": 11,
+  "vias_moved": 1,
+  "delete": 74,
+  "add": 69,
+  "before_anchor_groups": 163,
+  "after_anchor_groups": 163,
+  "lost_anchor_connections": [],
+  "new_copper_clearance_violations": [],
+  "minimum_changed_copper_clearance": {
+    "track-track": {
+      "kind": "track-track",
+      "id": "R26_NEW_0002",
+      "net": "GND",
+      "other": "d655a36b58f197cd",
+      "other_net": "VIMU",
+      "gap_mm": 0.13120746577147005,
+      "required_mm": 0.127
+    },
+    "track-pad": {
+      "kind": "track-pad",
+      "id": "R26_NEW_0028",
+      "net": "VOPT",
+      "other": "d92e15",
+      "other_net": "3V45",
+      "gap_mm": 0.16120000000000004,
+      "required_mm": 0.152
+    },
+    "track-via": {
+      "kind": "track-via",
+      "id": "R26_NEW_0036",
+      "net": "OPT_SCL_C",
+      "other": "d7cc2bef7af14c53",
+      "other_net": "GND",
+      "gap_mm": 0.1559299152167726,
+      "required_mm": 0.152
+    },
+    "via-track": {
+      "kind": "via-track",
+      "id": "afbdc69324e5b991",
+      "net": "BAT_DIV",
+      "other": "rrga939213737c19",
+      "other_net": "BOOT_N",
+      "gap_mm": 0.16043939999999957,
+      "required_mm": 0.152
+    },
+    "via-via": {
+      "kind": "via-via",
+      "id": "afbdc69324e5b991",
+      "net": "BAT_DIV",
+      "other": "0da96fa5d092637c",
+      "other_net": "GSR_EN",
+      "gap_mm": 0.68642763428996,
+      "required_mm": 0.152
+    },
+    "pad-pad": {
+      "kind": "pad-pad",
+      "id": "d55e15",
+      "net": "3V45",
+      "other": "d71e14",
+      "other_net": "GSR_OUT",
+      "gap_mm": 0.36191991999999834,
+      "required_mm": 0.152
+    },
+    "pad-track": {
+      "kind": "pad-track",
+      "id": "d92e15",
+      "net": "3V45",
+      "other": "R26_NEW_0028",
+      "other_net": "VOPT",
+      "gap_mm": 0.16120000000000004,
+      "required_mm": 0.152
+    },
+    "pad-via": {
+      "kind": "pad-via",
+      "id": "d87e15",
+      "net": "3V45",
+      "other": "63433344e8b07bcf",
+      "other_net": "VIMU",
+      "gap_mm": 0.16147910000000107,
+      "required_mm": 0.152
+    }
+  },
+  "selection": [
+    {
+      "file": "interface_candidate.json",
+      "moves": 7,
+      "deleted_lines": 48,
+      "new_lines": 46
+    },
+    {
+      "file": "status_candidate.json",
+      "moves": 2,
+      "deleted_lines": 16,
+      "new_lines": 15
+    },
+    {
+      "file": "critical_candidate.json",
+      "moves": 2,
+      "deleted_lines": 10,
+      "new_lines": 8
+    }
+  ]
+}

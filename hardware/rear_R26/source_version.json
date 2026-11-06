@@ -1,0 +1,14 @@
+{
+  "snapshot": "final_r26",
+  "board_uuid": "9d288b71e4888da8ada6d1d2f5f0835b",
+  "project_uuid": "73a5c65758d84976a384b0168312617f",
+  "version": "R26",
+  "status": "ENGINEERING_SAMPLE_FILES_VERIFIED",
+  "orders_placed": false,
+  "physical_validation": "NOT_YET_TESTED",
+  "parent_snapshot": "R25",
+  "source_sha256": "2084b7d1679660983e0aba47732dc202a9a4d21de6be4fd8f3032b068aedf13d",
+  "epro_sha256": "94c581d00881a50d9d480f48da7cbc3cddc21054f8db267162a087efbe41d56c",
+  "pcb_sha256": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+  "change": "底面11件移位、局部布线和28位号重排、J401就近标注，补GND连通"
+}

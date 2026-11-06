@@ -1,0 +1,10 @@
+﻿Via ID,Net,X mm,Y mm,Mask side,Pad mm,Drill mm,Process
+b3a4d4c26c5e8e2b,SYS,37.95,1.3,top,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+c267603f1a86e4f7,BAT_PGATE,50.099999,0.05,top,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+d4328ea9d72ab6d3,GND,65.495,9.275001,top,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+ba736df5685f8da1,GSR_S,28.299999,-8.85,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+6420e7af0d8a7b5d,3V45,48.4,4.750001,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+11d03eb3005a9374,3V45,45.75,4.650001,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+2719fc3f5b40e85f,GND,49.200001,-5.699999,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+a9ae760946254279,SYS,43.549999,0.05,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"
+f7956eeaf5e128ae,CHG_STAT1,54.000001,0.499999,bottom,0.45212,0.20828,"Resin filled, planarized, copper capped (Type VII)"

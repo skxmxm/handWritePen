@@ -1,0 +1,39 @@
+{
+  "violations": [],
+  "worst_clearance": {
+    "line-line": {
+      "id": "R26_MERGE_CLEAN_3",
+      "other": "a02c4e3199ac085d",
+      "othernet": "VEX_MON",
+      "gap_mm": 0.4111771601116312,
+      "required_mm": 0.127
+    },
+    "line-pad": {
+      "id": "R26_MERGE_CLEAN_0",
+      "other": "d93e16",
+      "othernet": "GND",
+      "gap_mm": 0.380759158858695,
+      "required_mm": 0.152
+    },
+    "line-via": {
+      "id": "R26_MERGE_CLEAN_3",
+      "other": "7a0b42c026012875",
+      "othernet": "VEX_MON",
+      "gap_mm": 0.24861716011163104,
+      "required_mm": 0.152
+    },
+    "line-keepout": {
+      "id": "R26_MERGE_CLEAN_0",
+      "other": "magnet_keepout2",
+      "othernet": null,
+      "gap_mm": 3.6507847694595634,
+      "required_mm": 0.05
+    }
+  },
+  "terminal_partition_preserved": true,
+  "before_groups": 163,
+  "after_groups": 163,
+  "all_other_primitives_identical": true,
+  "all_new_axis_or_exact45": true,
+  "pass": true
+}

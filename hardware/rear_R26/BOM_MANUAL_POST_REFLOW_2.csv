@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Manufacturer,Manufacturer Part,Supplier Part,Description,Footprint,Assembly,Method
+J301,1,CUI,SJ1-2503A,C4991647,SJ1-2503A,AUDIO-TH_SJ1-2503A,FIT,Manual THT after SMT; 2.5 mm jack; retain plated slots; no SMT placement
+U401,1,,jy901s,C9900019525,jy901s,COMM-SMD_JY901S-1,FIT,Manual after all reflow; JY901S bare module; no reflow without supplier thermal qualification

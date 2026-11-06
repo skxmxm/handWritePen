@@ -1,0 +1,109 @@
+{
+  "U201": {
+    "1": "GND",
+    "2": "GND",
+    "3": "3V45",
+    "4": "BOOT_N",
+    "5": "BAT_ADC",
+    "6": "AFE_ADC_AUX",
+    "7": null,
+    "8": "AFE_SDA",
+    "9": "AFE_SCL",
+    "10": "AFE_RDY",
+    "11": "GSR_EN",
+    "12": "OPT_SCL",
+    "13": "OPT_SDA",
+    "14": "OPT_MOTION",
+    "15": "TIP_SW",
+    "16": "LED_SYS",
+    "17": "LED_FAULT",
+    "18": "USB_ABSENT",
+    "19": "CHG_STAT1",
+    "20": "CHG_STAT2",
+    "21": "IMU_HOST_TX",
+    "22": "IMU_HOST_RX",
+    "23": "MCU_USB_DM",
+    "24": "MCU_USB_DP",
+    "25": "CHG_EN",
+    "26": null,
+    "27": "PWR_GOOD",
+    "28": null,
+    "29": null,
+    "30": "BAT_SENSE_EN",
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": "UART0_TX",
+    "40": "UART0_RX",
+    "41": null,
+    "42": "GND",
+    "43": "GND",
+    "44": null,
+    "45": "MCU_EN",
+    "46": "GND",
+    "47": "GND",
+    "48": "GND",
+    "49": "GND",
+    "50": "GND",
+    "51": "GND",
+    "52": "GND",
+    "53": "GND",
+    "54": "GND",
+    "55": "GND",
+    "56": "GND",
+    "57": "GND",
+    "58": "GND",
+    "59": "GND",
+    "60": "GND",
+    "GND": "GND"
+  },
+  "R202": {
+    "1": "3V45",
+    "2": "MCU_EN"
+  },
+  "C203": {
+    "1": "MCU_EN",
+    "2": "GND"
+  },
+  "SW202": {
+    "1": "MCU_EN",
+    "2": "MCU_EN",
+    "3": "GND",
+    "4": "GND"
+  },
+  "R203": {
+    "1": "3V45",
+    "2": "BOOT_N"
+  },
+  "SW201": {
+    "1": "BOOT_N",
+    "2": "BOOT_N",
+    "3": "GND",
+    "4": "GND"
+  },
+  "R204": {
+    "1": "USB_DM",
+    "2": "MCU_USB_DM"
+  },
+  "R205": {
+    "1": "USB_DP",
+    "2": "MCU_USB_DP"
+  },
+  "C206": {
+    "1": "3V45",
+    "2": "GND"
+  },
+  "C207": {
+    "1": "3V45",
+    "2": "GND"
+  },
+  "C214": {
+    "1": "3V45",
+    "2": "GND"
+  }
+}

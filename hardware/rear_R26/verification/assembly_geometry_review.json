@@ -1,0 +1,34 @@
+{
+  "fitted_components": 112,
+  "body_polygons_present": 112,
+  "body_polygon_missing_refs": [],
+  "same_side_body_overlaps": [],
+  "nearest_body_gap_mm": 0.47498508,
+  "body_gaps_under_0_5mm": [
+    {
+      "refs": [
+        "C105",
+        "U102"
+      ],
+      "body_gap_mm": 0.47498508
+    },
+    {
+      "refs": [
+        "C106",
+        "U102"
+      ],
+      "body_gap_mm": 0.47503588
+    }
+  ],
+  "intercomponent_fitted_pad_overlap": [],
+  "minimum_intercomponent_fitted_pad_gap": {
+    "pad1": "C101.1",
+    "pad2": "R101.2",
+    "gap_mm": 0.21716999999999947,
+    "same_net": false
+  },
+  "notes": [
+    "Uses vendor footprint component-outline polygons on layer 48, not physical caliper measurements or connector mated envelopes. Includes same-net pads in overlap detection.",
+    "R26 moves 11 components and one via; report is recomputed from the final snapshot and same-version embedded footprint library."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "vias": [
+    {
+      "async": true,
+      "primitiveType": "Via",
+      "net": "GND",
+      "x": 137.7952755905512,
+      "y": -102.36220472440945,
+      "holeDiameter": 8.2,
+      "diameter": 17.8,
+      "viaType": 0,
+      "designRuleBlindViaName": "",
+      "solderMaskExpansion": {
+        "topSolderMask": -10,
+        "bottomSolderMask": -10
+      },
+      "primitiveLock": false,
+      "primitiveId": "7734bc0f3cf670f5"
+    }
+  ],
+  "lines": [
+    {
+      "async": true,
+      "primitiveType": "Line",
+      "net": "GND",
+      "layer": 1,
+      "startX": 137.7952755905512,
+      "startY": -150,
+      "endX": 137.7952755905512,
+      "endY": -102.36220472440945,
+      "lineWidth": 7.874015748031497,
+      "primitiveLock": false,
+      "primitiveId": "e9e26ee61bb6d232"
+    },
+    {
+      "async": true,
+      "primitiveType": "Line",
+      "net": "GND",
+      "layer": 2,
+      "startX": 81.2,
+      "startY": -102.36220472440945,
+      "endX": 137.7952755905512,
+      "endY": -102.36220472440945,
+      "lineWidth": 7.874015748031497,
+      "primitiveLock": false,
+      "primitiveId": "78381179bad551ef"
+    }
+  ]
+}

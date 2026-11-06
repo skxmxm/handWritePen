@@ -1,0 +1,95 @@
+{
+  "all_checks_pass": true,
+  "input_sha256": {
+    "final_silk.json": "3e22dcdc05a9a762e72b71f3b850c2db60c56d9f571932f4f616f760888b4a15",
+    "final_pcb.json": "9f1e877030447fde3a9d45c8e63cae7cf1cb643a3251bc521f28f9020e10c48f",
+    "Rear_ESP32S3_R26.epro": "94c581d00881a50d9d480f48da7cbc3cddc21054f8db267162a087efbe41d56c"
+  },
+  "method": "Actual Gerber silk/mask geometry; exact API bounding rectangles for ordinary stroke text; actual clipped Chinese glyphs; native POLY+FILL layer48 bodies includes own and DNP bodies.",
+  "visible_labels": 126,
+  "visible_bottom_references": 55,
+  "native_embedded_silk_shapes": 158,
+  "native_body_components": 120,
+  "native_body_primitives": {
+    "POLY48": 115,
+    "FILL48": 5
+  },
+  "minimum_distances_mm": {
+    "label_mask_L1": 0.17408711000000207,
+    "label_body": 0.18202007447613477,
+    "label_mask_L2": 0.17036823777188081,
+    "label_label": 0.09999965999999726,
+    "outline_label": 0.10193730274354086
+  },
+  "conflicts": {
+    "label_mask": [],
+    "label_label": [],
+    "label_body": [],
+    "outline_label": [],
+    "outline_other_body": [],
+    "outline_other_outline": []
+  },
+  "unsupported_shapes": [],
+  "actual_gerber": {
+    "1": {
+      "silk_mask_overlap_mm2": 0.0,
+      "minimum_silk_mask_gap_mm": 0.17197840934068703,
+      "mask_0_1699_guard_intrusion_mm2": 0.0
+    },
+    "2": {
+      "silk_mask_overlap_mm2": 0.0,
+      "minimum_silk_mask_gap_mm": 0.17198409599815304,
+      "mask_0_1699_guard_intrusion_mm2": 0.0
+    }
+  },
+  "reference_plan_mismatches": [],
+  "J401_label_check": {
+    "expected_counts": {
+      "J401 OPT": 1,
+      "1 VDD": 1,
+      "2 SCL": 1,
+      "3 SDA": 1,
+      "4 MOT": 1,
+      "5 GND": 1
+    },
+    "obsolete_remaining": []
+  },
+  "C401_detail": {
+    "visible_text_nearby": [
+      {
+        "id": "d88-a2",
+        "text": "C401",
+        "layer": 4,
+        "bbox": [
+          10.449999830000003,
+          -0.20982994000000002,
+          11.550000170000004,
+          2.2098299399999988
+        ]
+      },
+      {
+        "id": "d89-a2",
+        "text": "C402",
+        "layer": 4,
+        "bbox": [
+          12.051740059999984,
+          -0.3500001699999971,
+          14.748259939999985,
+          0.7500001700000036
+        ]
+      }
+    ],
+    "embedded_silk_nearby": [],
+    "C401_embedded_silk_shape_count": 0,
+    "actual_silk_over_pad": [
+      {
+        "pad": "2",
+        "silk_intersection_mm2": 0.0
+      },
+      {
+        "pad": "1",
+        "silk_intersection_mm2": 0.0
+      }
+    ]
+  }
+}

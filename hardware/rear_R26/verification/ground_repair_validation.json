@@ -1,0 +1,95 @@
+{
+  "source_sha256": "56f179593a34cbb249a80f090cdf721e19a18ea2e29fdf7bf6f2e95f1f979f6b",
+  "before_lines": 1663,
+  "after_lines": 1665,
+  "before_vias": 230,
+  "after_vias": 231,
+  "clearance_violations": [],
+  "minimum_clearances": {
+    "line-line": {
+      "new": "R26_GND_REPAIR_L1",
+      "other": "75d2c82d85af9e59",
+      "net": "IMU_TX",
+      "gap_mm": 1.1654611400000001,
+      "required_mm": 0.127
+    },
+    "line-pad": {
+      "new": "R26_GND_REPAIR_L1",
+      "other": "d84e51",
+      "net": "IMU_TX",
+      "gap_mm": 0.46799999999999997,
+      "required_mm": 0.152
+    },
+    "line-via": {
+      "new": "R26_GND_REPAIR_L1",
+      "other": "7b3d472d0e813757",
+      "net": "IMU_TX",
+      "gap_mm": 1.4570576033178075,
+      "required_mm": 0.152
+    },
+    "line-region": {
+      "new": "R26_GND_REPAIR_L1",
+      "other": "magnet_keepout1",
+      "net": null,
+      "gap_mm": 5.140000299999997,
+      "required_mm": 0.05
+    },
+    "via-line": {
+      "new": "R26_GND_REPAIR_V1",
+      "other": "75d2c82d85af9e59",
+      "net": "IMU_TX",
+      "gap_mm": 1.03940114,
+      "required_mm": 0.152
+    },
+    "via-pad": {
+      "new": "R26_GND_REPAIR_V1",
+      "other": "d84e51",
+      "net": "IMU_TX",
+      "gap_mm": 0.34194000000000013,
+      "required_mm": 0.152
+    },
+    "via-via": {
+      "new": "R26_GND_REPAIR_V1",
+      "other": "7b3d472d0e813757",
+      "net": "IMU_TX",
+      "gap_mm": 1.3310019792580714,
+      "required_mm": 0.152
+    },
+    "via-region": {
+      "new": "R26_GND_REPAIR_V1",
+      "other": "magnet_keepout1",
+      "net": null,
+      "gap_mm": 5.013940299999998,
+      "required_mm": 0.05
+    }
+  },
+  "pad_entries": [
+    {
+      "pad_id": "d84e52",
+      "ref": "U401.5",
+      "entry_mm": [
+        3.5000000000000004,
+        -3.81
+      ],
+      "inside_pad_with_halftrack_margin": true
+    },
+    {
+      "pad_id": "1e534ecfe57da343e26",
+      "ref": "J401.6",
+      "entry_mm": [
+        2.06248,
+        -2.6
+      ],
+      "inside_pad_with_halftrack_margin": true
+    }
+  ],
+  "new_via_tented_both_sides": true,
+  "new_via_drill_has_no_mask_hits": true,
+  "new_via_inside_existing_GND_inner_plane": true,
+  "free_sharp_angles": [],
+  "pass_": true,
+  "limits": [
+    "Offline explicit copper checks passed. Root must re-pour, native DRC, full actual CAM connectivity, mask/silk and export checks after application.",
+    "Adds one 0.45212/0.20828mm tented through-via. Native drill count increases230 to231. Existing nine via-in-pad positions expected unchanged."
+  ]
+}

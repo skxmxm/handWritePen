@@ -1,0 +1,75 @@
+{
+  "length_mm": 67,
+  "body_diameter_mm": 6,
+  "body_length_mm": 56.5,
+  "transition_length_mm": 3,
+  "front_guide_diameter_mm": 2.5,
+  "front_guide_length_mm": 7.5,
+  "matches_v05_reference": true,
+  "cad_valid": true,
+  "single_solid": true,
+  "watertight": true,
+  "print_bounds_mm": [
+    [
+      -2.9999999999999987,
+      -3.0,
+      -3.3306690738754696e-16
+    ],
+    [
+      3.0000000000000075,
+      3.0,
+      67.0
+    ]
+  ],
+  "volume_mm3": 1679.279448114169,
+  "nominal_plunger_contact_x_mm": 67,
+  "shell_checks": [
+    {
+      "axial_shift_mm": -0.5,
+      "overlap_mm3": {
+        "01_one_piece_barrel": 0.0,
+        "02_threaded_nose": 0.0,
+        "05_switch_carrier_lower": 0.0,
+        "06_switch_carrier_upper": 0.0
+      }
+    },
+    {
+      "axial_shift_mm": 0,
+      "overlap_mm3": {
+        "01_one_piece_barrel": 0.0,
+        "02_threaded_nose": 0.0,
+        "05_switch_carrier_lower": 0.0,
+        "06_switch_carrier_upper": 0.0
+      }
+    },
+    {
+      "axial_shift_mm": 0.2,
+      "overlap_mm3": {
+        "01_one_piece_barrel": 0.0,
+        "02_threaded_nose": 0.0,
+        "05_switch_carrier_lower": 0.0,
+        "06_switch_carrier_upper": 0.0
+      }
+    },
+    {
+      "axial_shift_mm": 0.3,
+      "overlap_mm3": {
+        "01_one_piece_barrel": 0.0,
+        "02_threaded_nose": 0.0,
+        "05_switch_carrier_lower": 0.0,
+        "06_switch_carrier_upper": 0.0
+      }
+    }
+  ],
+  "forward_stop_between_shift_mm": [
+    -0.6,
+    -0.5
+  ],
+  "source_shell_sha256": {
+    "01_one_piece_barrel": "2824bc6b39e74720ecd8ed4c40ea0ad3cc917fefeb1bc1df5edeb2f33cf4a204",
+    "02_threaded_nose": "95ccf5b1c7ec4f8db0f279d7e3e490021962a1a905aad7a8e98a4a80b9126ed2",
+    "05_switch_carrier_lower": "caf72f8d94c14de4cc25c1af8173acdf269a555658bd60632dad936f96aaff6f",
+    "06_switch_carrier_upper": "7d65d924b8c224ec064d68cd3f4b2e766511638e25b40c6b9a12f609c643e04b"
+  },
+  "physical_test": "not performed; refill SKU and real nose dimensions unknown"
+}

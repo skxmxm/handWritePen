@@ -1,0 +1,624 @@
+{
+  "date": "2026-10-29",
+  "source": "LCSC public search and product catalogue",
+  "chinese_storefront_status": "Not directly readable; item links generated from returned productId; domestic availability and checkout conditions need confirmation on Chinese site.",
+  "products": [
+    {
+      "productCode": "C47018648",
+      "productId": 49200433,
+      "productModel": "HX 1.0-2P DT 200mm 28AWG",
+      "brandNameEn": "hanxia",
+      "stockNumber": 895,
+      "domesticStockVO": {
+        "total": 895,
+        "shipImmediately": 895,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 5,
+      "split": 5,
+      "paramVOList": null,
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/40f394b4dee24f35c469cd64af705ed8.pdf?productCode=C47018648"
+    },
+    {
+      "productCode": "C47018651",
+      "productId": 49200436,
+      "productModel": "HX 1.0-5P DT 200mm 28AWG",
+      "brandNameEn": "hanxia",
+      "stockNumber": 320,
+      "domesticStockVO": {
+        "total": 320,
+        "shipImmediately": 320,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 5,
+      "split": 5,
+      "paramVOList": null,
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/1b8582a0581a20b97ccfc19a0f067e67.pdf?productCode=C47018651"
+    },
+    {
+      "productCode": "C7496792",
+      "productId": 8563121,
+      "productModel": "7.0024",
+      "brandNameEn": "XFCN",
+      "stockNumber": 789,
+      "domesticStockVO": {
+        "total": 789,
+        "shipImmediately": 789,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 1,
+      "split": 1,
+      "paramVOList": [
+        {
+          "paramCode": "param_31090",
+          "paramName": "颜色",
+          "paramNameEn": "colour",
+          "paramValue": "灰色、白色、紫色、红色、绿色、蓝色、金色、黑色",
+          "paramValueEn": "Gray, white, purple, red, green, blue, gold, black",
+          "paramValueEnForSearch": -1,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 2
+        },
+        {
+          "paramCode": "param_31246",
+          "paramName": "类型",
+          "paramNameEn": "type",
+          "paramValue": "端子线",
+          "paramValueEn": "Terminal wire",
+          "paramValueEnForSearch": -1,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 57
+        },
+        {
+          "paramCode": "param_33159",
+          "paramName": "配件",
+          "paramNameEn": "accessories",
+          "paramValue": "2个胶壳、16个端子",
+          "paramValueEn": "2 housings, 16 terminals",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 9
+        },
+        {
+          "paramCode": "param_33158",
+          "paramName": "连接端数",
+          "paramNameEn": "Number of connected terminals",
+          "paramValue": "双头",
+          "paramValueEn": "Double-ended",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 8
+        },
+        {
+          "paramCode": "param_33157",
+          "paramName": "连接方式",
+          "paramNameEn": "connection mode",
+          "paramValue": "双头同向",
+          "paramValueEn": "Double-ended same direction",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 7
+        },
+        {
+          "paramCode": "param_33155",
+          "paramName": "线长",
+          "paramNameEn": "line length",
+          "paramValue": "300mm",
+          "paramValueEn": "300mm",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 5
+        },
+        {
+          "paramCode": "param_31252",
+          "paramName": "外径",
+          "paramNameEn": "Outer Diameter",
+          "paramValue": "0.38mm",
+          "paramValueEn": "0.38mm",
+          "paramValueEnForSearch": -1,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 63
+        },
+        {
+          "paramCode": "param_33154",
+          "paramName": "线规",
+          "paramNameEn": "wire gauge",
+          "paramValue": "32AWG",
+          "paramValueEn": "32AWG",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 4
+        },
+        {
+          "paramCode": "param_33153",
+          "paramName": "线材",
+          "paramNameEn": "wire",
+          "paramValue": "UL10064 32AWG",
+          "paramValueEn": "UL10064 32AWG",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 3
+        },
+        {
+          "paramCode": "param_33152",
+          "paramName": "线芯数",
+          "paramNameEn": "line number",
+          "paramValue": "8",
+          "paramValueEn": "8",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 2
+        },
+        {
+          "paramCode": "param_33160",
+          "paramName": "针脚数",
+          "paramNameEn": "pin count",
+          "paramValue": "8P",
+          "paramValueEn": "8P",
+          "paramValueEnForSearch": -1,
+          "isMain": null,
+          "sortNumber": 1,
+          "sort": 10
+        }
+      ],
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/2121f755a4770f7f9fc2cfd9470b9ff2.pdf?productCode=C7496792"
+    },
+    {
+      "productCode": "C5439718",
+      "productId": 6318536,
+      "productModel": "MF52B103F3435L100",
+      "brandNameEn": "SURGING",
+      "stockNumber": 3690,
+      "domesticStockVO": {
+        "total": 3690,
+        "shipImmediately": 3690,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 5,
+      "split": 5,
+      "paramVOList": [
+        {
+          "paramCode": "param_11304_n",
+          "paramName": "阻值",
+          "paramNameEn": "Resistance @ 25℃",
+          "paramValue": "10kΩ",
+          "paramValueEn": "10kΩ",
+          "paramValueEnForSearch": 10000,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 1
+        },
+        {
+          "paramCode": "param_10837_n",
+          "paramName": "功率",
+          "paramNameEn": "Power(Watts)",
+          "paramValue": "150mW",
+          "paramValueEn": "150mW",
+          "paramValueEnForSearch": 0.15,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 9
+        },
+        {
+          "paramCode": "param_11312_s",
+          "paramName": "工作温度",
+          "paramNameEn": "Operating Temperature",
+          "paramValue": "-25℃~+125℃",
+          "paramValueEn": "-25℃~+125℃",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 16
+        },
+        {
+          "paramCode": "param_32028_n",
+          "paramName": "热时间常数",
+          "paramNameEn": "Thermal Time Constant",
+          "paramValue": "15s",
+          "paramValueEn": "15s",
+          "paramValueEnForSearch": 15,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 18
+        },
+        {
+          "paramCode": "param_11310_n",
+          "paramName": "B值(25℃/85℃)",
+          "paramNameEn": "B Constant (25℃/85℃)",
+          "paramValue": "3435K",
+          "paramValueEn": "3435K",
+          "paramValueEnForSearch": 3435,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 10
+        },
+        {
+          "paramCode": "param_11308_n",
+          "paramName": "B值(25℃/50℃)",
+          "paramNameEn": "B Constant (25℃/50℃)",
+          "paramValue": "3435K",
+          "paramValueEn": "3435K",
+          "paramValueEnForSearch": 3435,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 3
+        },
+        {
+          "paramCode": "param_11306",
+          "paramName": "B值精度",
+          "paramNameEn": "B Constant Tolerance",
+          "paramValue": "±1%",
+          "paramValueEn": "±1%",
+          "paramValueEnForSearch": -1,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 14
+        }
+      ],
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/b47417260aaa3d0c686cf4901c363d91.pdf?productCode=C5439718"
+    },
+    {
+      "productCode": "C394020",
+      "productId": 372739,
+      "productModel": "MF52B 103F3435-100",
+      "brandNameEn": "Nanjing Shiheng Elec",
+      "stockNumber": 14715,
+      "domesticStockVO": {
+        "total": 14715,
+        "shipImmediately": 14715,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 5,
+      "split": 5,
+      "paramVOList": [
+        {
+          "paramCode": "param_32032_n",
+          "paramName": "高度",
+          "paramNameEn": "Height",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 22
+        },
+        {
+          "paramCode": "param_11304_n",
+          "paramName": "阻值",
+          "paramNameEn": "Resistance @ 25℃",
+          "paramValue": "10kΩ",
+          "paramValueEn": "10kΩ",
+          "paramValueEnForSearch": 10000,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 1
+        },
+        {
+          "paramCode": "param_32031_n",
+          "paramName": "宽度",
+          "paramNameEn": "Width",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 21
+        },
+        {
+          "paramCode": "param_32033_n",
+          "paramName": "脚间距",
+          "paramNameEn": "Pitch",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 23
+        },
+        {
+          "paramCode": "param_11312_s",
+          "paramName": "工作温度",
+          "paramNameEn": "Operating Temperature",
+          "paramValue": "-55℃~+125℃",
+          "paramValueEn": "-55℃~+125℃",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 16
+        },
+        {
+          "paramCode": "param_11311_n",
+          "paramName": "B值(25℃/100℃)",
+          "paramNameEn": "B Constant (25℃/100℃)",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 12
+        },
+        {
+          "paramCode": "param_32030_n",
+          "paramName": "长度",
+          "paramNameEn": "Length",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 20
+        },
+        {
+          "paramCode": "param_11314_n",
+          "paramName": "最大稳态电流(25℃)",
+          "paramNameEn": "Steady State Current (Max)",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 15
+        },
+        {
+          "paramCode": "param_11309_n",
+          "paramName": "B值(25℃/75℃)",
+          "paramNameEn": "B Constant (25℃/75℃)",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 8
+        },
+        {
+          "paramCode": "param_11308_n",
+          "paramName": "B值(25℃/50℃)",
+          "paramNameEn": "B Constant (25℃/50℃)",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 3
+        },
+        {
+          "paramCode": "param_10837_n",
+          "paramName": "功率",
+          "paramNameEn": "Power(Watts)",
+          "paramValue": "50mW",
+          "paramValueEn": "50mW",
+          "paramValueEnForSearch": 0.05,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 9
+        },
+        {
+          "paramCode": "param_32029_n",
+          "paramName": "直径(φD)",
+          "paramNameEn": "Diameter (φD)",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 19
+        },
+        {
+          "paramCode": "param_32028_n",
+          "paramName": "热时间常数",
+          "paramNameEn": "Thermal Time Constant",
+          "paramValue": "7s",
+          "paramValueEn": "7s",
+          "paramValueEnForSearch": 7,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 18
+        },
+        {
+          "paramCode": "param_11310_n",
+          "paramName": "B值(25℃/85℃)",
+          "paramNameEn": "B Constant (25℃/85℃)",
+          "paramValue": "3435K",
+          "paramValueEn": "3435K",
+          "paramValueEnForSearch": 3435,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 10
+        },
+        {
+          "paramCode": "param_11306",
+          "paramName": "B值精度",
+          "paramNameEn": "B Constant Tolerance",
+          "paramValue": "±1%",
+          "paramValueEn": "±1%",
+          "paramValueEnForSearch": -1,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 14
+        }
+      ],
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/567e59bd4ec5388d4fa63cf20bebaac5.pdf?productCode=C394020"
+    },
+    {
+      "productCode": "C79178",
+      "productId": 80315,
+      "productModel": "EVQQ2B03W",
+      "brandNameEn": "PANASONIC",
+      "stockNumber": 9345,
+      "domesticStockVO": {
+        "total": 9345,
+        "shipImmediately": 9345,
+        "ship3Days": 0
+      },
+      "minBuyNumber": 5,
+      "split": 5,
+      "paramVOList": [
+        {
+          "paramCode": "param_13147_n",
+          "paramName": "开关长度",
+          "paramNameEn": "Length",
+          "paramValue": "6.5mm",
+          "paramValueEn": "6.5mm",
+          "paramValueEnForSearch": 6.5,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 21
+        },
+        {
+          "paramCode": "param_13141_nt",
+          "paramName": "作用力",
+          "paramNameEn": "Operating Force",
+          "paramValue": "50gf",
+          "paramValueEn": "50gf",
+          "paramValueEnForSearch": 50.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 11
+        },
+        {
+          "paramCode": "param_13112_n",
+          "paramName": "高度",
+          "paramNameEn": "Height",
+          "paramValue": "3.1mm",
+          "paramValueEn": "3.1mm",
+          "paramValueEnForSearch": 3.1,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 12
+        },
+        {
+          "paramCode": "param_13097_n",
+          "paramName": "额定电压",
+          "paramNameEn": "Voltage Rating",
+          "paramValue": "15V",
+          "paramValueEn": "15V",
+          "paramValueEnForSearch": 15.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 34
+        },
+        {
+          "paramCode": "param_13115_n",
+          "paramName": "工作寿命",
+          "paramNameEn": "Switching Life",
+          "paramValue": "200万次",
+          "paramValueEn": "2,000,000 Cycles",
+          "paramValueEnForSearch": 200.0,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 22
+        },
+        {
+          "paramCode": "param_13116_s",
+          "paramName": "工作温度",
+          "paramNameEn": "Operating Temperature",
+          "paramValue": "-40℃~+85℃",
+          "paramValueEn": "-40℃~+85℃",
+          "paramValueEnForSearch": null,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 31
+        },
+        {
+          "paramCode": "param_13148_n",
+          "paramName": "开关宽度",
+          "paramNameEn": "Width",
+          "paramValue": "6mm",
+          "paramValueEn": "6mm",
+          "paramValueEnForSearch": 6.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 26
+        },
+        {
+          "paramCode": "param_13105",
+          "paramName": "引脚样式",
+          "paramNameEn": "Termination Style",
+          "paramValue": "J型引脚",
+          "paramValueEn": "J-Lead",
+          "paramValueEnForSearch": -1.0,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 45
+        },
+        {
+          "paramCode": "param_13138",
+          "paramName": "按钮形状",
+          "paramNameEn": "Actuator Style",
+          "paramValue": "圆形按钮",
+          "paramValueEn": "Round Button",
+          "paramValueEnForSearch": -1.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 6
+        },
+        {
+          "paramCode": "param_13104",
+          "paramName": "带灯",
+          "paramNameEn": "With Lamp",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": -1.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 43
+        },
+        {
+          "paramCode": "param_13137",
+          "paramName": "安装方式",
+          "paramNameEn": "Mounting Type",
+          "paramValue": "立贴",
+          "paramValueEn": "Surface Mount,Vertical",
+          "paramValueEnForSearch": -1.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 16
+        },
+        {
+          "paramCode": "param_13136",
+          "paramName": "电路结构",
+          "paramNameEn": "Circuit",
+          "paramValue": "单刀单掷",
+          "paramValueEn": "SPST",
+          "paramValueEnForSearch": -1.0,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 1
+        },
+        {
+          "paramCode": "param_13107",
+          "paramName": "防护等级",
+          "paramNameEn": "IP Rating",
+          "paramValue": "-",
+          "paramValueEn": "-",
+          "paramValueEnForSearch": -1.0,
+          "isMain": false,
+          "sortNumber": 1,
+          "sort": 18
+        },
+        {
+          "paramCode": "param_13095_n",
+          "paramName": "触点电流",
+          "paramNameEn": "Contact Current",
+          "paramValue": "20mA",
+          "paramValueEn": "20mA",
+          "paramValueEnForSearch": 0.02,
+          "isMain": true,
+          "sortNumber": 1,
+          "sort": 28
+        }
+      ],
+      "pdfUrl": "https://datasheet.lcsc.com/datasheet/pdf/7a0a047f65f246fb8b2f85dca3a3eb7b.pdf?productCode=C79178"
+    }
+  ]
+}
