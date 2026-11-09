@@ -2,18 +2,32 @@
 """Three-window BLE viewer for the R26 smart pen. --demo needs no hardware."""
 import argparse
 import asyncio
+import base64
+import io
 import math
 import queue
 import time
 import tkinter as tk
-from tkinter import ttk
+from pathlib import Path
+from tkinter import filedialog, ttk
 from pen_protocol import (StrokeState, rotation, transpose, multiply, apply, charger_text,
                           adc_fresh, gsr_display_valid)
 from ble_transport import BleWorker, discover_pens
-from trace_view import TraceView, EventRate
+from trace_view import (TraceView, EventRate, background_window_plan, centered_box,
+                        window_origin)
 from gsr_diagnostic import GsrDiagnostics
 from stream_stats import StreamStats
 from trace_filter import MODES
+
+def _pil_resample():
+    from PIL import Image
+    return getattr(getattr(Image, 'Resampling', Image), 'LANCZOS')
+
+def _photo_from_image(master, image):
+    """Tk photo without PIL.ImageTk, which is absent on some Linux Pillow builds."""
+    buffer = io.BytesIO()
+    image.save(buffer, format='PNG')
+    return tk.PhotoImage(data=base64.b64encode(buffer.getvalue()), master=master)
 
 BACKGROUND = '#f5f7fa'
 INK = '#235f9d'
@@ -73,6 +87,11 @@ class PenApp:
         self.swap_xy = tk.BooleanVar(value=False)
         self.auto_fit = tk.BooleanVar(value=True)
         self.pose_mode = tk.StringVar(value='传感器参考坐标')
+        self.background_text = tk.StringVar(value='未设置')
+        self._bg_source = None
+        self._bg_photo = None
+        self._bg_layout_lock = False
+        self._bg_canvas_size = None
         self.battery_text = tk.StringVar(value='— V')
         self.charge_text = tk.StringVar(value='等待 BLE 数据')
         self.gsr_text = tk.StringVar(value='— mV')
@@ -107,8 +126,12 @@ class PenApp:
         ttk.Button(row, text='连接', command=self.connect).pack(side='left', padx=3)
         ttk.Button(row, text='断开', command=self.disconnect).pack(side='left', padx=3)
         row = ttk.Frame(header); row.pack(fill='x', pady=(10, 0))
+        self.auto_fit_check = None
         for label, var in [('自动缩放', self.auto_fit), ('交换XY', self.swap_xy), ('反转X', self.flip_x), ('反转Y', self.flip_y)]:
-            ttk.Checkbutton(row, text=label, variable=var).pack(side='left', padx=(0, 8))
+            widget = ttk.Checkbutton(row, text=label, variable=var)
+            widget.pack(side='left', padx=(0, 8))
+            if var is self.auto_fit:
+                self.auto_fit_check = widget
         ttk.Button(row, text='重试传感器', command=self.retry_sensors).pack(side='right')
         self.clear_trace_button = ttk.Button(row, text='清空轨迹', command=self.clear_trace)
         self.clear_trace_button.pack(side='right', padx=4)
@@ -118,8 +141,16 @@ class PenApp:
         selector.pack(side='left')
         selector.bind('<<ComboboxSelected>>', lambda _event: self.change_smoothing())
         ttk.Label(row, text='关闭可查看原始轨迹；平滑不跨越抬笔或丢包缺口').pack(side='left', padx=8)
+        row = ttk.Frame(header); row.pack(fill='x', pady=(8, 0))
+        ttk.Label(row, text='画板背景：').pack(side='left')
+        ttk.Button(row, text='选择图片', command=self.choose_background).pack(side='left', padx=(4, 0))
+        self.clear_background_button = ttk.Button(row, text='清除背景', command=self.clear_background)
+        self.clear_background_button.pack(side='left', padx=4)
+        self.clear_background_button.state(['disabled'])
+        ttk.Label(row, textvariable=self.background_text).pack(side='left', padx=4)
         self.canvas = tk.Canvas(self.root, height=1, bg='white', highlightthickness=1, highlightbackground='#dce3eb')
         self.canvas.pack(fill='both', expand=True, padx=18)
+        self.canvas.bind('<Configure>', self._on_canvas_configure)
         foot = ttk.Frame(self.root, padding=(18, 12)); foot.pack(fill='x')
         ttk.Label(foot, textvariable=self.status_text, wraplength=670).pack(anchor='w')
         ttk.Label(foot, textvariable=self.measure_text, wraplength=670).pack(anchor='w', pady=(5, 0))
@@ -216,6 +247,102 @@ class PenApp:
     def clear_trace(self):
         self.state.clear_trace()
         self.draw_trace()
+
+    def choose_background(self):
+        path = filedialog.askopenfilename(
+            parent=self.root, title='选择画板背景图片',
+            filetypes=[('图片', '*.png *.jpg *.jpeg *.bmp *.gif *.webp *.tif *.tiff'),
+                       ('所有文件', '*.*')])
+        if path:
+            self.load_background(path)
+
+    def load_background(self, path):
+        try:
+            from PIL import Image, ImageOps
+            image = ImageOps.exif_transpose(Image.open(path))
+            image.load()
+            image = image.convert('RGBA')
+        except Exception as exc:
+            self.set_status(f'背景图片无法打开：{exc}')
+            return
+        self.set_background_image(image, Path(path).name)
+
+    def set_background_image(self, image, name='背景'):
+        if image.width < 1 or image.height < 1:
+            self.set_status('背景图片尺寸无效。')
+            return
+        self._bg_source = image.convert('RGBA') if image.mode != 'RGBA' else image.copy()
+        shown = name if len(name) <= 32 else name[:14] + '…' + name[-14:]
+        self.background_text.set(shown)
+        self._fit_background_window()
+        self._render_background()
+        if self.auto_fit_check is not None:
+            self.auto_fit_check.state(['disabled'])
+        self.clear_background_button.state(['!disabled'])
+        self.set_status(f'已附加背景 {shown}。光标限制在图片范围内。')
+
+    def clear_background(self):
+        if self._bg_source is None and self.trace_view.background_box is None:
+            return
+        self._bg_source = None
+        self._bg_photo = None
+        self._bg_canvas_size = None
+        self.background_text.set('未设置')
+        self.trace_view.set_background(None, None)
+        if self.auto_fit_check is not None:
+            self.auto_fit_check.state(['!disabled'])
+        self.clear_background_button.state(['disabled'])
+        self.draw_trace()
+        self.set_status('已清除背景。')
+
+    def _fit_background_window(self):
+        image = self._bg_source
+        if image is None:
+            return
+        self._bg_layout_lock = True
+        try:
+            self.root.update_idletasks()
+            if self.canvas.winfo_width() < 20 or self.canvas.winfo_height() < 20:
+                self.root.update()
+            screen_w = self.root.winfo_screenwidth()
+            screen_h = self.root.winfo_screenheight()
+            plan = background_window_plan(
+                image.width, image.height,
+                self.root.winfo_width() - self.canvas.winfo_width(),
+                self.root.winfo_height() - self.canvas.winfo_height(),
+                screen_w, screen_h, self.root.winfo_width(), self.root.winfo_height())
+            new_w, new_h = plan['window']
+            x, y = window_origin(self.root.winfo_x(), self.root.winfo_y(), new_w, new_h, screen_w, screen_h)
+            self.root.geometry(f'{int(new_w)}x{int(new_h)}+{int(x)}+{int(y)}')
+            self.root.update()
+        finally:
+            self._bg_layout_lock = False
+
+    def _render_background(self):
+        image = self._bg_source
+        if image is None or self._bg_layout_lock:
+            return
+        self._bg_layout_lock = True
+        try:
+            canvas_w = max(1, self.canvas.winfo_width())
+            canvas_h = max(1, self.canvas.winfo_height())
+            box, _scale = centered_box(canvas_w, canvas_h, image.width, image.height)
+            show_w, show_h = box[2] - box[0], box[3] - box[1]
+            shown = image if image.size == (show_w, show_h) else image.resize((show_w, show_h), _pil_resample())
+            self._bg_photo = _photo_from_image(self.root, shown)
+            self._bg_canvas_size = (canvas_w, canvas_h)
+            self.trace_view.set_background(self._bg_photo, box)
+            self.draw_trace()
+        finally:
+            self._bg_layout_lock = False
+
+    def _on_canvas_configure(self, event):
+        if self._bg_source is None or self._bg_layout_lock:
+            return
+        size = (int(event.width), int(event.height))
+        if size[0] < 2 or size[1] < 2 or size == self._bg_canvas_size:
+            return
+        self._render_background()
 
     def clear_gsr(self):
         self.state.gsr_history.clear()
