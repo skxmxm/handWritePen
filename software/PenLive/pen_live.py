@@ -15,6 +15,7 @@ from pen_protocol import (StrokeState, rotation, transpose, multiply, apply, cha
 from ble_transport import BleWorker, discover_pens
 from trace_view import (TraceView, EventRate, background_window_plan, centered_box,
                         window_origin)
+from grip_calibration import last_ink_stroke, line_angle
 from gsr_diagnostic import GsrDiagnostics
 from stream_stats import StreamStats
 from trace_filter import MODES
@@ -101,8 +102,14 @@ class PenApp:
         self.gsr_footer = tk.StringVar(value='连接后连续采集；USB 接入时关闭激励。未标定为皮肤电导。')
         self.diagnostic_text = tk.StringVar(value='尚无故障记录')
         self.copy_text = tk.StringVar(value='复制诊断')
+        self.grip_text = tk.StringVar(value='未校正')
+        self.grip_calibrating = False
+        self.grip_set = False
+        self._grip_seen_serial = -1
         self.make_ui()
         self.trace_view = TraceView(self.canvas)
+        for variable in (self.flip_x, self.flip_y, self.swap_xy):
+            variable.trace_add('write', self._grip_frame_changed)
         self.root.after(16, self.tick)
         if address and not demo:
             self.root.after(200, self.connect)
@@ -148,6 +155,14 @@ class PenApp:
         self.clear_background_button.pack(side='left', padx=4)
         self.clear_background_button.state(['disabled'])
         ttk.Label(row, textvariable=self.background_text).pack(side='left', padx=4)
+        row = ttk.Frame(header); row.pack(fill='x', pady=(8, 0))
+        ttk.Label(row, text='握笔校正：').pack(side='left')
+        self.grip_button = ttk.Button(row, text='开始校正', command=self.toggle_grip_calibration)
+        self.grip_button.pack(side='left', padx=(4, 0))
+        self.clear_grip_button = ttk.Button(row, text='清除校正', command=self.clear_grip)
+        self.clear_grip_button.pack(side='left', padx=4)
+        self.clear_grip_button.state(['disabled'])
+        ttk.Label(row, textvariable=self.grip_text).pack(side='left', padx=4)
         self.canvas = tk.Canvas(self.root, height=1, bg='white', highlightthickness=1, highlightbackground='#dce3eb')
         self.canvas.pack(fill='both', expand=True, padx=18)
         self.canvas.bind('<Configure>', self._on_canvas_configure)
@@ -219,6 +234,9 @@ class PenApp:
         self.stream_stats = StreamStats()
         self.optical_support = None
         self.optical_error = ''
+        self.grip_calibrating = False
+        self.trace_view.grip_waiting = False
+        self.grip_button.configure(text='开始校正')
         self.demo = False
         self.set_status('已断开，画板已清空。')
 
@@ -246,6 +264,79 @@ class PenApp:
 
     def clear_trace(self):
         self.state.clear_trace()
+        self.draw_trace()
+
+    def toggle_grip_calibration(self):
+        if self.grip_calibrating:
+            self.grip_calibrating = False
+            self.trace_view.grip_waiting = False
+            self.grip_button.configure(text='开始校正')
+            self.set_status('已取消握笔校正。')
+            self.draw_trace()
+            return
+        self.grip_calibrating = True
+        self.trace_view.grip_waiting = True
+        self._grip_seen_serial = self.state.point_serial
+        self.grip_button.configure(text='取消校正')
+        self.grip_text.set('请从左向右画一条横线')
+        self.set_status('握笔校正：按住笔尖，从左向右画一条横线，松开后计算偏移角。')
+        self.draw_trace()
+
+    def clear_grip(self):
+        self.grip_calibrating = False
+        self.grip_set = False
+        self.trace_view.grip_waiting = False
+        self.trace_view.set_grip_angle(0.0)
+        self.grip_button.configure(text='开始校正')
+        self.clear_grip_button.state(['disabled'])
+        self.grip_text.set('未校正')
+        self.set_status('已清除握笔校正。')
+        self.draw_trace()
+
+    def _grip_frame_changed(self, *_args):
+        if not self.grip_set and not self.grip_calibrating:
+            return
+        self.grip_calibrating = False
+        self.grip_set = False
+        self.trace_view.grip_waiting = False
+        self.trace_view.set_grip_angle(0.0)
+        self.grip_button.configure(text='开始校正')
+        self.clear_grip_button.state(['disabled'])
+        self.grip_text.set('坐标方向已改变，请重新校正')
+        self.set_status('交换或反转坐标后，握笔校正已清除，请重新画一条横线。')
+
+    def _orient_counts(self, point):
+        x, y = point
+        if self.swap_xy.get():
+            x, y = y, x
+        if self.flip_x.get():
+            x = -x
+        if self.flip_y.get():
+            y = -y
+        return (x, y)
+
+    def _observe_grip(self):
+        if not self.grip_calibrating or self.state.active:
+            return
+        if self.state.point_serial == self._grip_seen_serial:
+            return
+        stroke, released = last_ink_stroke(self.state.raw_records)
+        if not stroke or not released:
+            return
+        self._grip_seen_serial = self.state.point_serial
+        angle = line_angle(self._orient_counts(stroke[0]), self._orient_counts(stroke[-1]))
+        if angle is None:
+            self.grip_text.set('横线太短，请再画一条')
+            self.set_status('这条横线太短。请按住笔尖，从左向右再画一条更长的横线。')
+            return
+        self.grip_calibrating = False
+        self.grip_set = True
+        self.trace_view.grip_waiting = False
+        self.trace_view.set_grip_angle(angle)
+        self.grip_button.configure(text='开始校正')
+        self.clear_grip_button.state(['!disabled'])
+        self.grip_text.set(f'已校正 {math.degrees(angle):+.1f}°')
+        self.set_status(f'握笔校正完成，偏移 {math.degrees(angle):+.1f}°。之后的光标按这个角度旋转。')
         self.draw_trace()
 
     def choose_background(self):
@@ -362,6 +453,10 @@ class PenApp:
             text += '。未找到新版轨迹通道，请重新烧录并重连。'
         elif not self.state.cursor_valid:
             text += '。等待有效轨迹数据。'
+        if self.grip_calibrating:
+            text = '请从左向右画一条横线，松开笔尖后完成校正。' + text
+        elif self.grip_set:
+            text += f'。握笔校正 {math.degrees(self.trace_view.grip_angle):+.1f}°'
         return text
 
     def zero_pose(self):
@@ -438,6 +533,7 @@ class PenApp:
                     self.state.link_lost()
                     self.rx_rate = EventRate()
                     self.set_status(value)
+        self._observe_grip()
         had_data = bool(self.state.status)
         self.state.expire(now)
         if had_data and not self.state.status:

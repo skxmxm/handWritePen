@@ -1,5 +1,7 @@
 """Incremental Tk trace rendering. Keeps original samples; no invented positions."""
+import math
 from collections import deque
+from grip_calibration import rotate_point
 
 def contain_size(img_w, img_h, bounds_w, bounds_h):
     """Largest size that shows the whole image inside the bounds, never upscaling."""
@@ -68,12 +70,17 @@ class TraceView:
         self.background = None
         self.background_box = None
         self.background_epoch = 0
+        self.grip_angle = 0.0
+        self.grip_waiting = False
 
     def set_background(self, photo, box):
         """Show photo inside box=(x0, y0, x1, y1). None clears it and releases the cursor."""
         self.background = photo
         self.background_box = tuple(int(v) for v in box) if box else None
         self.background_epoch += 1
+
+    def set_grip_angle(self, angle):
+        self.grip_angle = float(angle)
 
     def project(self, point):
         x = self.w/2+(point[0]-self.cx)*self.scale
@@ -141,7 +148,8 @@ class TraceView:
         c = self.canvas
         self.w, self.h = max(c.winfo_width(), 1), max(c.winfo_height(), 1)
         key = (id(state), state.boot, state.trace_generation, self.w, self.h,
-               auto, swap, flip_x, flip_y, self.background_epoch, self.background_box)
+               auto, swap, flip_x, flip_y, self.background_epoch, self.background_box,
+               self.grip_angle, self.grip_waiting)
         changed = key != self.key or state.point_serial < self.processed
         if changed:
             self.key = key
@@ -175,7 +183,7 @@ class TraceView:
             if p is None:return None
             x,y = p
             if swap:x,y=y,x
-            return (-x if flip_x else x, -y if flip_y else y)
+            return rotate_point((-x if flip_x else x, -y if flip_y else y), self.grip_angle)
 
         count = min(state.point_serial-self.processed,len(state.points))
         # Index from the deque tail: work is proportional to newly received points.
@@ -218,7 +226,9 @@ class TraceView:
                             outline='' if state.active else '#687d90')
         else:
             c.itemconfigure(self.dot,state='hidden')
-        if self.bounds is not None:
+        if self.grip_waiting and self.bounds is None:
+            hint = '从左向右画一条横线，松开笔尖完成握笔校正。'
+        elif self.bounds is not None:
             hint = ''
         elif self.background_box:
             hint = '背景已固定。落笔画线，抬笔移动；光标保持在图片内。'
@@ -227,7 +237,8 @@ class TraceView:
         c.itemconfigure(self.hint,text=hint)
         mode = '落笔' if state.active else '抬笔（不画线）'
         position = f'X {state.latest_xy[0]}   Y {state.latest_xy[1]}' if state.cursor_valid else '位置暂不可用'
-        c.itemconfigure(self.label,text=f'{mode}   {position}   单位：计数')
+        extra = f'   校正 {math.degrees(self.grip_angle):+.1f}°' if self.grip_angle else ''
+        c.itemconfigure(self.label,text=f'{mode}   {position}   单位：计数{extra}')
         if self.background_box:
             c.tag_lower('background')
         c.tag_raise(self.dot)
